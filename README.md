@@ -1,0 +1,1 @@
+Sirivennela font is a script styled Telugu Unicode font. This is mainly meant for headings and sub headings. But one can use this font for paragraphs also upto certain point size. This font was developed and named after the famous late Sirivennela Seetharama Shastry, a renowned lyricist in Telugu Film Industry.
