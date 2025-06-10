@@ -1,0 +1,2763 @@
+#> classes
+#/> otclasses
+@abvs = [uni0C15_uni0C4D.blwf uni0C1A_uni0C4D.blwf uni0C1B_uni0C4D.blwf uni0C28_uni0C4D.blwf uni0C2A_uni0C4D.blwf uni0C2B_uni0C4D.blwf uni0C2C_uni0C4D.blwf uni0C2D_uni0C4D.blwf uni0C2E_uni0C4D.blwf uni0C2F_uni0C4D.blwf uni0C30_uni0C4D.blwf uni0C33_uni0C4D.blwf uni0C35_uni0C4D.blwf uni0C36_uni0C4D.blwf uni0C38_uni0C4D.blwf];
+@blws = [uni0C15_uni0C4D.blwf uni0C16_uni0C4D.blwf uni0C17_uni0C4D.blwf uni0C18_uni0C4D.blwf uni0C19_uni0C4D.blwf uni0C1A_uni0C4D.blwf uni0C1B_uni0C4D.blwf uni0C1C_uni0C4D.blwf uni0C1D_uni0C4D.blwf uni0C1E_uni0C4D.blwf uni0C1F_uni0C4D.blwf uni0C20_uni0C4D.blwf uni0C21_uni0C4D.blwf uni0C22_uni0C4D.blwf uni0C23_uni0C4D.blwf uni0C24_uni0C4D.blwf uni0C25_uni0C4D.blwf uni0C26_uni0C4D.blwf uni0C27_uni0C4D.blwf uni0C28_uni0C4D.blwf uni0C2A_uni0C4D.blwf uni0C2B_uni0C4D.blwf uni0C2C_uni0C4D.blwf uni0C2D_uni0C4D.blwf uni0C2E_uni0C4D.blwf uni0C2F_uni0C4D.blwf uni0C30_uni0C4D.blwf uni0C31_uni0C4D.blwf uni0C32_uni0C4D.blwf uni0C33_uni0C4D.blwf uni0C35_uni0C4D.blwf uni0C36_uni0C4D.blwf uni0C37_uni0C4D.blwf uni0C38_uni0C4D.blwf uni0C39_uni0C4D.blwf uni0C15_uni0C4D.blwf_uni0C37_un uni0C34_uni0C4D.blwf uni0C5A_uni0C4D.blwf uni0C24_uni0C4D.blwf_uni0C30_un uni0C1F_uni0C4D.blwf_uni0C30_un];
+@blws2 = [uni0C15_uni0C4D.blwf uni0C16_uni0C4D.blwf uni0C17_uni0C4D.blwf uni0C18_uni0C4D.blwf uni0C19_uni0C4D.blwf uni0C1A_uni0C4D.blwf uni0C1B_uni0C4D.blwf uni0C1C_uni0C4D.blwf uni0C1D_uni0C4D.blwf uni0C1E_uni0C4D.blwf uni0C1F_uni0C4D.blwf uni0C20_uni0C4D.blwf uni0C21_uni0C4D.blwf uni0C22_uni0C4D.blwf uni0C23_uni0C4D.blwf uni0C24_uni0C4D.blwf uni0C25_uni0C4D.blwf uni0C26_uni0C4D.blwf uni0C27_uni0C4D.blwf uni0C28_uni0C4D.blwf uni0C2A_uni0C4D.blwf uni0C2B_uni0C4D.blwf uni0C2C_uni0C4D.blwf uni0C2D_uni0C4D.blwf uni0C2E_uni0C4D.blwf uni0C2F_uni0C4D.blwf uni0C30_uni0C4D.blwf uni0C31_uni0C4D.blwf uni0C32_uni0C4D.blwf uni0C33_uni0C4D.blwf uni0C35_uni0C4D.blwf uni0C36_uni0C4D.blwf uni0C37_uni0C4D.blwf uni0C38_uni0C4D.blwf uni0C39_uni0C4D.blwf uni0C15_uni0C4D.blwf_uni0C37_un];
+@blws3 = [uni0C16_uni0C4D.blwf uni0C17_uni0C4D.blwf uni0C18_uni0C4D.blwf uni0C19_uni0C4D.blwf uni0C1A_uni0C4D.blwf uni0C1B_uni0C4D.blwf uni0C1C_uni0C4D.blwf uni0C1D_uni0C4D.blwf uni0C1E_uni0C4D.blwf uni0C1F_uni0C4D.blwf uni0C20_uni0C4D.blwf uni0C21_uni0C4D.blwf uni0C22_uni0C4D.blwf uni0C23_uni0C4D.blwf uni0C24_uni0C4D.blwf uni0C25_uni0C4D.blwf uni0C26_uni0C4D.blwf uni0C27_uni0C4D.blwf uni0C2C_uni0C4D.blwf uni0C2D_uni0C4D.blwf uni0C31_uni0C4D.blwf uni0C32_uni0C4D.blwf uni0C37_uni0C4D.blwf uni0C39_uni0C4D.blwf uni0C15_uni0C4D.blwf_uni0C37_un uni0C34_uni0C4D.blwf uni0C5A_uni0C4D.blwf uni0C24_uni0C4D.blwf_uni0C30_un uni0C1F_uni0C4D.blwf_uni0C30_un];
+@blws4 = [uni0C15_uni0C4D.blwf uni0C16_uni0C4D.blwf uni0C17_uni0C4D.blwf uni0C18_uni0C4D.blwf uni0C19_uni0C4D.blwf uni0C1A_uni0C4D.blwf uni0C1B_uni0C4D.blwf uni0C1C_uni0C4D.blwf uni0C1D_uni0C4D.blwf uni0C1E_uni0C4D.blwf uni0C1F_uni0C4D.blwf uni0C20_uni0C4D.blwf uni0C21_uni0C4D.blwf uni0C22_uni0C4D.blwf uni0C23_uni0C4D.blwf uni0C24_uni0C4D.blwf uni0C25_uni0C4D.blwf uni0C26_uni0C4D.blwf uni0C27_uni0C4D.blwf uni0C28_uni0C4D.blwf uni0C2A_uni0C4D.blwf uni0C2B_uni0C4D.blwf uni0C2C_uni0C4D.blwf uni0C2D_uni0C4D.blwf uni0C2E_uni0C4D.blwf uni0C2F_uni0C4D.blwf uni0C30_uni0C4D.blwf uni0C31_uni0C4D.blwf uni0C32_uni0C4D.blwf uni0C33_uni0C4D.blwf uni0C35_uni0C4D.blwf uni0C36_uni0C4D.blwf uni0C37_uni0C4D.blwf uni0C38_uni0C4D.blwf uni0C39_uni0C4D.blwf uni0C15_uni0C4D.blwf_uni0C37_un uni0C34_uni0C4D.blwf uni0C5A_uni0C4D.blwf uni0C24_uni0C4D.blwf_uni0C30_un uni0C1F_uni0C4D.blwf_uni0C30_un glyph709 glyph710 glyph711 glyph712 glyph713 glyph714 glyph715 glyph716 glyph717 glyph718 glyph719 glyph720 glyph721 glyph722 glyph723 glyph724 glyph725 glyph726 glyph727 glyph728 glyph729 glyph730 glyph731 glyph732 glyph733 glyph734 glyph735 glyph736 glyph737 glyph738 glyph739 glyph740 glyph741 glyph742 glyph743 glyph744];
+@blws_haln = [glyph709 glyph710 glyph711 glyph712 glyph713 glyph714 glyph715 glyph716 glyph717 glyph718 glyph719 glyph720 glyph721 glyph722 glyph723 glyph724 glyph725 glyph726 glyph727 glyph728 glyph729 glyph730 glyph731 glyph732 glyph733 glyph734 glyph735 glyph736 glyph737 glyph738 glyph739 glyph740 glyph741 glyph742 glyph743 glyph744];
+@haln = [uni0C15 uni0C16 uni0C17 uni0C18 uni0C19 uni0C1A uni0C1B uni0C1C uni0C1D uni0C1E uni0C1F uni0C20 uni0C21 uni0C22 uni0C23 uni0C24 uni0C25 uni0C26 uni0C27 uni0C28 uni0C2A uni0C2B uni0C2C uni0C2D uni0C2E uni0C2F uni0C30 uni0C31 uni0C32 uni0C33 uni0C34 uni0C35 uni0C36 uni0C37 uni0C38 uni0C39 uni0C5A uni0C15_uni0C37_uni0C4D.akhn];
+@haln2 = [uni0C15 uni0C16 uni0C17 uni0C18 uni0C19 uni0C1A uni0C1B uni0C1C uni0C1D uni0C1E uni0C1F uni0C20 uni0C21 uni0C22 uni0C23 uni0C24 uni0C25 uni0C26 uni0C27 uni0C28 uni0C2A uni0C2B uni0C2C uni0C2D uni0C2E uni0C2F uni0C30 uni0C31 uni0C32 uni0C33 uni0C35 uni0C36 uni0C37 uni0C38 uni0C39 uni0C15_uni0C37_uni0C4D.akhn];
+@haln3 = [uni0C15_uni0C4D.abvs uni0C16_uni0C4D.abvs uni0C17_uni0C4D.abvs uni0C18_uni0C4D.abvs uni0C19_uni0C4D.abvs uni0C1A_uni0C4D.abvs uni0C1B_uni0C4D.abvs uni0C1C_uni0C4D.abvs uni0C1D_uni0C4D.abvs uni0C1E_uni0C4D.abvs uni0C1F_uni0C4D.abvs uni0C20_uni0C4D.abvs uni0C21_uni0C4D.abvs uni0C22_uni0C4D.abvs uni0C23_uni0C4D.abvs uni0C24_uni0C4D.abvs uni0C25_uni0C4D.abvs uni0C26_uni0C4D.abvs uni0C27_uni0C4D.abvs uni0C28_uni0C4D.abvs uni0C2A_uni0C4D.abvs uni0C2B_uni0C4D.abvs uni0C2C_uni0C4D.abvs uni0C2D_uni0C4D.abvs uni0C2E_uni0C4D.abvs uni0C2F_uni0C4D.abvs uni0C30_uni0C4D.abvs uni0C31_uni0C4D.abvs uni0C32_uni0C4D.abvs uni0C33_uni0C4D.abvs uni0C35_uni0C4D.abvs uni0C36_uni0C4D.abvs uni0C37_uni0C4D.abvs uni0C38_uni0C4D.abvs uni0C39_uni0C4D.abvs uni0C15_uni0C37_uni0C4D.akhn_un];
+@haln4 = [uni0C15_uni0C4D.blwf uni0C16_uni0C4D.blwf uni0C17_uni0C4D.blwf uni0C18_uni0C4D.blwf uni0C19_uni0C4D.blwf uni0C1A_uni0C4D.blwf uni0C1B_uni0C4D.blwf uni0C1C_uni0C4D.blwf uni0C1D_uni0C4D.blwf uni0C1E_uni0C4D.blwf uni0C1F_uni0C4D.blwf uni0C20_uni0C4D.blwf uni0C21_uni0C4D.blwf uni0C22_uni0C4D.blwf uni0C23_uni0C4D.blwf uni0C24_uni0C4D.blwf uni0C25_uni0C4D.blwf uni0C26_uni0C4D.blwf uni0C27_uni0C4D.blwf uni0C28_uni0C4D.blwf uni0C2A_uni0C4D.blwf uni0C2B_uni0C4D.blwf uni0C2C_uni0C4D.blwf uni0C2D_uni0C4D.blwf uni0C2E_uni0C4D.blwf uni0C2F_uni0C4D.blwf uni0C31_uni0C4D.blwf uni0C32_uni0C4D.blwf uni0C33_uni0C4D.blwf uni0C35_uni0C4D.blwf uni0C36_uni0C4D.blwf uni0C37_uni0C4D.blwf uni0C38_uni0C4D.blwf uni0C39_uni0C4D.blwf uni0C15_uni0C4D.blwf_uni0C37_un uni0C34_uni0C4D.blwf uni0C5A_uni0C4D.blwf uni0C24_uni0C4D.blwf_uni0C30_un uni0C1F_uni0C4D.blwf_uni0C30_un];
+#/< otclasses
+#< classes
+
+###
+# OpenType Layout feature definitions
+# Format: Adobe FDK for OpenType (AFDKO) version 2.5
+# Generated on: 2025-6-10 23:25
+# Generated by: FontLab 8.0.0
+# Font PostScript name: Sirivennela
+# Font copyright: Copyright (c) 2021, Appaji Ambarisha Darbha, Hyderabad, INDIA.
+#
+# Totals:
+# Languagesystems: 2
+# GSUB lookups: 339
+# GSUB features: 7 (abvs, akhn, blwf, blws, haln, psts, ss01)
+# GPOS lookups: 5
+# GPOS features: 1 (blwm)
+
+#
+# Languagesystem definitions
+#
+
+languagesystem DFLT dflt; # Default default
+languagesystem telu dflt; # Telugu default
+
+#
+# Lookup definitions
+#
+
+lookup blws_telu_12 {
+# GSUB lookup 17, type 11 (Single)
+  sub @blws2 by @blws_haln;
+} blws_telu_12;
+
+lookup haln_telu_2 {
+# GSUB lookup 18, type 11 (Single)
+  sub @haln2 by @haln3;
+} haln_telu_2;
+
+
+#
+# Feature definitions
+#
+
+feature akhn {
+# GSUB feature: Akhand
+# Lookups: 1
+
+  script telu; # Telugu
+  sub uni0C15 uni0C46 uni0C56 uni0C37 uni0C4D by uni0C15_uni0C46_uni0C56_uni0C37;
+  sub uni0C15 uni0C4B uni0C37 uni0C4D by uni0C15_uni0C4B_uni0C37_uni0C4D;
+  sub uni0C15 uni0C4A uni0C37 uni0C4D by uni0C15_uni0C4A_uni0C37_uni0C4D;
+  sub uni0C15 uni0C4C uni0C37 uni0C4D by uni0C15_uni0C4C_uni0C37_uni0C4D;
+  sub uni0C15 uni0C47 uni0C37 uni0C4D by uni0C15_uni0C47_uni0C37_uni0C4D;
+  sub uni0C15 uni0C46 uni0C37 uni0C4D by uni0C15_uni0C46_uni0C37_uni0C4D;
+  sub uni0C15 uni0C42 uni0C37 uni0C4D by uni0C15_uni0C42_uni0C37_uni0C4D;
+  sub uni0C15 uni0C41 uni0C37 uni0C4D by uni0C15_uni0C41_uni0C37_uni0C4D;
+  sub uni0C15 uni0C40 uni0C37 uni0C4D by uni0C15_uni0C40_uni0C37_uni0C4D;
+  sub uni0C15 uni0C3F uni0C37 uni0C4D by uni0C15_uni0C3F_uni0C37_uni0C4D;
+  sub uni0C15 uni0C3E uni0C37 uni0C4D by uni0C15_uni0C3E_uni0C37_uni0C4D;
+  sub uni0C15 uni0C37 uni0C4D by uni0C15_uni0C37_uni0C4D.akhn;
+
+} akhn;
+
+feature blwf {
+# GSUB feature: Below-base Forms
+# Lookups: 2
+
+  script telu; # Telugu
+  sub uni0C15 uni0C4D by uni0C15_uni0C4D.blwf;
+  sub uni0C16 uni0C4D by uni0C16_uni0C4D.blwf;
+  sub uni0C17 uni0C4D by uni0C17_uni0C4D.blwf;
+  sub uni0C18 uni0C4D by uni0C18_uni0C4D.blwf;
+  sub uni0C19 uni0C4D by uni0C19_uni0C4D.blwf;
+  sub uni0C1A uni0C4D by uni0C1A_uni0C4D.blwf;
+  sub uni0C1B uni0C4D by uni0C1B_uni0C4D.blwf;
+  sub uni0C1C uni0C4D by uni0C1C_uni0C4D.blwf;
+  sub uni0C1D uni0C4D by uni0C1D_uni0C4D.blwf;
+  sub uni0C1E uni0C4D by uni0C1E_uni0C4D.blwf;
+  sub uni0C1F uni0C4D by uni0C1F_uni0C4D.blwf;
+  sub uni0C20 uni0C4D by uni0C20_uni0C4D.blwf;
+  sub uni0C21 uni0C4D by uni0C21_uni0C4D.blwf;
+  sub uni0C22 uni0C4D by uni0C22_uni0C4D.blwf;
+  sub uni0C23 uni0C4D by uni0C23_uni0C4D.blwf;
+  sub uni0C24 uni0C4D by uni0C24_uni0C4D.blwf;
+  sub uni0C25 uni0C4D by uni0C25_uni0C4D.blwf;
+  sub uni0C26 uni0C4D by uni0C26_uni0C4D.blwf;
+  sub uni0C27 uni0C4D by uni0C27_uni0C4D.blwf;
+  sub uni0C28 uni0C4D by uni0C28_uni0C4D.blwf;
+  sub uni0C2A uni0C4D by uni0C2A_uni0C4D.blwf;
+  sub uni0C2B uni0C4D by uni0C2B_uni0C4D.blwf;
+  sub uni0C2C uni0C4D by uni0C2C_uni0C4D.blwf;
+  sub uni0C2D uni0C4D by uni0C2D_uni0C4D.blwf;
+  sub uni0C2E uni0C4D by uni0C2E_uni0C4D.blwf;
+  sub uni0C2F uni0C4D by uni0C2F_uni0C4D.blwf;
+  sub uni0C30 uni0C4D by uni0C30_uni0C4D.blwf;
+  sub uni0C31 uni0C4D by uni0C31_uni0C4D.blwf;
+  sub uni0C32 uni0C4D by uni0C32_uni0C4D.blwf;
+  sub uni0C33 uni0C4D by uni0C33_uni0C4D.blwf;
+  sub uni0C34 uni0C4D by uni0C34_uni0C4D.blwf;
+  sub uni0C35 uni0C4D by uni0C35_uni0C4D.blwf;
+  sub uni0C36 uni0C4D by uni0C36_uni0C4D.blwf;
+  sub uni0C37 uni0C4D by uni0C37_uni0C4D.blwf;
+  sub uni0C38 uni0C4D by uni0C38_uni0C4D.blwf;
+  sub uni0C39 uni0C4D by uni0C39_uni0C4D.blwf;
+  sub uni0C58 uni0C4D by uni0C58_uni0C4D.blwf;
+  sub uni0C5A uni0C4D by uni0C5A_uni0C4D.blwf;
+  sub uni0C56 uni0C32_uni0C4D.blwf by uni0C56_uni0C32_uni0C4D.blwf.bl;
+  sub uni0C56 uni0C24_uni0C4D.blwf by uni0C56_uni0C24_uni0C4D.blwf.bl;
+  sub uni0C15_uni0C4D.blwf uni0C43 by glyph1244;
+  sub uni0C15_uni0C4D.blwf uni0C37_uni0C4D.blwf by uni0C15_uni0C4D.blwf_uni0C37_un;
+  sub uni0C19_uni0C4D.blwf uni0C17_uni0C4D.blwf by uni0C19_uni0C4D.blwf_uni0C17_un;
+  sub uni0C1A_uni0C4D.blwf glyph734 by glyph1284;
+  sub uni0C1A_uni0C4D.blwf glyph1217 by glyph1248;
+  sub uni0C1F_uni0C4D.blwf uni0C32_uni0C4D.blwf by uni0C1F_uni0C4D.blwf_uni0C32_un;
+  sub uni0C1F_uni0C4D.blwf uni0C30_uni0C4D.blwf by uni0C1F_uni0C4D.blwf_uni0C30_un;
+  sub uni0C24_uni0C4D.blwf glyph733 by glyph1287;
+  sub uni0C24_uni0C4D.blwf uni0C30_uni0C4D.blwf by uni0C24_uni0C4D.blwf_uni0C30_un;
+  sub uni0C2B_uni0C4D.blwf glyph737 by glyph1261;
+  sub uni0C2E_uni0C4D.blwf glyph734 by glyph1279;
+  sub uni0C30_uni0C4D.blwf uni0C2F_uni0C4D.blwf by glyph1282;
+  sub uni0C35_uni0C4D.blwf glyph734 by glyph1260;
+  sub uni0C36_uni0C4D.blwf glyph739 by glyph1280;
+  sub uni0C37_uni0C4D.blwf glyph734 by glyph1285;
+  sub uni0C37_uni0C4D.blwf uni0C23_uni0C4D.blwf by uni0C37_uni0C4D.blwf_uni0C23_un;
+  sub uni0C37_uni0C4D.blwf uni0C20_uni0C4D.blwf by uni0C37_uni0C4D.blwf_uni0C20_un;
+  sub uni0C37_uni0C4D.blwf uni0C1F_uni0C4D.blwf by uni0C37_uni0C4D.blwf_uni0C1F_un;
+  sub uni0C56_uni0C24_uni0C4D.blwf.bl glyph739 by glyph1283;
+### Problems in rule: Duplicate ligature substitution source sequence
+  sub uni0C56_uni0C24_uni0C4D.blwf.bl glyph739 by glyph1265;
+  sub uni0C19_uni0C4D.blwf_uni0C17_un glyph1220 by glyph1255;
+
+} blwf;
+
+feature abvs {
+# GSUB feature: Above-base Substitutions
+# Lookups: 6
+
+  script telu; # Telugu
+  sub uni0C15 uni0C4C by uni0C15_uni0C4C.abvs;
+  sub uni0C15 uni0C47 by uni0C15_uni0C47.abvs;
+  sub uni0C15 uni0C46 by uni0C15_uni0C46.abvs;
+  sub uni0C15 uni0C4B by uni0C15_uni0C4B.abvs;
+  sub uni0C15 uni0C42 by uni0C15_uni0C42.abvs;
+  sub uni0C15 uni0C41 by uni0C15_uni0C41.abvs;
+  sub uni0C15 uni0C4A by uni0C15_uni0C4A.abvs;
+  sub uni0C15 uni0C40 by uni0C15_uni0C40.abvs;
+  sub uni0C15 uni0C3F by uni0C15_uni0C3F.abvs;
+  sub uni0C15 uni0C3E by uni0C15_uni0C3E.abvs;
+  sub uni0C16 uni0C4C by uni0C16_uni0C4C.abvs;
+  sub uni0C16 uni0C4B by uni0C16_uni0C4B.abvs;
+  sub uni0C16 uni0C4A by uni0C16_uni0C4A.abvs;
+  sub uni0C16 uni0C47 by uni0C16_uni0C47.abvs;
+  sub uni0C16 uni0C46 by uni0C16_uni0C46.abvs;
+  sub uni0C16 uni0C42 by uni0C16_uni0C42.abvs;
+  sub uni0C16 uni0C41 by uni0C16_uni0C41.abvs;
+  sub uni0C16 uni0C40 by uni0C16_uni0C40.abvs;
+  sub uni0C16 uni0C3F by uni0C16_uni0C3F.abvs;
+  sub uni0C16 uni0C3E by uni0C16_uni0C3E.abvs;
+  sub uni0C17 uni0C4C by uni0C17_uni0C4C.abvs;
+  sub uni0C17 uni0C4B by uni0C17_uni0C4B.abvs;
+  sub uni0C17 uni0C4A by uni0C17_uni0C4A.abvs;
+  sub uni0C17 uni0C47 by uni0C17_uni0C47.abvs;
+  sub uni0C17 uni0C46 by uni0C17_uni0C46.abvs;
+  sub uni0C17 uni0C42 by uni0C17_uni0C42.abvs;
+  sub uni0C17 uni0C41 by uni0C17_uni0C41.abvs;
+  sub uni0C17 uni0C40 by uni0C17_uni0C40.abvs;
+  sub uni0C17 uni0C3F by uni0C17_uni0C3F.abvs;
+  sub uni0C17 uni0C3E by uni0C17_uni0C3E.abvs;
+  sub uni0C18 uni0C4C by uni0C18_uni0C4C.abvs;
+  sub uni0C18 uni0C4B by uni0C18_uni0C4B.abvs;
+  sub uni0C18 uni0C4A by uni0C18_uni0C4A.abvs;
+  sub uni0C18 uni0C47 by uni0C18_uni0C47.abvs;
+  sub uni0C18 uni0C46 by uni0C18_uni0C46.abvs;
+  sub uni0C18 uni0C42 by uni0C18_uni0C42.abvs;
+  sub uni0C18 uni0C41 by uni0C18_uni0C41.abvs;
+  sub uni0C18 uni0C40 by uni0C18_uni0C40.abvs;
+  sub uni0C18 uni0C3F by uni0C18_uni0C3F.abvs;
+  sub uni0C18 uni0C3E by uni0C18_uni0C3E.abvs;
+  sub uni0C19 uni0C4C by uni0C19_uni0C4C.abvs;
+  sub uni0C19 uni0C4B by uni0C19_uni0C4B.abvs;
+  sub uni0C19 uni0C4A by uni0C19_uni0C4A.abvs;
+  sub uni0C19 uni0C47 by uni0C19_uni0C47.abvs;
+  sub uni0C19 uni0C46 by uni0C19_uni0C46.abvs;
+  sub uni0C19 uni0C42 by uni0C19_uni0C42.abvs;
+  sub uni0C19 uni0C41 by uni0C19_uni0C41.abvs;
+  sub uni0C19 uni0C40 by uni0C19_uni0C40.abvs;
+  sub uni0C19 uni0C3F by uni0C19_uni0C3F.abvs;
+  sub uni0C19 uni0C3E by uni0C19_uni0C3E.abvs;
+  sub uni0C1A uni0C4C by uni0C1A_uni0C4C.abvs;
+  sub uni0C1A uni0C4B by uni0C1A_uni0C4B.abvs;
+  sub uni0C1A uni0C4A by uni0C1A_uni0C4A.abvs;
+  sub uni0C1A uni0C47 by uni0C1A_uni0C47.abvs;
+  sub uni0C1A uni0C46 by uni0C1A_uni0C46.abvs;
+  sub uni0C1A uni0C42 by uni0C1A_uni0C42.abvs;
+  sub uni0C1A uni0C41 by uni0C1A_uni0C41.abvs;
+  sub uni0C1A uni0C40 by uni0C1A_uni0C40.abvs;
+  sub uni0C1A uni0C3F by uni0C1A_uni0C3F.abvs;
+  sub uni0C1A uni0C3E by uni0C1A_uni0C3E.abvs;
+  sub uni0C1B uni0C4C by uni0C1B_uni0C4C.abvs;
+  sub uni0C1B uni0C4B by uni0C1B_uni0C4B.abvs;
+  sub uni0C1B uni0C4A by uni0C1B_uni0C4A.abvs;
+  sub uni0C1B uni0C47 by uni0C1B_uni0C47.abvs;
+  sub uni0C1B uni0C46 by uni0C1B_uni0C46.abvs;
+  sub uni0C1B uni0C42 by uni0C1B_uni0C42.abvs;
+  sub uni0C1B uni0C41 by uni0C1B_uni0C41.abvs;
+  sub uni0C1B uni0C40 by uni0C1B_uni0C40.abvs;
+  sub uni0C1B uni0C3F by uni0C1B_uni0C3F.abvs;
+  sub uni0C1B uni0C3E by uni0C1B_uni0C3E.abvs;
+  sub uni0C1C uni0C4C by uni0C1C_uni0C4C.abvs;
+  sub uni0C1C uni0C4B by uni0C1C_uni0C4B.abvs;
+  sub uni0C1C uni0C4A by uni0C1C_uni0C4A.abvs;
+  sub uni0C1C uni0C47 by uni0C1C_uni0C47.abvs;
+  sub uni0C1C uni0C46 by uni0C1C_uni0C46.abvs;
+  sub uni0C1C uni0C42 by uni0C1C_uni0C42.abvs;
+  sub uni0C1C uni0C41 by uni0C1C_uni0C41.abvs;
+  sub uni0C1C uni0C40 by uni0C1C_uni0C40.abvs;
+  sub uni0C1C uni0C3F by uni0C1C_uni0C3F.abvs;
+  sub uni0C1C uni0C3E by uni0C1C_uni0C3E.abvs;
+  sub uni0C1D uni0C4C by uni0C1D_uni0C4C.abvs;
+  sub uni0C1D uni0C4B by uni0C1D_uni0C4B.abvs;
+  sub uni0C1D uni0C4A by uni0C1D_uni0C4A.abvs;
+  sub uni0C1D uni0C47 by uni0C1D_uni0C47.abvs;
+  sub uni0C1D uni0C46 by uni0C1D_uni0C46.abvs;
+  sub uni0C1D uni0C42 by uni0C1D_uni0C42.abvs;
+  sub uni0C1D uni0C41 by uni0C1D_uni0C41.abvs;
+  sub uni0C1D uni0C40 by uni0C1D_uni0C40.abvs;
+  sub uni0C1D uni0C3F by uni0C1D_uni0C3F.abvs;
+  sub uni0C1D uni0C3E by uni0C1D_uni0C3E.abvs;
+  sub uni0C1E uni0C4C by uni0C1E_uni0C4C.abvs;
+  sub uni0C1E uni0C4B by uni0C1E_uni0C4B.abvs;
+  sub uni0C1E uni0C4A by uni0C1E_uni0C4A.abvs;
+  sub uni0C1E uni0C47 by uni0C1E_uni0C47.abvs;
+  sub uni0C1E uni0C46 by uni0C1E_uni0C46.abvs;
+  sub uni0C1E uni0C42 by uni0C1E_uni0C42.abvs;
+  sub uni0C1E uni0C41 by uni0C1E_uni0C41.abvs;
+  sub uni0C1E uni0C40 by uni0C1E_uni0C40.abvs;
+  sub uni0C1E uni0C3F by uni0C1E_uni0C3F.abvs;
+  sub uni0C1E uni0C3E by uni0C1E_uni0C3E.abvs;
+  sub uni0C1F uni0C4C by uni0C1F_uni0C4C.abvs;
+  sub uni0C1F uni0C4B by uni0C1F_uni0C4B.abvs;
+  sub uni0C1F uni0C4A by uni0C1F_uni0C4A.abvs;
+  sub uni0C1F uni0C47 by uni0C1F_uni0C47.abvs;
+  sub uni0C1F uni0C46 by uni0C1F_uni0C46.abvs;
+  sub uni0C1F uni0C42 by uni0C1F_uni0C42.abvs;
+  sub uni0C1F uni0C41 by uni0C1F_uni0C41.abvs;
+  sub uni0C1F uni0C40 by uni0C1F_uni0C40.abvs;
+  sub uni0C1F uni0C3F by uni0C1F_uni0C3F.abvs;
+  sub uni0C1F uni0C3E by uni0C1F_uni0C3E.abvs;
+  sub uni0C20 uni0C4C by uni0C20_uni0C4C.abvs;
+  sub uni0C20 uni0C4B by uni0C20_uni0C4B.abvs;
+  sub uni0C20 uni0C4A by uni0C20_uni0C4A.abvs;
+  sub uni0C20 uni0C47 by uni0C20_uni0C47.abvs;
+  sub uni0C20 uni0C46 by uni0C20_uni0C46.abvs;
+  sub uni0C20 uni0C42 by uni0C20_uni0C42.abvs;
+  sub uni0C20 uni0C41 by uni0C20_uni0C41.abvs;
+  sub uni0C20 uni0C40 by uni0C20_uni0C40.abvs;
+  sub uni0C20 uni0C3F by uni0C20_uni0C3F.abvs;
+  sub uni0C20 uni0C3E by uni0C20_uni0C3E.abvs;
+  sub uni0C21 uni0C4C by uni0C21_uni0C4C.abvs;
+  sub uni0C21 uni0C4B by uni0C21_uni0C4B.abvs;
+  sub uni0C21 uni0C4A by uni0C21_uni0C4A.abvs;
+  sub uni0C21 uni0C47 by uni0C21_uni0C47.abvs;
+  sub uni0C21 uni0C46 by uni0C21_uni0C46.abvs;
+  sub uni0C21 uni0C42 by uni0C21_uni0C42.abvs;
+  sub uni0C21 uni0C41 by uni0C21_uni0C41.abvs;
+  sub uni0C21 uni0C40 by uni0C21_uni0C40.abvs;
+  sub uni0C21 uni0C3F by uni0C21_uni0C3F.abvs;
+  sub uni0C21 uni0C3E by uni0C21_uni0C3E.abvs;
+  sub uni0C22 uni0C4C by uni0C22_uni0C4C.abvs;
+  sub uni0C22 uni0C4B by uni0C22_uni0C4B.abvs;
+  sub uni0C22 uni0C4A by uni0C22_uni0C4A.abvs;
+  sub uni0C22 uni0C47 by uni0C22_uni0C47.abvs;
+  sub uni0C22 uni0C46 by uni0C22_uni0C46.abvs;
+  sub uni0C22 uni0C42 by uni0C22_uni0C42.abvs;
+  sub uni0C22 uni0C41 by uni0C22_uni0C41.abvs;
+  sub uni0C22 uni0C40 by uni0C22_uni0C40.abvs;
+  sub uni0C22 uni0C3F by uni0C22_uni0C3F.abvs;
+  sub uni0C22 uni0C3E by uni0C22_uni0C3E.abvs;
+  sub uni0C23 uni0C4C by uni0C23_uni0C4C.abvs;
+  sub uni0C23 uni0C4B by uni0C23_uni0C4B.abvs;
+  sub uni0C23 uni0C4A by uni0C23_uni0C4A.abvs;
+  sub uni0C23 uni0C47 by uni0C23_uni0C47.abvs;
+  sub uni0C23 uni0C46 by uni0C23_uni0C46.abvs;
+  sub uni0C23 uni0C42 by uni0C23_uni0C42.abvs;
+  sub uni0C23 uni0C41 by uni0C23_uni0C41.abvs;
+  sub uni0C23 uni0C40 by uni0C23_uni0C40.abvs;
+  sub uni0C23 uni0C3F by uni0C23_uni0C3F.abvs;
+  sub uni0C23 uni0C3E by uni0C23_uni0C3E.abvs;
+  sub uni0C24 uni0C4C by uni0C24_uni0C4C.abvs;
+  sub uni0C24 uni0C4B by uni0C24_uni0C4B.abvs;
+  sub uni0C24 uni0C4A by uni0C24_uni0C4A.abvs;
+  sub uni0C24 uni0C47 by uni0C24_uni0C47.abvs;
+  sub uni0C24 uni0C46 by uni0C24_uni0C46.abvs;
+  sub uni0C24 uni0C42 by uni0C24_uni0C42.abvs;
+  sub uni0C24 uni0C41 by uni0C24_uni0C41.abvs;
+  sub uni0C24 uni0C40 by uni0C24_uni0C40.abvs;
+  sub uni0C24 uni0C3F by uni0C24_uni0C3F.abvs;
+  sub uni0C24 uni0C3E by uni0C24_uni0C3E.abvs;
+  sub uni0C25 uni0C4C by uni0C25_uni0C4C.abvs;
+  sub uni0C25 uni0C4B by uni0C25_uni0C4B.abvs;
+  sub uni0C25 uni0C4A by uni0C25_uni0C4A.abvs;
+  sub uni0C25 uni0C47 by uni0C25_uni0C47.abvs;
+  sub uni0C25 uni0C46 by uni0C25_uni0C46.abvs;
+  sub uni0C25 uni0C42 by uni0C25_uni0C42.abvs;
+  sub uni0C25 uni0C41 by uni0C25_uni0C41.abvs;
+  sub uni0C25 uni0C40 by uni0C25_uni0C40.abvs;
+  sub uni0C25 uni0C3F by uni0C25_uni0C3F.abvs;
+  sub uni0C25 uni0C3E by uni0C25_uni0C3E.abvs;
+  sub uni0C26 uni0C4C by uni0C26_uni0C4C.abvs;
+  sub uni0C26 uni0C4B by uni0C26_uni0C4B.abvs;
+  sub uni0C26 uni0C4A by uni0C26_uni0C4A.abvs;
+  sub uni0C26 uni0C47 by uni0C26_uni0C47.abvs;
+  sub uni0C26 uni0C46 by uni0C26_uni0C46.abvs;
+  sub uni0C26 uni0C42 by uni0C26_uni0C42.abvs;
+  sub uni0C26 uni0C41 by uni0C26_uni0C41.abvs;
+  sub uni0C26 uni0C40 by uni0C26_uni0C40.abvs;
+  sub uni0C26 uni0C3F by uni0C26_uni0C3F.abvs;
+  sub uni0C26 uni0C3E by uni0C26_uni0C3E.abvs;
+  sub uni0C27 uni0C4C by uni0C27_uni0C4C.abvs;
+  sub uni0C27 uni0C4B by uni0C27_uni0C4B.abvs;
+  sub uni0C27 uni0C4A by uni0C27_uni0C4A.abvs;
+  sub uni0C27 uni0C47 by uni0C27_uni0C47.abvs;
+  sub uni0C27 uni0C46 by uni0C27_uni0C46.abvs;
+  sub uni0C27 uni0C42 by uni0C27_uni0C42.abvs;
+  sub uni0C27 uni0C41 by uni0C27_uni0C41.abvs;
+  sub uni0C27 uni0C40 by uni0C27_uni0C40.abvs;
+  sub uni0C27 uni0C3F by uni0C27_uni0C3F.abvs;
+  sub uni0C27 uni0C3E by uni0C27_uni0C3E.abvs;
+  sub uni0C28 uni0C4C by uni0C28_uni0C4C.abvs;
+  sub uni0C28 uni0C4B by uni0C28_uni0C4B.abvs;
+  sub uni0C28 uni0C4A by uni0C28_uni0C4A.abvs;
+  sub uni0C28 uni0C47 by uni0C28_uni0C47.abvs;
+  sub uni0C28 uni0C46 by uni0C28_uni0C46.abvs;
+  sub uni0C28 uni0C42 by uni0C28_uni0C42.abvs;
+  sub uni0C28 uni0C41 by uni0C28_uni0C41.abvs;
+  sub uni0C28 uni0C40 by uni0C28_uni0C40.abvs;
+  sub uni0C28 uni0C3F by uni0C28_uni0C3F.abvs;
+  sub uni0C28 uni0C3E by uni0C28_uni0C3E.abvs;
+  sub uni0C2A uni0C4C by uni0C2A_uni0C4C.abvs;
+  sub uni0C2A uni0C4B by uni0C2A_uni0C4B.abvs;
+  sub uni0C2A uni0C4A by uni0C2A_uni0C4A.abvs;
+  sub uni0C2A uni0C47 by uni0C2A_uni0C47.abvs;
+  sub uni0C2A uni0C46 by uni0C2A_uni0C46.abvs;
+  sub uni0C2A uni0C42 by uni0C2A_uni0C42.abvs;
+  sub uni0C2A uni0C41 by uni0C2A_uni0C41.abvs;
+  sub uni0C2A uni0C40 by uni0C2A_uni0C40.abvs;
+  sub uni0C2A uni0C3F by uni0C2A_uni0C3F.abvs;
+  sub uni0C2A uni0C3E by uni0C2A_uni0C3E.abvs;
+  sub uni0C2B uni0C4C by uni0C2B_uni0C4C.abvs;
+  sub uni0C2B uni0C4B by uni0C2B_uni0C4B.abvs;
+  sub uni0C2B uni0C4A by uni0C2B_uni0C4A.abvs;
+  sub uni0C2B uni0C47 by uni0C2B_uni0C47.abvs;
+  sub uni0C2B uni0C46 by uni0C2B_uni0C46.abvs;
+  sub uni0C2B uni0C42 by uni0C2B_uni0C42.abvs;
+  sub uni0C2B uni0C41 by uni0C2B_uni0C41.abvs;
+  sub uni0C2B uni0C40 by uni0C2B_uni0C40.abvs;
+  sub uni0C2B uni0C3F by uni0C2B_uni0C3F.abvs;
+  sub uni0C2B uni0C3E by uni0C2B_uni0C3E.abvs;
+  sub uni0C2C uni0C4C by uni0C2C_uni0C4C.abvs;
+  sub uni0C2C uni0C4B by uni0C2C_uni0C4B.abvs;
+  sub uni0C2C uni0C4A by uni0C2C_uni0C4A.abvs;
+  sub uni0C2C uni0C47 by uni0C2C_uni0C47.abvs;
+  sub uni0C2C uni0C46 by uni0C2C_uni0C46.abvs;
+  sub uni0C2C uni0C42 by uni0C2C_uni0C42.abvs;
+  sub uni0C2C uni0C41 by uni0C2C_uni0C41.abvs;
+  sub uni0C2C uni0C40 by uni0C2C_uni0C40.abvs;
+  sub uni0C2C uni0C3F by uni0C2C_uni0C3F.abvs;
+  sub uni0C2C uni0C3E by uni0C2C_uni0C3E.abvs;
+  sub uni0C2D uni0C4C by uni0C2D_uni0C4C.abvs;
+  sub uni0C2D uni0C4B by uni0C2D_uni0C4B.abvs;
+  sub uni0C2D uni0C4A by uni0C2D_uni0C4A.abvs;
+  sub uni0C2D uni0C47 by uni0C2D_uni0C47.abvs;
+  sub uni0C2D uni0C46 by uni0C2D_uni0C46.abvs;
+  sub uni0C2D uni0C42 by uni0C2D_uni0C42.abvs;
+  sub uni0C2D uni0C41 by uni0C2D_uni0C41.abvs;
+  sub uni0C2D uni0C40 by uni0C2D_uni0C40.abvs;
+  sub uni0C2D uni0C3F by uni0C2D_uni0C3F.abvs;
+  sub uni0C2D uni0C3E by uni0C2D_uni0C3E.abvs;
+  sub uni0C2E uni0C4C by uni0C2E_uni0C4C.abvs;
+  sub uni0C2E uni0C4B by uni0C2E_uni0C4B.abvs;
+  sub uni0C2E uni0C4A by uni0C2E_uni0C4A.abvs;
+  sub uni0C2E uni0C47 by uni0C2E_uni0C47.abvs;
+  sub uni0C2E uni0C46 by uni0C2E_uni0C46.abvs;
+  sub uni0C2E uni0C42 by uni0C2E_uni0C42.abvs;
+  sub uni0C2E uni0C41 by uni0C2E_uni0C41.abvs;
+  sub uni0C2E uni0C40 by uni0C2E_uni0C40.abvs;
+  sub uni0C2E uni0C3F by uni0C2E_uni0C3F.abvs;
+  sub uni0C2E uni0C3E by uni0C2E_uni0C3E.abvs;
+  sub uni0C2F uni0C4C by uni0C2F_uni0C4C.abvs;
+  sub uni0C2F uni0C4B by uni0C2F_uni0C4B.abvs;
+  sub uni0C2F uni0C4A by uni0C2F_uni0C4A.abvs;
+  sub uni0C2F uni0C47 by uni0C2F_uni0C47.abvs;
+  sub uni0C2F uni0C46 by uni0C2F_uni0C46.abvs;
+  sub uni0C2F uni0C42 by uni0C2F_uni0C42.abvs;
+  sub uni0C2F uni0C41 by uni0C2F_uni0C41.abvs;
+  sub uni0C2F uni0C40 by uni0C2F_uni0C40.abvs;
+  sub uni0C2F uni0C3F by uni0C2F_uni0C3F.abvs;
+  sub uni0C2F uni0C3E by uni0C2F_uni0C3E.abvs;
+  sub uni0C30 uni0C4C by uni0C30_uni0C4C.abvs;
+  sub uni0C30 uni0C4B by uni0C30_uni0C4B.abvs;
+  sub uni0C30 uni0C4A by uni0C30_uni0C4A.abvs;
+  sub uni0C30 uni0C47 by uni0C30_uni0C47.abvs;
+  sub uni0C30 uni0C46 by uni0C30_uni0C46.abvs;
+  sub uni0C30 uni0C42 by uni0C30_uni0C42.abvs;
+  sub uni0C30 uni0C41 by uni0C30_uni0C41.abvs;
+  sub uni0C30 uni0C40 by uni0C30_uni0C40.abvs;
+  sub uni0C30 uni0C3F by uni0C30_uni0C3F.abvs;
+  sub uni0C30 uni0C3E by uni0C30_uni0C3E.abvs;
+  sub uni0C31 uni0C4C by uni0C31_uni0C4C.abvs;
+  sub uni0C31 uni0C4B by uni0C31_uni0C4B.abvs;
+  sub uni0C31 uni0C4A by uni0C31_uni0C4A.abvs;
+  sub uni0C31 uni0C47 by uni0C31_uni0C47.abvs;
+  sub uni0C31 uni0C46 by uni0C31_uni0C46.abvs;
+  sub uni0C31 uni0C42 by uni0C31_uni0C42.abvs;
+  sub uni0C31 uni0C41 by uni0C31_uni0C41.abvs;
+  sub uni0C31 uni0C40 by uni0C31_uni0C40.abvs;
+  sub uni0C31 uni0C3F by uni0C31_uni0C3F.abvs;
+  sub uni0C31 uni0C3E by uni0C31_uni0C3E.abvs;
+  sub uni0C32 uni0C4C by uni0C32_uni0C4C.abvs;
+  sub uni0C32 uni0C4B by uni0C32_uni0C4B.abvs;
+  sub uni0C32 uni0C4A by uni0C32_uni0C4A.abvs;
+  sub uni0C32 uni0C47 by uni0C32_uni0C47.abvs;
+  sub uni0C32 uni0C46 by uni0C32_uni0C46.abvs;
+  sub uni0C32 uni0C42 by uni0C32_uni0C42.abvs;
+  sub uni0C32 uni0C41 by uni0C32_uni0C41.abvs;
+  sub uni0C32 uni0C40 by uni0C32_uni0C40.abvs;
+  sub uni0C32 uni0C3F by uni0C32_uni0C3F.abvs;
+  sub uni0C32 uni0C3E by uni0C32_uni0C3E.abvs;
+  sub uni0C33 uni0C4C by uni0C33_uni0C4C.abvs;
+  sub uni0C33 uni0C4B by uni0C33_uni0C4B.abvs;
+  sub uni0C33 uni0C4A by uni0C33_uni0C4A.abvs;
+  sub uni0C33 uni0C47 by uni0C33_uni0C47.abvs;
+  sub uni0C33 uni0C46 by uni0C33_uni0C46.abvs;
+  sub uni0C33 uni0C42 by uni0C33_uni0C42.abvs;
+  sub uni0C33 uni0C41 by uni0C33_uni0C41.abvs;
+  sub uni0C33 uni0C40 by uni0C33_uni0C40.abvs;
+  sub uni0C33 uni0C3F by uni0C33_uni0C3F.abvs;
+  sub uni0C33 uni0C3E by uni0C33_uni0C3E.abvs;
+  sub uni0C34 uni0C4D by uni0C34_uni0C4D.abvs;
+  sub uni0C34 uni0C4C by uni0C34_uni0C4C.abvs;
+  sub uni0C34 uni0C4B by uni0C34_uni0C4B.abvs;
+  sub uni0C34 uni0C4A by uni0C34_uni0C4A.abvs;
+  sub uni0C34 uni0C48 by uni0C34_uni0C48.abvs;
+  sub uni0C34 uni0C47 by uni0C34_uni0C47.abvs;
+  sub uni0C34 uni0C46 by uni0C34_uni0C46.abvs;
+  sub uni0C34 uni0C42 by uni0C34_uni0C42.abvs;
+  sub uni0C34 uni0C41 by uni0C34_uni0C41.abvs;
+  sub uni0C34 uni0C40 by uni0C34_uni0C40.abvs;
+  sub uni0C34 uni0C3F by uni0C34_uni0C3F.abvs;
+  sub uni0C34 uni0C3E by uni0C34_uni0C3E.abvs;
+  sub uni0C35 uni0C4C by uni0C35_uni0C4C.abvs;
+  sub uni0C35 uni0C4B by uni0C35_uni0C4B.abvs;
+  sub uni0C35 uni0C4A by uni0C35_uni0C4A.abvs;
+  sub uni0C35 uni0C47 by uni0C35_uni0C47.abvs;
+  sub uni0C35 uni0C46 by uni0C35_uni0C46.abvs;
+  sub uni0C35 uni0C42 by uni0C35_uni0C42.abvs;
+  sub uni0C35 uni0C41 by uni0C35_uni0C41.abvs;
+  sub uni0C35 uni0C40 by uni0C35_uni0C40.abvs;
+  sub uni0C35 uni0C3F by uni0C35_uni0C3F.abvs;
+  sub uni0C35 uni0C3E by uni0C35_uni0C3E.abvs;
+  sub uni0C36 uni0C4C by uni0C36_uni0C4C.abvs;
+  sub uni0C36 uni0C4B by uni0C36_uni0C4B.abvs;
+  sub uni0C36 uni0C4A by uni0C36_uni0C4A.abvs;
+  sub uni0C36 uni0C47 by uni0C36_uni0C47.abvs;
+  sub uni0C36 uni0C46 by uni0C36_uni0C46.abvs;
+  sub uni0C36 uni0C42 by uni0C36_uni0C42.abvs;
+  sub uni0C36 uni0C41 by uni0C36_uni0C41.abvs;
+  sub uni0C36 uni0C40 by uni0C36_uni0C40.abvs;
+  sub uni0C36 uni0C3F by uni0C36_uni0C3F.abvs;
+  sub uni0C36 uni0C3E by uni0C36_uni0C3E.abvs;
+  sub uni0C37 uni0C4C by uni0C37_uni0C4C.abvs;
+  sub uni0C37 uni0C4B by uni0C37_uni0C4B.abvs;
+  sub uni0C37 uni0C4A by uni0C37_uni0C4A.abvs;
+  sub uni0C37 uni0C47 by uni0C37_uni0C47.abvs;
+  sub uni0C37 uni0C46 by uni0C37_uni0C46.abvs;
+  sub uni0C37 uni0C42 by uni0C37_uni0C42.abvs;
+  sub uni0C37 uni0C41 by uni0C37_uni0C41.abvs;
+  sub uni0C37 uni0C40 by uni0C37_uni0C40.abvs;
+  sub uni0C37 uni0C3F by uni0C37_uni0C3F.abvs;
+  sub uni0C37 uni0C3E by uni0C37_uni0C3E.abvs;
+  sub uni0C38 uni0C4C by uni0C38_uni0C4C.abvs;
+  sub uni0C38 uni0C4B by uni0C38_uni0C4B.abvs;
+  sub uni0C38 uni0C4A by uni0C38_uni0C4A.abvs;
+  sub uni0C38 uni0C47 by uni0C38_uni0C47.abvs;
+  sub uni0C38 uni0C46 by uni0C38_uni0C46.abvs;
+  sub uni0C38 uni0C42 by uni0C38_uni0C42.abvs;
+  sub uni0C38 uni0C41 by uni0C38_uni0C41.abvs;
+  sub uni0C38 uni0C40 by uni0C38_uni0C40.abvs;
+  sub uni0C38 uni0C3F by uni0C38_uni0C3F.abvs;
+  sub uni0C38 uni0C3E by uni0C38_uni0C3E.abvs;
+  sub uni0C39 uni0C4C by uni0C39_uni0C4C.abvs;
+  sub uni0C39 uni0C4B by uni0C39_uni0C4B.abvs;
+  sub uni0C39 uni0C4A by uni0C39_uni0C4A.abvs;
+  sub uni0C39 uni0C47 by uni0C39_uni0C47.abvs;
+  sub uni0C39 uni0C46 by uni0C39_uni0C46.abvs;
+  sub uni0C39 uni0C42 by uni0C39_uni0C42.abvs;
+  sub uni0C39 uni0C41 by uni0C39_uni0C41.abvs;
+  sub uni0C39 uni0C40 by uni0C39_uni0C40.abvs;
+  sub uni0C39 uni0C3F by uni0C39_uni0C3F.abvs;
+  sub uni0C39 uni0C3E by uni0C39_uni0C3E.abvs;
+  sub uni0C58 uni0C4C by uni0C58_uni0C4C.abvs;
+  sub uni0C58 uni0C4B by uni0C58_uni0C4B.abvs;
+  sub uni0C58 uni0C4A by uni0C58_uni0C4A.abvs;
+  sub uni0C58 uni0C42 by uni0C58_uni0C42.abvs;
+  sub uni0C58 uni0C41 by uni0C58_uni0C41.abvs;
+  sub uni0C58 uni0C3E by uni0C58_uni0C3E.abvs;
+  sub uni0C59 uni0C4C by uni0C59_uni0C4C.abvs;
+  sub uni0C59 uni0C4B by uni0C59_uni0C4B.abvs;
+  sub uni0C59 uni0C4A by uni0C59_uni0C4A.abvs;
+  sub uni0C59 uni0C42 by uni0C59_uni0C42.abvs;
+  sub uni0C59 uni0C41 by uni0C59_uni0C41.abvs;
+  sub uni0C59 uni0C3E by uni0C59_uni0C3E.abvs;
+  sub uni0C5A uni0C46 uni0C56 by uni0C5A_uni0C46_uni0C56.abvs;
+  sub uni0C5A uni0C3E by uni0C5A_uni0C3E.abvs;
+  sub uni0C5A uni0C4D by uni0C5A_uni0C4D.abvs;
+  sub uni0C5A uni0C4C by uni0C5A_uni0C4C.abvs;
+  sub uni0C5A uni0C4B by uni0C5A_uni0C4B.abvs;
+  sub uni0C5A uni0C4A by uni0C5A_uni0C4A.abvs;
+  sub uni0C5A uni0C3F by uni0C5A_uni0C3F.abvs;
+  sub uni0C5A uni0C47 by uni0C5A_uni0C47.abvs;
+  sub uni0C5A uni0C46 by uni0C5A_uni0C46.abvs;
+  sub uni0C5A uni0C42 by uni0C5A_uni0C42.abvs;
+  sub uni0C5A uni0C41 by uni0C5A_uni0C41.abvs;
+  sub uni0C5A uni0C40 by uni0C5A_uni0C40.abvs;
+  sub uni0C15_uni0C37_uni0C4D.akhn uni0C4C by uni0C15_uni0C4C_uni0C37_uni0C4D;
+  sub uni0C15_uni0C37_uni0C4D.akhn uni0C4B by uni0C15_uni0C4B_uni0C37_uni0C4D;
+  sub uni0C15_uni0C37_uni0C4D.akhn uni0C4A by uni0C15_uni0C4A_uni0C37_uni0C4D;
+  sub uni0C15_uni0C37_uni0C4D.akhn uni0C47 by uni0C15_uni0C47_uni0C37_uni0C4D;
+  sub uni0C15_uni0C37_uni0C4D.akhn uni0C46 by uni0C15_uni0C46_uni0C37_uni0C4D;
+  sub uni0C15_uni0C37_uni0C4D.akhn uni0C42 by uni0C15_uni0C42_uni0C37_uni0C4D;
+  sub uni0C15_uni0C37_uni0C4D.akhn uni0C41 by uni0C15_uni0C41_uni0C37_uni0C4D;
+  sub uni0C15_uni0C37_uni0C4D.akhn uni0C40 by uni0C15_uni0C40_uni0C37_uni0C4D;
+  sub uni0C15_uni0C37_uni0C4D.akhn uni0C3F by uni0C15_uni0C3F_uni0C37_uni0C4D;
+  sub uni0C15_uni0C37_uni0C4D.akhn uni0C3E by uni0C15_uni0C3E_uni0C37_uni0C4D;
+  sub uni0C15 uni0C48 by uni0C15_uni0C48.abvs;
+  sub uni0C16 uni0C48 by uni0C16_uni0C48.abvs;
+  sub uni0C17 uni0C48 by uni0C17_uni0C48.abvs;
+  sub uni0C18 uni0C48 by uni0C18_uni0C48.abvs;
+  sub uni0C19 uni0C48 by uni0C19_uni0C48.abvs;
+  sub uni0C1A uni0C48 by uni0C1A_uni0C48.abvs;
+  sub uni0C1B uni0C48 by uni0C1B_uni0C48.abvs;
+  sub uni0C1C uni0C48 by uni0C1C_uni0C48.abvs;
+  sub uni0C1D uni0C48 by uni0C1D_uni0C48.abvs;
+  sub uni0C1E uni0C48 by uni0C1E_uni0C48.abvs;
+  sub uni0C1F uni0C48 by uni0C1F_uni0C48.abvs;
+  sub uni0C20 uni0C48 by uni0C20_uni0C48.abvs;
+  sub uni0C21 uni0C48 by uni0C21_uni0C48.abvs;
+  sub uni0C22 uni0C48 by uni0C22_uni0C48.abvs;
+  sub uni0C23 uni0C48 by uni0C23_uni0C48.abvs;
+  sub uni0C24 uni0C48 by uni0C24_uni0C48.abvs;
+  sub uni0C25 uni0C48 by uni0C25_uni0C48.abvs;
+  sub uni0C26 uni0C48 by uni0C26_uni0C48.abvs;
+  sub uni0C27 uni0C48 by uni0C27_uni0C48.abvs;
+  sub uni0C28 uni0C48 by uni0C28_uni0C48.abvs;
+  sub uni0C2A uni0C48 by uni0C2A_uni0C48.abvs;
+  sub uni0C2B uni0C48 by uni0C2B_uni0C48.abvs;
+  sub uni0C2C uni0C48 by uni0C2C_uni0C48.abvs;
+  sub uni0C2D uni0C48 by uni0C2D_uni0C48.abvs;
+  sub uni0C2E uni0C48 by uni0C2E_uni0C48.abvs;
+  sub uni0C2F uni0C48 by uni0C2F_uni0C48.abvs;
+  sub uni0C30 uni0C48 by uni0C30_uni0C48.abvs;
+  sub uni0C31 uni0C48 by uni0C31_uni0C48.abvs;
+  sub uni0C32 uni0C48 by uni0C32_uni0C48.abvs;
+  sub uni0C33 uni0C48 by uni0C33_uni0C48.abvs;
+  sub uni0C35 uni0C48 by uni0C35_uni0C48.abvs;
+  sub uni0C36 uni0C48 by uni0C36_uni0C48.abvs;
+  sub uni0C37 uni0C48 by uni0C37_uni0C48.abvs;
+  sub uni0C38 uni0C48 by uni0C38_uni0C48.abvs;
+  sub uni0C39 uni0C48 by uni0C39_uni0C48.abvs;
+  sub uni0C15_uni0C37_uni0C4D.akhn uni0C48 by uni0C15_uni0C46_uni0C56_uni0C37;
+  sub uni0C15 uni0C4D by uni0C15_uni0C4D.abvs;
+  sub uni0C16 uni0C4D by uni0C16_uni0C4D.abvs;
+  sub uni0C17 uni0C4D by uni0C17_uni0C4D.abvs;
+  sub uni0C18 uni0C4D by uni0C18_uni0C4D.abvs;
+  sub uni0C19 uni0C4D by uni0C19_uni0C4D.abvs;
+  sub uni0C1A uni0C4D by uni0C1A_uni0C4D.abvs;
+  sub uni0C1B uni0C4D by uni0C1B_uni0C4D.abvs;
+  sub uni0C1C uni0C4D by uni0C1C_uni0C4D.abvs;
+  sub uni0C1D uni0C4D by uni0C1D_uni0C4D.abvs;
+  sub uni0C1E uni0C4D by uni0C1E_uni0C4D.abvs;
+  sub uni0C1F uni0C4D by uni0C1F_uni0C4D.abvs;
+  sub uni0C20 uni0C4D by uni0C20_uni0C4D.abvs;
+  sub uni0C21 uni0C4D by uni0C21_uni0C4D.abvs;
+  sub uni0C22 uni0C4D by uni0C22_uni0C4D.abvs;
+  sub uni0C23 uni0C4D by uni0C23_uni0C4D.abvs;
+  sub uni0C24 uni0C4D by uni0C24_uni0C4D.abvs;
+  sub uni0C25 uni0C4D by uni0C25_uni0C4D.abvs;
+  sub uni0C26 uni0C4D by uni0C26_uni0C4D.abvs;
+  sub uni0C27 uni0C4D by uni0C27_uni0C4D.abvs;
+  sub uni0C28 uni0C4D by uni0C28_uni0C4D.abvs;
+  sub uni0C2A uni0C4D by uni0C2A_uni0C4D.abvs;
+  sub uni0C2B uni0C4D by uni0C2B_uni0C4D.abvs;
+  sub uni0C2C uni0C4D by uni0C2C_uni0C4D.abvs;
+  sub uni0C2D uni0C4D by uni0C2D_uni0C4D.abvs;
+  sub uni0C2E uni0C4D by uni0C2E_uni0C4D.abvs;
+  sub uni0C2F uni0C4D by uni0C2F_uni0C4D.abvs;
+  sub uni0C30 uni0C4D by uni0C30_uni0C4D.abvs;
+  sub uni0C31 uni0C4D by uni0C31_uni0C4D.abvs;
+  sub uni0C32 uni0C4D by uni0C32_uni0C4D.abvs;
+  sub uni0C33 uni0C4D by uni0C33_uni0C4D.abvs;
+  sub uni0C35 uni0C4D by uni0C35_uni0C4D.abvs;
+  sub uni0C36 uni0C4D by uni0C36_uni0C4D.abvs;
+  sub uni0C37 uni0C4D by uni0C37_uni0C4D.abvs;
+  sub uni0C38 uni0C4D by uni0C38_uni0C4D.abvs;
+  sub uni0C39 uni0C4D by uni0C39_uni0C4D.abvs;
+  sub uni0C58 uni0C4D by uni0C58_uni0C4D.abvs;
+  sub uni0C59 uni0C4D by uni0C59_uni0C4D.abvs;
+  sub uni0C15_uni0C37_uni0C4D.akhn uni0C4D by uni0C15_uni0C37_uni0C4D.akhn_un;
+  sub uni0C48 by uni0C56;
+  ignore sub @abvs uni0C43';
+  sub @abvs uni0C44' by glyph1215;
+  ignore sub []';
+
+} abvs;
+
+feature blws {
+# GSUB feature: Below-base Substitutions
+# Lookups: 314
+
+
+  lookup blws {
+  # GSUB lookup 339, type 16 (Chaining Context)
+    ignore sub []';
+  } blws;
+
+
+  script telu; # Telugu
+  sub uni0C56' @blws3 by glyph1217;
+  sub uni0C56' [uni0C28_uni0C4D.blwf uni0C2A_uni0C4D.blwf uni0C38_uni0C4D.blwf] by glyph1218;
+  sub uni0C56' uni0C2B_uni0C4D.blwf by glyph1219;
+  sub uni0C56' [uni0C33_uni0C4D.blwf uni0C36_uni0C4D.blwf] by glyph1220;
+  sub uni0C56' [uni0C15_uni0C4D.blwf uni0C35_uni0C4D.blwf] by glyph1221;
+  sub uni0C56' [uni0C2E_uni0C4D.blwf uni0C2F_uni0C4D.blwf] by glyph1222;
+  sub uni0C56' [glyph744 uni0C19_uni0C4D.blwf_uni0C17_un uni0C1F_uni0C4D.blwf_uni0C32_un uni0C37_uni0C4D.blwf_uni0C1F_un uni0C37_uni0C4D.blwf_uni0C20_un uni0C37_uni0C4D.blwf_uni0C23_un] by glyph1223;
+  sub uni0C15 uni0C30_uni0C4D.blwf by uni0C15_uni0C30_uni0C4D.blwf.bl;
+  sub uni0C16 uni0C30_uni0C4D.blwf by uni0C16_uni0C30_uni0C4D.blwf.bl;
+  sub uni0C17 uni0C30_uni0C4D.blwf by uni0C17_uni0C30_uni0C4D.blwf.bl;
+  sub uni0C18 uni0C30_uni0C4D.blwf by uni0C18_uni0C30_uni0C4D.blwf.bl;
+  sub uni0C19 uni0C30_uni0C4D.blwf by uni0C19_uni0C30_uni0C4D.blwf.bl;
+  sub uni0C1A uni0C30_uni0C4D.blwf by uni0C1A_uni0C30_uni0C4D.blwf.bl;
+  sub uni0C1B uni0C30_uni0C4D.blwf by uni0C1B_uni0C30_uni0C4D.blwf.bl;
+  sub uni0C1C uni0C30_uni0C4D.blwf by uni0C1C_uni0C30_uni0C4D.blwf.bl;
+  sub uni0C1D uni0C30_uni0C4D.blwf by uni0C1D_uni0C30_uni0C4D.blwf.bl;
+  sub uni0C1E uni0C30_uni0C4D.blwf by uni0C1E_uni0C30_uni0C4D.blwf.bl;
+  sub uni0C1F uni0C30_uni0C4D.blwf by uni0C1F_uni0C30_uni0C4D.blwf.bl;
+  sub uni0C20 uni0C30_uni0C4D.blwf by uni0C20_uni0C30_uni0C4D.blwf.bl;
+  sub uni0C21 uni0C30_uni0C4D.blwf by uni0C21_uni0C30_uni0C4D.blwf.bl;
+  sub uni0C22 uni0C30_uni0C4D.blwf by uni0C22_uni0C30_uni0C4D.blwf.bl;
+  sub uni0C23 uni0C30_uni0C4D.blwf by uni0C23_uni0C30_uni0C4D.blwf.bl;
+  sub uni0C24 uni0C30_uni0C4D.blwf by uni0C24_uni0C30_uni0C4D.blwf.bl;
+  sub uni0C25 uni0C30_uni0C4D.blwf by uni0C25_uni0C30_uni0C4D.blwf.bl;
+  sub uni0C26 uni0C30_uni0C4D.blwf by uni0C26_uni0C30_uni0C4D.blwf.bl;
+  sub uni0C27 uni0C30_uni0C4D.blwf by uni0C27_uni0C30_uni0C4D.blwf.bl;
+  sub uni0C28 uni0C30_uni0C4D.blwf by uni0C28_uni0C30_uni0C4D.blwf.bl;
+  sub uni0C2A uni0C30_uni0C4D.blwf by uni0C2A_uni0C30_uni0C4D.blwf.bl;
+  sub uni0C2B uni0C30_uni0C4D.blwf by uni0C2B_uni0C30_uni0C4D.blwf.bl;
+  sub uni0C2C uni0C30_uni0C4D.blwf by uni0C2C_uni0C30_uni0C4D.blwf.bl;
+  sub uni0C2D uni0C30_uni0C4D.blwf by uni0C2D_uni0C30_uni0C4D.blwf.bl;
+  sub uni0C2E uni0C30_uni0C4D.blwf by uni0C2E_uni0C30_uni0C4D.blwf.bl;
+  sub uni0C2F uni0C30_uni0C4D.blwf by uni0C2F_uni0C30_uni0C4D.blwf.bl;
+  sub uni0C30 uni0C30_uni0C4D.blwf by uni0C30_uni0C30_uni0C4D.blwf.bl;
+  sub uni0C31 uni0C30_uni0C4D.blwf by uni0C31_uni0C30_uni0C4D.blwf.bl;
+  sub uni0C32 uni0C30_uni0C4D.blwf by uni0C32_uni0C30_uni0C4D.blwf.bl;
+  sub uni0C33 uni0C30_uni0C4D.blwf by uni0C33_uni0C30_uni0C4D.blwf.bl;
+  sub uni0C35 uni0C30_uni0C4D.blwf by uni0C35_uni0C30_uni0C4D.blwf.bl;
+  sub uni0C36 uni0C30_uni0C4D.blwf by uni0C36_uni0C30_uni0C4D.blwf.bl;
+  sub uni0C37 uni0C30_uni0C4D.blwf by uni0C37_uni0C30_uni0C4D.blwf.bl;
+  sub uni0C38 uni0C30_uni0C4D.blwf by uni0C38_uni0C30_uni0C4D.blwf.bl;
+  sub uni0C39 uni0C30_uni0C4D.blwf by uni0C39_uni0C30_uni0C4D.blwf.bl;
+  sub uni0C15_uni0C3E.abvs uni0C30_uni0C4D.blwf by uni0C15_uni0C3E.abvs_uni0C30_un;
+  sub uni0C16_uni0C3E.abvs uni0C30_uni0C4D.blwf by uni0C16_uni0C3E.abvs_uni0C30_un;
+  sub uni0C17_uni0C3E.abvs uni0C30_uni0C4D.blwf by uni0C17_uni0C3E.abvs_uni0C30_un;
+  sub uni0C18_uni0C3E.abvs uni0C30_uni0C4D.blwf by uni0C18_uni0C3E.abvs_uni0C30_un;
+  sub uni0C19_uni0C3E.abvs uni0C30_uni0C4D.blwf by uni0C19_uni0C3E.abvs_uni0C30_un;
+  sub uni0C1A_uni0C3E.abvs uni0C30_uni0C4D.blwf by uni0C1A_uni0C3E.abvs_uni0C30_un;
+  sub uni0C1B_uni0C3E.abvs uni0C30_uni0C4D.blwf by uni0C1B_uni0C3E.abvs_uni0C30_un;
+  sub uni0C1C_uni0C3E.abvs uni0C30_uni0C4D.blwf by uni0C1C_uni0C3E.abvs_uni0C30_un;
+  sub uni0C1D_uni0C3E.abvs uni0C30_uni0C4D.blwf by uni0C1D_uni0C3E.abvs_uni0C30_un;
+  sub uni0C1E_uni0C3E.abvs uni0C30_uni0C4D.blwf by uni0C1E_uni0C3E.abvs_uni0C30_un;
+  sub uni0C1F_uni0C3E.abvs uni0C30_uni0C4D.blwf by uni0C1F_uni0C3E.abvs_uni0C30_un;
+  sub uni0C20_uni0C3E.abvs uni0C30_uni0C4D.blwf by uni0C20_uni0C3E.abvs_uni0C30_un;
+  sub uni0C21_uni0C3E.abvs uni0C30_uni0C4D.blwf by uni0C21_uni0C3E.abvs_uni0C30_un;
+  sub uni0C22_uni0C3E.abvs uni0C30_uni0C4D.blwf by uni0C22_uni0C3E.abvs_uni0C30_un;
+  sub uni0C23_uni0C3E.abvs uni0C30_uni0C4D.blwf by uni0C23_uni0C3E.abvs_uni0C30_un;
+  sub uni0C24_uni0C3E.abvs uni0C30_uni0C4D.blwf by uni0C24_uni0C3E.abvs_uni0C30_un;
+  sub uni0C25_uni0C3E.abvs uni0C30_uni0C4D.blwf by uni0C25_uni0C3E.abvs_uni0C30_un;
+  sub uni0C26_uni0C3E.abvs uni0C30_uni0C4D.blwf by uni0C26_uni0C3E.abvs_uni0C30_un;
+  sub uni0C27_uni0C3E.abvs uni0C30_uni0C4D.blwf by uni0C27_uni0C3E.abvs_uni0C30_un;
+  sub uni0C28_uni0C3E.abvs uni0C30_uni0C4D.blwf by uni0C28_uni0C3E.abvs_uni0C30_un;
+  sub uni0C2A_uni0C3E.abvs uni0C30_uni0C4D.blwf by uni0C2A_uni0C3E.abvs_uni0C30_un;
+  sub uni0C2B_uni0C3E.abvs uni0C30_uni0C4D.blwf by uni0C2B_uni0C3E.abvs_uni0C30_un;
+  sub uni0C2C_uni0C3E.abvs uni0C30_uni0C4D.blwf by uni0C2C_uni0C3E.abvs_uni0C30_un;
+  sub uni0C2D_uni0C3E.abvs uni0C30_uni0C4D.blwf by uni0C2D_uni0C3E.abvs_uni0C30_un;
+  sub uni0C2E_uni0C3E.abvs uni0C30_uni0C4D.blwf by uni0C2E_uni0C3E.abvs_uni0C30_un;
+  sub uni0C2F_uni0C3E.abvs uni0C30_uni0C4D.blwf by uni0C2F_uni0C3E.abvs_uni0C30_un;
+  sub uni0C30_uni0C3E.abvs uni0C30_uni0C4D.blwf by uni0C30_uni0C3E.abvs_uni0C30_un;
+  sub uni0C31_uni0C3E.abvs uni0C30_uni0C4D.blwf by uni0C31_uni0C3E.abvs_uni0C30_un;
+  sub uni0C32_uni0C3E.abvs uni0C30_uni0C4D.blwf by uni0C32_uni0C3E.abvs_uni0C30_un;
+  sub uni0C33_uni0C3E.abvs uni0C30_uni0C4D.blwf by uni0C33_uni0C3E.abvs_uni0C30_un;
+  sub uni0C35_uni0C3E.abvs uni0C30_uni0C4D.blwf by uni0C35_uni0C3E.abvs_uni0C30_un;
+  sub uni0C36_uni0C3E.abvs uni0C30_uni0C4D.blwf by uni0C36_uni0C3E.abvs_uni0C30_un;
+  sub uni0C37_uni0C3E.abvs uni0C30_uni0C4D.blwf by uni0C37_uni0C3E.abvs_uni0C30_un;
+  sub uni0C38_uni0C3E.abvs uni0C30_uni0C4D.blwf by uni0C38_uni0C3E.abvs_uni0C30_un;
+  sub uni0C39_uni0C3E.abvs uni0C30_uni0C4D.blwf by uni0C39_uni0C3E.abvs_uni0C30_un;
+  sub uni0C15_uni0C3E_uni0C37_uni0C4D uni0C30_uni0C4D.blwf by uni0C15_uni0C3E_uni0C37_uni0C4D;
+  sub uni0C15_uni0C3F.abvs uni0C30_uni0C4D.blwf by uni0C15_uni0C3F.abvs_uni0C30_un;
+  sub uni0C16_uni0C3F.abvs uni0C30_uni0C4D.blwf by uni0C16_uni0C3F.abvs_uni0C30_un;
+  sub uni0C17_uni0C3F.abvs uni0C30_uni0C4D.blwf by uni0C17_uni0C3F.abvs_uni0C30_un;
+  sub uni0C18_uni0C3F.abvs uni0C30_uni0C4D.blwf by uni0C18_uni0C3F.abvs_uni0C30_un;
+  sub uni0C19_uni0C3F.abvs uni0C30_uni0C4D.blwf by uni0C19_uni0C3F.abvs_uni0C30_un;
+  sub uni0C1A_uni0C3F.abvs uni0C30_uni0C4D.blwf by uni0C1A_uni0C3F.abvs_uni0C30_un;
+  sub uni0C1B_uni0C3F.abvs uni0C30_uni0C4D.blwf by uni0C1B_uni0C3F.abvs_uni0C30_un;
+  sub uni0C1C_uni0C3F.abvs uni0C30_uni0C4D.blwf by uni0C1C_uni0C3F.abvs_uni0C30_un;
+  sub uni0C1D_uni0C3F.abvs uni0C30_uni0C4D.blwf by uni0C1D_uni0C3F.abvs_uni0C30_un;
+  sub uni0C1E_uni0C3F.abvs uni0C30_uni0C4D.blwf by uni0C1E_uni0C3F.abvs_uni0C30_un;
+  sub uni0C1F_uni0C3F.abvs uni0C30_uni0C4D.blwf by uni0C1F_uni0C3F.abvs_uni0C30_un;
+  sub uni0C20_uni0C3F.abvs uni0C30_uni0C4D.blwf by uni0C20_uni0C3F.abvs_uni0C30_un;
+  sub uni0C21_uni0C3F.abvs uni0C30_uni0C4D.blwf by uni0C21_uni0C3F.abvs_uni0C30_un;
+  sub uni0C22_uni0C3F.abvs uni0C30_uni0C4D.blwf by uni0C22_uni0C3F.abvs_uni0C30_un;
+  sub uni0C23_uni0C3F.abvs uni0C30_uni0C4D.blwf by uni0C23_uni0C3F.abvs_uni0C30_un;
+  sub uni0C24_uni0C3F.abvs uni0C30_uni0C4D.blwf by uni0C24_uni0C3F.abvs_uni0C30_un;
+  sub uni0C25_uni0C3F.abvs uni0C30_uni0C4D.blwf by uni0C25_uni0C3F.abvs_uni0C30_un;
+  sub uni0C26_uni0C3F.abvs uni0C30_uni0C4D.blwf by uni0C26_uni0C3F.abvs_uni0C30_un;
+  sub uni0C27_uni0C3F.abvs uni0C30_uni0C4D.blwf by uni0C27_uni0C3F.abvs_uni0C30_un;
+  sub uni0C28_uni0C3F.abvs uni0C30_uni0C4D.blwf by uni0C28_uni0C3F.abvs_uni0C30_un;
+  sub uni0C2A_uni0C3F.abvs uni0C30_uni0C4D.blwf by uni0C2A_uni0C3F.abvs_uni0C30_un;
+  sub uni0C2B_uni0C3F.abvs uni0C30_uni0C4D.blwf by uni0C2B_uni0C3F.abvs_uni0C30_un;
+  sub uni0C2C_uni0C3F.abvs uni0C30_uni0C4D.blwf by uni0C2C_uni0C3F.abvs_uni0C30_un;
+  sub uni0C2D_uni0C3F.abvs uni0C30_uni0C4D.blwf by uni0C2D_uni0C3F.abvs_uni0C30_un;
+  sub uni0C2E_uni0C3F.abvs uni0C30_uni0C4D.blwf by uni0C2E_uni0C3F.abvs_uni0C30_un;
+  sub uni0C2F_uni0C3F.abvs uni0C30_uni0C4D.blwf by uni0C2F_uni0C3F.abvs_uni0C30_un;
+  sub uni0C30_uni0C3F.abvs uni0C30_uni0C4D.blwf by uni0C30_uni0C3F.abvs_uni0C30_un;
+  sub uni0C31_uni0C3F.abvs uni0C30_uni0C4D.blwf by uni0C31_uni0C3F.abvs_uni0C30_un;
+  sub uni0C32_uni0C3F.abvs uni0C30_uni0C4D.blwf by uni0C32_uni0C3F.abvs_uni0C30_un;
+  sub uni0C33_uni0C3F.abvs uni0C30_uni0C4D.blwf by uni0C33_uni0C3F.abvs_uni0C30_un;
+  sub uni0C35_uni0C3F.abvs uni0C30_uni0C4D.blwf by uni0C35_uni0C3F.abvs_uni0C30_un;
+  sub uni0C36_uni0C3F.abvs uni0C30_uni0C4D.blwf by uni0C36_uni0C3F.abvs_uni0C30_un;
+  sub uni0C37_uni0C3F.abvs uni0C30_uni0C4D.blwf by uni0C37_uni0C3F.abvs_uni0C30_un;
+  sub uni0C38_uni0C3F.abvs uni0C30_uni0C4D.blwf by uni0C38_uni0C3F.abvs_uni0C30_un;
+  sub uni0C39_uni0C3F.abvs uni0C30_uni0C4D.blwf by uni0C39_uni0C3F.abvs_uni0C30_un;
+  sub uni0C15_uni0C3F_uni0C37_uni0C4D uni0C30_uni0C4D.blwf by uni0C15_uni0C3F_uni0C37_uni0C4D;
+  sub uni0C15_uni0C40.abvs uni0C30_uni0C4D.blwf by uni0C15_uni0C40.abvs_uni0C30_un;
+  sub uni0C16_uni0C40.abvs uni0C30_uni0C4D.blwf by uni0C16_uni0C40.abvs_uni0C30_un;
+  sub uni0C17_uni0C40.abvs uni0C30_uni0C4D.blwf by uni0C17_uni0C40.abvs_uni0C30_un;
+  sub uni0C18_uni0C40.abvs uni0C30_uni0C4D.blwf by uni0C18_uni0C40.abvs_uni0C30_un;
+  sub uni0C19_uni0C40.abvs uni0C30_uni0C4D.blwf by uni0C19_uni0C40.abvs_uni0C30_un;
+  sub uni0C1A_uni0C40.abvs uni0C30_uni0C4D.blwf by uni0C1A_uni0C40.abvs_uni0C30_un;
+  sub uni0C1B_uni0C40.abvs uni0C30_uni0C4D.blwf by uni0C1B_uni0C40.abvs_uni0C30_un;
+  sub uni0C1C_uni0C40.abvs uni0C30_uni0C4D.blwf by uni0C1C_uni0C40.abvs_uni0C30_un;
+  sub uni0C1D_uni0C40.abvs uni0C30_uni0C4D.blwf by uni0C1D_uni0C40.abvs_uni0C30_un;
+  sub uni0C1E_uni0C40.abvs uni0C30_uni0C4D.blwf by uni0C1E_uni0C40.abvs_uni0C30_un;
+  sub uni0C1F_uni0C40.abvs uni0C30_uni0C4D.blwf by uni0C1F_uni0C40.abvs_uni0C30_un;
+  sub uni0C20_uni0C40.abvs uni0C30_uni0C4D.blwf by uni0C20_uni0C40.abvs_uni0C30_un;
+  sub uni0C21_uni0C40.abvs uni0C30_uni0C4D.blwf by uni0C21_uni0C40.abvs_uni0C30_un;
+  sub uni0C22_uni0C40.abvs uni0C30_uni0C4D.blwf by uni0C22_uni0C40.abvs_uni0C30_un;
+  sub uni0C23_uni0C40.abvs uni0C30_uni0C4D.blwf by uni0C23_uni0C40.abvs_uni0C30_un;
+  sub uni0C24_uni0C40.abvs uni0C30_uni0C4D.blwf by uni0C24_uni0C40.abvs_uni0C30_un;
+  sub uni0C25_uni0C40.abvs uni0C30_uni0C4D.blwf by uni0C25_uni0C40.abvs_uni0C30_un;
+  sub uni0C26_uni0C40.abvs uni0C30_uni0C4D.blwf by uni0C26_uni0C40.abvs_uni0C30_un;
+  sub uni0C27_uni0C40.abvs uni0C30_uni0C4D.blwf by uni0C27_uni0C40.abvs_uni0C30_un;
+  sub uni0C28_uni0C40.abvs uni0C30_uni0C4D.blwf by uni0C28_uni0C40.abvs_uni0C30_un;
+  sub uni0C2A_uni0C40.abvs uni0C30_uni0C4D.blwf by uni0C2A_uni0C40.abvs_uni0C30_un;
+  sub uni0C2B_uni0C40.abvs uni0C30_uni0C4D.blwf by uni0C2B_uni0C40.abvs_uni0C30_un;
+  sub uni0C2C_uni0C40.abvs uni0C30_uni0C4D.blwf by uni0C2C_uni0C40.abvs_uni0C30_un;
+  sub uni0C2D_uni0C40.abvs uni0C30_uni0C4D.blwf by uni0C2D_uni0C40.abvs_uni0C30_un;
+  sub uni0C2E_uni0C40.abvs uni0C30_uni0C4D.blwf by uni0C2E_uni0C40.abvs_uni0C30_un;
+  sub uni0C2F_uni0C40.abvs uni0C30_uni0C4D.blwf by uni0C2F_uni0C40.abvs_uni0C30_un;
+  sub uni0C30_uni0C40.abvs uni0C30_uni0C4D.blwf by uni0C30_uni0C40.abvs_uni0C30_un;
+  sub uni0C31_uni0C40.abvs uni0C30_uni0C4D.blwf by uni0C31_uni0C40.abvs_uni0C30_un;
+  sub uni0C32_uni0C40.abvs uni0C30_uni0C4D.blwf by uni0C32_uni0C40.abvs_uni0C30_un;
+  sub uni0C33_uni0C40.abvs uni0C30_uni0C4D.blwf by uni0C33_uni0C40.abvs_uni0C30_un;
+  sub uni0C35_uni0C40.abvs uni0C30_uni0C4D.blwf by uni0C35_uni0C40.abvs_uni0C30_un;
+  sub uni0C36_uni0C40.abvs uni0C30_uni0C4D.blwf by uni0C36_uni0C40.abvs_uni0C30_un;
+  sub uni0C37_uni0C40.abvs uni0C30_uni0C4D.blwf by uni0C37_uni0C40.abvs_uni0C30_un;
+  sub uni0C38_uni0C40.abvs uni0C30_uni0C4D.blwf by uni0C38_uni0C40.abvs_uni0C30_un;
+  sub uni0C39_uni0C40.abvs uni0C30_uni0C4D.blwf by uni0C39_uni0C40.abvs_uni0C30_un;
+  sub uni0C15_uni0C40_uni0C37_uni0C4D uni0C30_uni0C4D.blwf by uni0C15_uni0C40_uni0C37_uni0C4D;
+  sub uni0C15_uni0C41.abvs uni0C30_uni0C4D.blwf by uni0C15_uni0C41.abvs_uni0C30_un;
+  sub uni0C16_uni0C41.abvs uni0C30_uni0C4D.blwf by uni0C16_uni0C41.abvs_uni0C30_un;
+  sub uni0C17_uni0C41.abvs uni0C30_uni0C4D.blwf by uni0C17_uni0C41.abvs_uni0C30_un;
+  sub uni0C18_uni0C41.abvs uni0C30_uni0C4D.blwf by uni0C18_uni0C41.abvs_uni0C30_un;
+  sub uni0C19_uni0C41.abvs uni0C30_uni0C4D.blwf by uni0C19_uni0C41.abvs_uni0C30_un;
+  sub uni0C1A_uni0C41.abvs uni0C30_uni0C4D.blwf by uni0C1A_uni0C41.abvs_uni0C30_un;
+  sub uni0C1B_uni0C41.abvs uni0C30_uni0C4D.blwf by uni0C1B_uni0C41.abvs_uni0C30_un;
+  sub uni0C1C_uni0C41.abvs uni0C30_uni0C4D.blwf by uni0C1C_uni0C41.abvs_uni0C30_un;
+  sub uni0C1D_uni0C41.abvs uni0C30_uni0C4D.blwf by uni0C1D_uni0C41.abvs_uni0C30_un;
+  sub uni0C1E_uni0C41.abvs uni0C30_uni0C4D.blwf by uni0C1E_uni0C41.abvs_uni0C30_un;
+  sub uni0C1F_uni0C41.abvs uni0C30_uni0C4D.blwf by uni0C1F_uni0C41.abvs_uni0C30_un;
+  sub uni0C20_uni0C41.abvs uni0C30_uni0C4D.blwf by uni0C20_uni0C41.abvs_uni0C30_un;
+  sub uni0C21_uni0C41.abvs uni0C30_uni0C4D.blwf by uni0C21_uni0C41.abvs_uni0C30_un;
+  sub uni0C22_uni0C41.abvs uni0C30_uni0C4D.blwf by uni0C22_uni0C41.abvs_uni0C30_un;
+  sub uni0C23_uni0C41.abvs uni0C30_uni0C4D.blwf by uni0C23_uni0C41.abvs_uni0C30_un;
+  sub uni0C24_uni0C41.abvs uni0C30_uni0C4D.blwf by uni0C24_uni0C41.abvs_uni0C30_un;
+  sub uni0C25_uni0C41.abvs uni0C30_uni0C4D.blwf by uni0C25_uni0C41.abvs_uni0C30_un;
+  sub uni0C26_uni0C41.abvs uni0C30_uni0C4D.blwf by uni0C26_uni0C41.abvs_uni0C30_un;
+  sub uni0C27_uni0C41.abvs uni0C30_uni0C4D.blwf by uni0C27_uni0C41.abvs_uni0C30_un;
+  sub uni0C28_uni0C41.abvs uni0C30_uni0C4D.blwf by uni0C28_uni0C41.abvs_uni0C30_un;
+  sub uni0C2A_uni0C41.abvs uni0C30_uni0C4D.blwf by uni0C2A_uni0C41.abvs_uni0C30_un;
+  sub uni0C2B_uni0C41.abvs uni0C30_uni0C4D.blwf by uni0C2B_uni0C41.abvs_uni0C30_un;
+  sub uni0C2C_uni0C41.abvs uni0C30_uni0C4D.blwf by uni0C2C_uni0C41.abvs_uni0C30_un;
+  sub uni0C2D_uni0C41.abvs uni0C30_uni0C4D.blwf by uni0C2D_uni0C41.abvs_uni0C30_un;
+  sub uni0C2E_uni0C41.abvs uni0C30_uni0C4D.blwf by uni0C2E_uni0C41.abvs_uni0C30_un;
+  sub uni0C2F_uni0C41.abvs uni0C30_uni0C4D.blwf by uni0C2F_uni0C41.abvs_uni0C30_un;
+  sub uni0C30_uni0C41.abvs uni0C30_uni0C4D.blwf by uni0C30_uni0C41.abvs_uni0C30_un;
+  sub uni0C31_uni0C41.abvs uni0C30_uni0C4D.blwf by uni0C31_uni0C41.abvs_uni0C30_un;
+  sub uni0C32_uni0C41.abvs uni0C30_uni0C4D.blwf by uni0C32_uni0C41.abvs_uni0C30_un;
+  sub uni0C33_uni0C41.abvs uni0C30_uni0C4D.blwf by uni0C33_uni0C41.abvs_uni0C30_un;
+  sub uni0C35_uni0C41.abvs uni0C30_uni0C4D.blwf by uni0C35_uni0C41.abvs_uni0C30_un;
+  sub uni0C36_uni0C41.abvs uni0C30_uni0C4D.blwf by uni0C36_uni0C41.abvs_uni0C30_un;
+  sub uni0C37_uni0C41.abvs uni0C30_uni0C4D.blwf by uni0C37_uni0C41.abvs_uni0C30_un;
+  sub uni0C38_uni0C41.abvs uni0C30_uni0C4D.blwf by uni0C38_uni0C41.abvs_uni0C30_un;
+  sub uni0C39_uni0C41.abvs uni0C30_uni0C4D.blwf by uni0C39_uni0C41.abvs_uni0C30_un;
+  sub uni0C15_uni0C41_uni0C37_uni0C4D uni0C30_uni0C4D.blwf by uni0C15_uni0C41_uni0C37_uni0C4D;
+  sub uni0C15_uni0C42.abvs uni0C30_uni0C4D.blwf by uni0C15_uni0C42.abvs_uni0C30_un;
+  sub uni0C16_uni0C42.abvs uni0C30_uni0C4D.blwf by uni0C16_uni0C42.abvs_uni0C30_un;
+  sub uni0C17_uni0C42.abvs uni0C30_uni0C4D.blwf by uni0C17_uni0C42.abvs_uni0C30_un;
+  sub uni0C18_uni0C42.abvs uni0C30_uni0C4D.blwf by uni0C18_uni0C42.abvs_uni0C30_un;
+  sub uni0C19_uni0C42.abvs uni0C30_uni0C4D.blwf by uni0C19_uni0C42.abvs_uni0C30_un;
+  sub uni0C1A_uni0C42.abvs uni0C30_uni0C4D.blwf by uni0C1A_uni0C42.abvs_uni0C30_un;
+  sub uni0C1B_uni0C42.abvs uni0C30_uni0C4D.blwf by uni0C1B_uni0C42.abvs_uni0C30_un;
+  sub uni0C1C_uni0C42.abvs uni0C30_uni0C4D.blwf by uni0C1C_uni0C42.abvs_uni0C30_un;
+  sub uni0C1D_uni0C42.abvs uni0C30_uni0C4D.blwf by uni0C1D_uni0C42.abvs_uni0C30_un;
+  sub uni0C1E_uni0C42.abvs uni0C30_uni0C4D.blwf by uni0C1E_uni0C42.abvs_uni0C30_un;
+  sub uni0C1F_uni0C42.abvs uni0C30_uni0C4D.blwf by uni0C1F_uni0C42.abvs_uni0C30_un;
+  sub uni0C20_uni0C42.abvs uni0C30_uni0C4D.blwf by uni0C20_uni0C42.abvs_uni0C30_un;
+  sub uni0C21_uni0C42.abvs uni0C30_uni0C4D.blwf by uni0C21_uni0C42.abvs_uni0C30_un;
+  sub uni0C22_uni0C42.abvs uni0C30_uni0C4D.blwf by uni0C22_uni0C42.abvs_uni0C30_un;
+  sub uni0C23_uni0C42.abvs uni0C30_uni0C4D.blwf by uni0C23_uni0C42.abvs_uni0C30_un;
+  sub uni0C24_uni0C42.abvs uni0C30_uni0C4D.blwf by uni0C24_uni0C42.abvs_uni0C30_un;
+  sub uni0C25_uni0C42.abvs uni0C30_uni0C4D.blwf by uni0C25_uni0C42.abvs_uni0C30_un;
+  sub uni0C26_uni0C42.abvs uni0C30_uni0C4D.blwf by uni0C26_uni0C42.abvs_uni0C30_un;
+  sub uni0C27_uni0C42.abvs uni0C30_uni0C4D.blwf by uni0C27_uni0C42.abvs_uni0C30_un;
+  sub uni0C28_uni0C42.abvs uni0C30_uni0C4D.blwf by uni0C28_uni0C42.abvs_uni0C30_un;
+  sub uni0C2A_uni0C42.abvs uni0C30_uni0C4D.blwf by uni0C2A_uni0C42.abvs_uni0C30_un;
+  sub uni0C2B_uni0C42.abvs uni0C30_uni0C4D.blwf by uni0C2B_uni0C42.abvs_uni0C30_un;
+  sub uni0C2C_uni0C42.abvs uni0C30_uni0C4D.blwf by uni0C2C_uni0C42.abvs_uni0C30_un;
+  sub uni0C2D_uni0C42.abvs uni0C30_uni0C4D.blwf by uni0C2D_uni0C42.abvs_uni0C30_un;
+  sub uni0C2E_uni0C42.abvs uni0C30_uni0C4D.blwf by uni0C2E_uni0C42.abvs_uni0C30_un;
+  sub uni0C2F_uni0C42.abvs uni0C30_uni0C4D.blwf by uni0C2F_uni0C42.abvs_uni0C30_un;
+  sub uni0C30_uni0C42.abvs uni0C30_uni0C4D.blwf by uni0C30_uni0C42.abvs_uni0C30_un;
+  sub uni0C31_uni0C42.abvs uni0C30_uni0C4D.blwf by uni0C31_uni0C42.abvs_uni0C30_un;
+  sub uni0C32_uni0C42.abvs uni0C30_uni0C4D.blwf by uni0C32_uni0C42.abvs_uni0C30_un;
+  sub uni0C33_uni0C42.abvs uni0C30_uni0C4D.blwf by uni0C33_uni0C42.abvs_uni0C30_un;
+  sub uni0C35_uni0C42.abvs uni0C30_uni0C4D.blwf by uni0C35_uni0C42.abvs_uni0C30_un;
+  sub uni0C36_uni0C42.abvs uni0C30_uni0C4D.blwf by uni0C36_uni0C42.abvs_uni0C30_un;
+  sub uni0C37_uni0C42.abvs uni0C30_uni0C4D.blwf by uni0C37_uni0C42.abvs_uni0C30_un;
+  sub uni0C38_uni0C42.abvs uni0C30_uni0C4D.blwf by uni0C38_uni0C42.abvs_uni0C30_un;
+  sub uni0C39_uni0C42.abvs uni0C30_uni0C4D.blwf by uni0C39_uni0C42.abvs_uni0C30_un;
+  sub uni0C15_uni0C42_uni0C37_uni0C4D uni0C30_uni0C4D.blwf by uni0C15_uni0C42_uni0C37_uni0C4D;
+  sub uni0C15_uni0C46.abvs uni0C30_uni0C4D.blwf by uni0C15_uni0C46.abvs_uni0C30_un;
+  sub uni0C15_uni0C46.abvs uni0C56 by uni0C15_uni0C48.abvs;
+  sub uni0C16_uni0C46.abvs uni0C30_uni0C4D.blwf by uni0C16_uni0C46.abvs_uni0C30_un;
+  sub uni0C16_uni0C46.abvs uni0C56 by uni0C16_uni0C48.abvs;
+  sub uni0C17_uni0C46.abvs uni0C30_uni0C4D.blwf by uni0C17_uni0C46.abvs_uni0C30_un;
+  sub uni0C17_uni0C46.abvs uni0C56 by uni0C17_uni0C48.abvs;
+  sub uni0C18_uni0C46.abvs uni0C30_uni0C4D.blwf by uni0C18_uni0C46.abvs_uni0C30_un;
+  sub uni0C18_uni0C46.abvs uni0C56 by uni0C18_uni0C48.abvs;
+  sub uni0C19_uni0C46.abvs uni0C30_uni0C4D.blwf by uni0C19_uni0C46.abvs_uni0C30_un;
+  sub uni0C19_uni0C46.abvs uni0C56 by uni0C19_uni0C48.abvs;
+  sub uni0C1A_uni0C46.abvs uni0C30_uni0C4D.blwf by uni0C1A_uni0C46.abvs_uni0C30_un;
+  sub uni0C1A_uni0C46.abvs uni0C56 by uni0C1A_uni0C48.abvs;
+  sub uni0C1B_uni0C46.abvs uni0C30_uni0C4D.blwf by uni0C1B_uni0C46.abvs_uni0C30_un;
+  sub uni0C1B_uni0C46.abvs uni0C56 by uni0C1B_uni0C48.abvs;
+  sub uni0C1C_uni0C46.abvs uni0C30_uni0C4D.blwf by uni0C1C_uni0C46.abvs_uni0C30_un;
+  sub uni0C1C_uni0C46.abvs uni0C56 by uni0C1C_uni0C48.abvs;
+  sub uni0C1D_uni0C46.abvs uni0C30_uni0C4D.blwf by uni0C1D_uni0C46.abvs_uni0C30_un;
+  sub uni0C1D_uni0C46.abvs uni0C56 by uni0C1D_uni0C48.abvs;
+  sub uni0C1E_uni0C46.abvs uni0C30_uni0C4D.blwf by uni0C1E_uni0C46.abvs_uni0C30_un;
+  sub uni0C1E_uni0C46.abvs uni0C56 by uni0C1E_uni0C48.abvs;
+  sub uni0C1F_uni0C46.abvs uni0C30_uni0C4D.blwf by uni0C1F_uni0C46.abvs_uni0C30_un;
+  sub uni0C1F_uni0C46.abvs uni0C56 by uni0C1F_uni0C48.abvs;
+  sub uni0C20_uni0C46.abvs uni0C30_uni0C4D.blwf by uni0C20_uni0C46.abvs_uni0C30_un;
+  sub uni0C20_uni0C46.abvs uni0C56 by uni0C20_uni0C48.abvs;
+  sub uni0C21_uni0C46.abvs uni0C30_uni0C4D.blwf by uni0C21_uni0C46.abvs_uni0C30_un;
+  sub uni0C21_uni0C46.abvs uni0C56 by uni0C21_uni0C48.abvs;
+  sub uni0C22_uni0C46.abvs uni0C30_uni0C4D.blwf by uni0C22_uni0C46.abvs_uni0C30_un;
+  sub uni0C22_uni0C46.abvs uni0C56 by uni0C22_uni0C48.abvs;
+  sub uni0C23_uni0C46.abvs uni0C30_uni0C4D.blwf by uni0C23_uni0C46.abvs_uni0C30_un;
+  sub uni0C23_uni0C46.abvs uni0C56 by uni0C23_uni0C48.abvs;
+  sub uni0C24_uni0C46.abvs uni0C30_uni0C4D.blwf by uni0C24_uni0C46.abvs_uni0C30_un;
+  sub uni0C24_uni0C46.abvs uni0C56 by uni0C24_uni0C48.abvs;
+  sub uni0C25_uni0C46.abvs uni0C30_uni0C4D.blwf by uni0C25_uni0C46.abvs_uni0C30_un;
+  sub uni0C25_uni0C46.abvs uni0C56 by uni0C25_uni0C48.abvs;
+  sub uni0C26_uni0C46.abvs uni0C30_uni0C4D.blwf by uni0C26_uni0C46.abvs_uni0C30_un;
+  sub uni0C26_uni0C46.abvs uni0C56 by uni0C26_uni0C48.abvs;
+  sub uni0C27_uni0C46.abvs uni0C30_uni0C4D.blwf by uni0C27_uni0C46.abvs_uni0C30_un;
+  sub uni0C27_uni0C46.abvs uni0C56 by uni0C27_uni0C48.abvs;
+  sub uni0C28_uni0C46.abvs uni0C30_uni0C4D.blwf by uni0C28_uni0C46.abvs_uni0C30_un;
+  sub uni0C28_uni0C46.abvs uni0C56 by uni0C28_uni0C48.abvs;
+  sub uni0C2A_uni0C46.abvs uni0C30_uni0C4D.blwf by uni0C2A_uni0C46.abvs_uni0C30_un;
+  sub uni0C2A_uni0C46.abvs uni0C56 by uni0C2A_uni0C48.abvs;
+  sub uni0C2B_uni0C46.abvs uni0C30_uni0C4D.blwf by uni0C2B_uni0C46.abvs_uni0C30_un;
+  sub uni0C2B_uni0C46.abvs uni0C56 by uni0C2B_uni0C48.abvs;
+  sub uni0C2C_uni0C46.abvs uni0C30_uni0C4D.blwf by uni0C2C_uni0C46.abvs_uni0C30_un;
+  sub uni0C2C_uni0C46.abvs uni0C56 by uni0C2C_uni0C48.abvs;
+  sub uni0C2D_uni0C46.abvs uni0C30_uni0C4D.blwf by uni0C2D_uni0C46.abvs_uni0C30_un;
+  sub uni0C2D_uni0C46.abvs uni0C56 by uni0C2D_uni0C48.abvs;
+  sub uni0C2E_uni0C46.abvs uni0C30_uni0C4D.blwf by uni0C2E_uni0C46.abvs_uni0C30_un;
+  sub uni0C2E_uni0C46.abvs uni0C56 by uni0C2E_uni0C48.abvs;
+  sub uni0C2F_uni0C46.abvs uni0C30_uni0C4D.blwf by uni0C2F_uni0C46.abvs_uni0C30_un;
+  sub uni0C2F_uni0C46.abvs uni0C56 by uni0C2F_uni0C48.abvs;
+  sub uni0C30_uni0C46.abvs uni0C30_uni0C4D.blwf by uni0C30_uni0C46.abvs_uni0C30_un;
+  sub uni0C30_uni0C46.abvs uni0C56 by uni0C30_uni0C48.abvs;
+  sub uni0C31_uni0C46.abvs uni0C30_uni0C4D.blwf by uni0C31_uni0C46.abvs_uni0C30_un;
+  sub uni0C31_uni0C46.abvs uni0C56 by uni0C31_uni0C48.abvs;
+  sub uni0C32_uni0C46.abvs uni0C30_uni0C4D.blwf by uni0C32_uni0C46.abvs_uni0C30_un;
+  sub uni0C32_uni0C46.abvs uni0C56 by uni0C32_uni0C48.abvs;
+  sub uni0C33_uni0C46.abvs uni0C30_uni0C4D.blwf by uni0C33_uni0C46.abvs_uni0C30_un;
+  sub uni0C33_uni0C46.abvs uni0C56 by uni0C33_uni0C48.abvs;
+  sub uni0C35_uni0C46.abvs uni0C30_uni0C4D.blwf by uni0C35_uni0C46.abvs_uni0C30_un;
+  sub uni0C35_uni0C46.abvs uni0C56 by uni0C35_uni0C48.abvs;
+  sub uni0C36_uni0C46.abvs uni0C30_uni0C4D.blwf by uni0C36_uni0C46.abvs_uni0C30_un;
+  sub uni0C36_uni0C46.abvs uni0C56 by uni0C36_uni0C48.abvs;
+  sub uni0C37_uni0C46.abvs uni0C30_uni0C4D.blwf by uni0C37_uni0C46.abvs_uni0C30_un;
+  sub uni0C37_uni0C46.abvs uni0C56 by uni0C37_uni0C48.abvs;
+  sub uni0C38_uni0C46.abvs uni0C30_uni0C4D.blwf by uni0C38_uni0C46.abvs_uni0C30_un;
+  sub uni0C38_uni0C46.abvs uni0C56 by uni0C38_uni0C48.abvs;
+  sub uni0C39_uni0C46.abvs uni0C30_uni0C4D.blwf by uni0C39_uni0C46.abvs_uni0C30_un;
+  sub uni0C39_uni0C46.abvs uni0C56 by uni0C39_uni0C48.abvs;
+  sub uni0C15_uni0C46_uni0C37_uni0C4D uni0C56 by uni0C15_uni0C46_uni0C56_uni0C37;
+  sub uni0C15_uni0C46_uni0C37_uni0C4D uni0C30_uni0C4D.blwf by uni0C15_uni0C46_uni0C37_uni0C4D;
+  sub uni0C15_uni0C47.abvs uni0C30_uni0C4D.blwf by uni0C15_uni0C47.abvs_uni0C30_un;
+  sub uni0C16_uni0C47.abvs uni0C30_uni0C4D.blwf by uni0C16_uni0C47.abvs_uni0C30_un;
+  sub uni0C17_uni0C47.abvs uni0C30_uni0C4D.blwf by uni0C17_uni0C47.abvs_uni0C30_un;
+  sub uni0C18_uni0C47.abvs uni0C30_uni0C4D.blwf by uni0C18_uni0C47.abvs_uni0C30_un;
+  sub uni0C19_uni0C47.abvs uni0C30_uni0C4D.blwf by uni0C19_uni0C47.abvs_uni0C30_un;
+  sub uni0C1A_uni0C47.abvs uni0C30_uni0C4D.blwf by uni0C1A_uni0C47.abvs_uni0C30_un;
+  sub uni0C1B_uni0C47.abvs uni0C30_uni0C4D.blwf by uni0C1B_uni0C47.abvs_uni0C30_un;
+  sub uni0C1C_uni0C47.abvs uni0C30_uni0C4D.blwf by uni0C1C_uni0C47.abvs_uni0C30_un;
+  sub uni0C1D_uni0C47.abvs uni0C30_uni0C4D.blwf by uni0C1D_uni0C47.abvs_uni0C30_un;
+  sub uni0C1E_uni0C47.abvs uni0C30_uni0C4D.blwf by uni0C1E_uni0C47.abvs_uni0C30_un;
+  sub uni0C1F_uni0C47.abvs uni0C30_uni0C4D.blwf by uni0C1F_uni0C47.abvs_uni0C30_un;
+  sub uni0C20_uni0C47.abvs uni0C30_uni0C4D.blwf by uni0C20_uni0C47.abvs_uni0C30_un;
+  sub uni0C21_uni0C47.abvs uni0C30_uni0C4D.blwf by uni0C21_uni0C47.abvs_uni0C30_un;
+  sub uni0C22_uni0C47.abvs uni0C30_uni0C4D.blwf by uni0C22_uni0C47.abvs_uni0C30_un;
+  sub uni0C23_uni0C47.abvs uni0C30_uni0C4D.blwf by uni0C23_uni0C47.abvs_uni0C30_un;
+  sub uni0C24_uni0C47.abvs uni0C30_uni0C4D.blwf by uni0C24_uni0C47.abvs_uni0C30_un;
+  sub uni0C25_uni0C47.abvs uni0C30_uni0C4D.blwf by uni0C25_uni0C47.abvs_uni0C30_un;
+  sub uni0C26_uni0C47.abvs uni0C30_uni0C4D.blwf by uni0C26_uni0C47.abvs_uni0C30_un;
+  sub uni0C27_uni0C47.abvs uni0C30_uni0C4D.blwf by uni0C27_uni0C47.abvs_uni0C30_un;
+  sub uni0C28_uni0C47.abvs uni0C30_uni0C4D.blwf by uni0C28_uni0C47.abvs_uni0C30_un;
+  sub uni0C2A_uni0C47.abvs uni0C30_uni0C4D.blwf by uni0C2A_uni0C47.abvs_uni0C30_un;
+  sub uni0C2B_uni0C47.abvs uni0C30_uni0C4D.blwf by uni0C2B_uni0C47.abvs_uni0C30_un;
+  sub uni0C2C_uni0C47.abvs uni0C30_uni0C4D.blwf by uni0C2C_uni0C47.abvs_uni0C30_un;
+  sub uni0C2D_uni0C47.abvs uni0C30_uni0C4D.blwf by uni0C2D_uni0C47.abvs_uni0C30_un;
+  sub uni0C2E_uni0C47.abvs uni0C30_uni0C4D.blwf by uni0C2E_uni0C47.abvs_uni0C30_un;
+  sub uni0C2F_uni0C47.abvs uni0C30_uni0C4D.blwf by uni0C2F_uni0C47.abvs_uni0C30_un;
+  sub uni0C30_uni0C47.abvs uni0C30_uni0C4D.blwf by uni0C30_uni0C47.abvs_uni0C30_un;
+  sub uni0C31_uni0C47.abvs uni0C30_uni0C4D.blwf by uni0C31_uni0C47.abvs_uni0C30_un;
+  sub uni0C32_uni0C47.abvs uni0C30_uni0C4D.blwf by uni0C32_uni0C47.abvs_uni0C30_un;
+  sub uni0C33_uni0C47.abvs uni0C30_uni0C4D.blwf by uni0C33_uni0C47.abvs_uni0C30_un;
+  sub uni0C35_uni0C47.abvs uni0C30_uni0C4D.blwf by uni0C35_uni0C47.abvs_uni0C30_un;
+  sub uni0C36_uni0C47.abvs uni0C30_uni0C4D.blwf by uni0C36_uni0C47.abvs_uni0C30_un;
+  sub uni0C37_uni0C47.abvs uni0C30_uni0C4D.blwf by uni0C37_uni0C47.abvs_uni0C30_un;
+  sub uni0C38_uni0C47.abvs uni0C30_uni0C4D.blwf by uni0C38_uni0C47.abvs_uni0C30_un;
+  sub uni0C39_uni0C47.abvs uni0C30_uni0C4D.blwf by uni0C39_uni0C47.abvs_uni0C30_un;
+  sub uni0C15_uni0C47_uni0C37_uni0C4D uni0C30_uni0C4D.blwf by uni0C15_uni0C47_uni0C37_uni0C4D;
+  sub uni0C15_uni0C4A.abvs uni0C30_uni0C4D.blwf by uni0C15_uni0C4A.abvs_uni0C30_un;
+  sub uni0C16_uni0C4A.abvs uni0C30_uni0C4D.blwf by uni0C16_uni0C4A.abvs_uni0C30_un;
+  sub uni0C17_uni0C4A.abvs uni0C30_uni0C4D.blwf by uni0C17_uni0C4A.abvs_uni0C30_un;
+  sub uni0C18_uni0C4A.abvs uni0C30_uni0C4D.blwf by uni0C18_uni0C4A.abvs_uni0C30_un;
+  sub uni0C19_uni0C4A.abvs uni0C30_uni0C4D.blwf by uni0C19_uni0C4A.abvs_uni0C30_un;
+  sub uni0C1A_uni0C4A.abvs uni0C30_uni0C4D.blwf by uni0C1A_uni0C4A.abvs_uni0C30_un;
+  sub uni0C1B_uni0C4A.abvs uni0C30_uni0C4D.blwf by uni0C1B_uni0C4A.abvs_uni0C30_un;
+  sub uni0C1C_uni0C4A.abvs uni0C30_uni0C4D.blwf by uni0C1C_uni0C4A.abvs_uni0C30_un;
+  sub uni0C1D_uni0C4A.abvs uni0C30_uni0C4D.blwf by uni0C1D_uni0C4A.abvs_uni0C30_un;
+  sub uni0C1E_uni0C4A.abvs uni0C30_uni0C4D.blwf by uni0C1E_uni0C4A.abvs_uni0C30_un;
+  sub uni0C1F_uni0C4A.abvs uni0C30_uni0C4D.blwf by uni0C1F_uni0C4A.abvs_uni0C30_un;
+  sub uni0C20_uni0C4A.abvs uni0C30_uni0C4D.blwf by uni0C20_uni0C4A.abvs_uni0C30_un;
+  sub uni0C21_uni0C4A.abvs uni0C30_uni0C4D.blwf by uni0C21_uni0C4A.abvs_uni0C30_un;
+  sub uni0C22_uni0C4A.abvs uni0C30_uni0C4D.blwf by uni0C22_uni0C4A.abvs_uni0C30_un;
+  sub uni0C23_uni0C4A.abvs uni0C30_uni0C4D.blwf by uni0C23_uni0C4A.abvs_uni0C30_un;
+  sub uni0C24_uni0C4A.abvs uni0C30_uni0C4D.blwf by uni0C24_uni0C4A.abvs_uni0C30_un;
+  sub uni0C25_uni0C4A.abvs uni0C30_uni0C4D.blwf by uni0C25_uni0C4A.abvs_uni0C30_un;
+  sub uni0C26_uni0C4A.abvs uni0C30_uni0C4D.blwf by uni0C26_uni0C4A.abvs_uni0C30_un;
+  sub uni0C27_uni0C4A.abvs uni0C30_uni0C4D.blwf by uni0C27_uni0C4A.abvs_uni0C30_un;
+  sub uni0C28_uni0C4A.abvs uni0C30_uni0C4D.blwf by uni0C28_uni0C4A.abvs_uni0C30_un;
+  sub uni0C2A_uni0C4A.abvs uni0C30_uni0C4D.blwf by uni0C2A_uni0C4A.abvs_uni0C30_un;
+  sub uni0C2B_uni0C4A.abvs uni0C30_uni0C4D.blwf by uni0C2B_uni0C4A.abvs_uni0C30_un;
+  sub uni0C2C_uni0C4A.abvs uni0C30_uni0C4D.blwf by uni0C2C_uni0C4A.abvs_uni0C30_un;
+  sub uni0C2D_uni0C4A.abvs uni0C30_uni0C4D.blwf by uni0C2D_uni0C4A.abvs_uni0C30_un;
+  sub uni0C2E_uni0C4A.abvs uni0C30_uni0C4D.blwf by uni0C2E_uni0C4A.abvs_uni0C30_un;
+  sub uni0C2F_uni0C4A.abvs uni0C30_uni0C4D.blwf by uni0C2F_uni0C4A.abvs_uni0C30_un;
+  sub uni0C30_uni0C4A.abvs uni0C30_uni0C4D.blwf by uni0C30_uni0C4A.abvs_uni0C30_un;
+  sub uni0C31_uni0C4A.abvs uni0C30_uni0C4D.blwf by uni0C31_uni0C4A.abvs_uni0C30_un;
+  sub uni0C32_uni0C4A.abvs uni0C30_uni0C4D.blwf by uni0C32_uni0C4A.abvs_uni0C30_un;
+  sub uni0C33_uni0C4A.abvs uni0C30_uni0C4D.blwf by uni0C33_uni0C4A.abvs_uni0C30_un;
+  sub uni0C35_uni0C4A.abvs uni0C30_uni0C4D.blwf by uni0C35_uni0C4A.abvs_uni0C30_un;
+  sub uni0C36_uni0C4A.abvs uni0C30_uni0C4D.blwf by uni0C36_uni0C4A.abvs_uni0C30_un;
+  sub uni0C37_uni0C4A.abvs uni0C30_uni0C4D.blwf by uni0C37_uni0C4A.abvs_uni0C30_un;
+  sub uni0C38_uni0C4A.abvs uni0C30_uni0C4D.blwf by uni0C38_uni0C4A.abvs_uni0C30_un;
+  sub uni0C39_uni0C4A.abvs uni0C30_uni0C4D.blwf by uni0C39_uni0C4A.abvs_uni0C30_un;
+  sub uni0C15_uni0C4A_uni0C37_uni0C4D uni0C30_uni0C4D.blwf by uni0C15_uni0C4A_uni0C37_uni0C4D;
+  sub uni0C15_uni0C4B.abvs uni0C30_uni0C4D.blwf by uni0C15_uni0C4B.abvs_uni0C30_un;
+  sub uni0C16_uni0C4B.abvs uni0C30_uni0C4D.blwf by uni0C16_uni0C4B.abvs_uni0C30_un;
+  sub uni0C17_uni0C4B.abvs uni0C30_uni0C4D.blwf by uni0C17_uni0C4B.abvs_uni0C30_un;
+  sub uni0C18_uni0C4B.abvs uni0C30_uni0C4D.blwf by uni0C18_uni0C4B.abvs_uni0C30_un;
+  sub uni0C19_uni0C4B.abvs uni0C30_uni0C4D.blwf by uni0C19_uni0C4B.abvs_uni0C30_un;
+  sub uni0C1A_uni0C4B.abvs uni0C30_uni0C4D.blwf by uni0C1A_uni0C4B.abvs_uni0C30_un;
+  sub uni0C1B_uni0C4B.abvs uni0C30_uni0C4D.blwf by uni0C1B_uni0C4B.abvs_uni0C30_un;
+  sub uni0C1C_uni0C4B.abvs uni0C30_uni0C4D.blwf by uni0C1C_uni0C4B.abvs_uni0C30_un;
+  sub uni0C1D_uni0C4B.abvs uni0C30_uni0C4D.blwf by uni0C1D_uni0C4B.abvs_uni0C30_un;
+  sub uni0C1E_uni0C4B.abvs uni0C30_uni0C4D.blwf by uni0C1E_uni0C4B.abvs_uni0C30_un;
+  sub uni0C1F_uni0C4B.abvs uni0C30_uni0C4D.blwf by uni0C1F_uni0C4B.abvs_uni0C30_un;
+  sub uni0C20_uni0C4B.abvs uni0C30_uni0C4D.blwf by uni0C20_uni0C4B.abvs_uni0C30_un;
+  sub uni0C21_uni0C4B.abvs uni0C30_uni0C4D.blwf by uni0C21_uni0C4B.abvs_uni0C30_un;
+  sub uni0C22_uni0C4B.abvs uni0C30_uni0C4D.blwf by uni0C22_uni0C4B.abvs_uni0C30_un;
+  sub uni0C23_uni0C4B.abvs uni0C30_uni0C4D.blwf by uni0C23_uni0C4B.abvs_uni0C30_un;
+  sub uni0C24_uni0C4B.abvs uni0C30_uni0C4D.blwf by uni0C24_uni0C4B.abvs_uni0C30_un;
+  sub uni0C25_uni0C4B.abvs uni0C30_uni0C4D.blwf by uni0C25_uni0C4B.abvs_uni0C30_un;
+  sub uni0C26_uni0C4B.abvs uni0C30_uni0C4D.blwf by uni0C26_uni0C4B.abvs_uni0C30_un;
+  sub uni0C27_uni0C4B.abvs uni0C30_uni0C4D.blwf by uni0C27_uni0C4B.abvs_uni0C30_un;
+  sub uni0C28_uni0C4B.abvs uni0C30_uni0C4D.blwf by uni0C28_uni0C4B.abvs_uni0C30_un;
+  sub uni0C2A_uni0C4B.abvs uni0C30_uni0C4D.blwf by uni0C2A_uni0C4B.abvs_uni0C30_un;
+  sub uni0C2B_uni0C4B.abvs uni0C30_uni0C4D.blwf by uni0C2B_uni0C4B.abvs_uni0C30_un;
+  sub uni0C2C_uni0C4B.abvs uni0C30_uni0C4D.blwf by uni0C2C_uni0C4B.abvs_uni0C30_un;
+  sub uni0C2D_uni0C4B.abvs uni0C30_uni0C4D.blwf by uni0C2D_uni0C4B.abvs_uni0C30_un;
+  sub uni0C2E_uni0C4B.abvs uni0C30_uni0C4D.blwf by uni0C2E_uni0C4B.abvs_uni0C30_un;
+  sub uni0C2F_uni0C4B.abvs uni0C30_uni0C4D.blwf by uni0C2F_uni0C4B.abvs_uni0C30_un;
+  sub uni0C30_uni0C4B.abvs uni0C30_uni0C4D.blwf by uni0C30_uni0C4B.abvs_uni0C30_un;
+  sub uni0C31_uni0C4B.abvs uni0C30_uni0C4D.blwf by uni0C31_uni0C4B.abvs_uni0C30_un;
+  sub uni0C32_uni0C4B.abvs uni0C30_uni0C4D.blwf by uni0C32_uni0C4B.abvs_uni0C30_un;
+  sub uni0C33_uni0C4B.abvs uni0C30_uni0C4D.blwf by uni0C33_uni0C4B.abvs_uni0C30_un;
+  sub uni0C35_uni0C4B.abvs uni0C30_uni0C4D.blwf by uni0C35_uni0C4B.abvs_uni0C30_un;
+  sub uni0C36_uni0C4B.abvs uni0C30_uni0C4D.blwf by uni0C36_uni0C4B.abvs_uni0C30_un;
+  sub uni0C37_uni0C4B.abvs uni0C30_uni0C4D.blwf by uni0C37_uni0C4B.abvs_uni0C30_un;
+  sub uni0C38_uni0C4B.abvs uni0C30_uni0C4D.blwf by uni0C38_uni0C4B.abvs_uni0C30_un;
+  sub uni0C39_uni0C4B.abvs uni0C30_uni0C4D.blwf by uni0C39_uni0C4B.abvs_uni0C30_un;
+  sub uni0C15_uni0C4B_uni0C37_uni0C4D uni0C30_uni0C4D.blwf by uni0C15_uni0C4B_uni0C37_uni0C4D;
+  sub uni0C15_uni0C4C.abvs uni0C30_uni0C4D.blwf by uni0C15_uni0C4C.abvs_uni0C30_un;
+  sub uni0C16_uni0C4C.abvs uni0C30_uni0C4D.blwf by uni0C16_uni0C4C.abvs_uni0C30_un;
+  sub uni0C17_uni0C4C.abvs uni0C30_uni0C4D.blwf by uni0C17_uni0C4C.abvs_uni0C30_un;
+  sub uni0C18_uni0C4C.abvs uni0C30_uni0C4D.blwf by uni0C18_uni0C4C.abvs_uni0C30_un;
+  sub uni0C19_uni0C4C.abvs uni0C30_uni0C4D.blwf by uni0C19_uni0C4C.abvs_uni0C30_un;
+  sub uni0C1A_uni0C4C.abvs uni0C30_uni0C4D.blwf by uni0C1A_uni0C4C.abvs_uni0C30_un;
+  sub uni0C1B_uni0C4C.abvs uni0C30_uni0C4D.blwf by uni0C1B_uni0C4C.abvs_uni0C30_un;
+  sub uni0C1C_uni0C4C.abvs uni0C30_uni0C4D.blwf by uni0C1C_uni0C4C.abvs_uni0C30_un;
+  sub uni0C1D_uni0C4C.abvs uni0C30_uni0C4D.blwf by uni0C1D_uni0C4C.abvs_uni0C30_un;
+  sub uni0C1E_uni0C4C.abvs uni0C30_uni0C4D.blwf by uni0C1E_uni0C4C.abvs_uni0C30_un;
+  sub uni0C1F_uni0C4C.abvs uni0C30_uni0C4D.blwf by uni0C1F_uni0C4C.abvs_uni0C30_un;
+  sub uni0C20_uni0C4C.abvs uni0C30_uni0C4D.blwf by uni0C20_uni0C4C.abvs_uni0C30_un;
+  sub uni0C21_uni0C4C.abvs uni0C30_uni0C4D.blwf by uni0C21_uni0C4C.abvs_uni0C30_un;
+  sub uni0C22_uni0C4C.abvs uni0C30_uni0C4D.blwf by uni0C22_uni0C4C.abvs_uni0C30_un;
+  sub uni0C23_uni0C4C.abvs uni0C30_uni0C4D.blwf by uni0C23_uni0C4C.abvs_uni0C30_un;
+  sub uni0C24_uni0C4C.abvs uni0C30_uni0C4D.blwf by uni0C24_uni0C4C.abvs_uni0C30_un;
+  sub uni0C25_uni0C4C.abvs uni0C30_uni0C4D.blwf by uni0C25_uni0C4C.abvs_uni0C30_un;
+  sub uni0C26_uni0C4C.abvs uni0C30_uni0C4D.blwf by uni0C26_uni0C4C.abvs_uni0C30_un;
+  sub uni0C27_uni0C4C.abvs uni0C30_uni0C4D.blwf by uni0C27_uni0C4C.abvs_uni0C30_un;
+  sub uni0C28_uni0C4C.abvs uni0C30_uni0C4D.blwf by uni0C28_uni0C4C.abvs_uni0C30_un;
+  sub uni0C2A_uni0C4C.abvs uni0C30_uni0C4D.blwf by uni0C2A_uni0C4C.abvs_uni0C30_un;
+  sub uni0C2B_uni0C4C.abvs uni0C30_uni0C4D.blwf by uni0C2B_uni0C4C.abvs_uni0C30_un;
+  sub uni0C2C_uni0C4C.abvs uni0C30_uni0C4D.blwf by uni0C2C_uni0C4C.abvs_uni0C30_un;
+  sub uni0C2D_uni0C4C.abvs uni0C30_uni0C4D.blwf by uni0C2D_uni0C4C.abvs_uni0C30_un;
+  sub uni0C2E_uni0C4C.abvs uni0C30_uni0C4D.blwf by uni0C2E_uni0C4C.abvs_uni0C30_un;
+  sub uni0C2F_uni0C4C.abvs uni0C30_uni0C4D.blwf by uni0C2F_uni0C4C.abvs_uni0C30_un;
+  sub uni0C30_uni0C4C.abvs uni0C30_uni0C4D.blwf by uni0C30_uni0C4C.abvs_uni0C30_un;
+  sub uni0C31_uni0C4C.abvs uni0C30_uni0C4D.blwf by uni0C31_uni0C4C.abvs_uni0C30_un;
+  sub uni0C32_uni0C4C.abvs uni0C30_uni0C4D.blwf by uni0C32_uni0C4C.abvs_uni0C30_un;
+  sub uni0C33_uni0C4C.abvs uni0C30_uni0C4D.blwf by uni0C33_uni0C4C.abvs_uni0C30_un;
+  sub uni0C35_uni0C4C.abvs uni0C30_uni0C4D.blwf by uni0C35_uni0C4C.abvs_uni0C30_un;
+  sub uni0C36_uni0C4C.abvs uni0C30_uni0C4D.blwf by uni0C36_uni0C4C.abvs_uni0C30_un;
+  sub uni0C37_uni0C4C.abvs uni0C30_uni0C4D.blwf by uni0C37_uni0C4C.abvs_uni0C30_un;
+  sub uni0C38_uni0C4C.abvs uni0C30_uni0C4D.blwf by uni0C38_uni0C4C.abvs_uni0C30_un;
+  sub uni0C39_uni0C4C.abvs uni0C30_uni0C4D.blwf by uni0C39_uni0C4C.abvs_uni0C30_un;
+  sub uni0C15_uni0C4C_uni0C37_uni0C4D uni0C30_uni0C4D.blwf by uni0C15_uni0C4C_uni0C37_uni0C4D;
+  sub uni0C19_uni0C4D.blwf glyph711 glyph1221 by glyph1255;
+  sub uni0C15_uni0C48.abvs uni0C30_uni0C4D.blwf by uni0C15_uni0C48.abvs_uni0C30_un;
+  sub uni0C16_uni0C48.abvs uni0C30_uni0C4D.blwf by uni0C16_uni0C48.abvs_uni0C30_un;
+  sub uni0C17_uni0C48.abvs uni0C30_uni0C4D.blwf by uni0C17_uni0C48.abvs_uni0C30_un;
+  sub uni0C18_uni0C48.abvs uni0C30_uni0C4D.blwf by uni0C18_uni0C48.abvs_uni0C30_un;
+  sub uni0C19_uni0C48.abvs uni0C30_uni0C4D.blwf by uni0C19_uni0C48.abvs_uni0C30_un;
+  sub uni0C1A_uni0C48.abvs uni0C30_uni0C4D.blwf by uni0C1A_uni0C48.abvs_uni0C30_un;
+  sub uni0C1B_uni0C48.abvs uni0C30_uni0C4D.blwf by uni0C1B_uni0C48.abvs_uni0C30_un;
+  sub uni0C1C_uni0C48.abvs uni0C30_uni0C4D.blwf by uni0C1C_uni0C48.abvs_uni0C30_un;
+  sub uni0C1D_uni0C48.abvs uni0C30_uni0C4D.blwf by uni0C1D_uni0C48.abvs_uni0C30_un;
+  sub uni0C1E_uni0C48.abvs uni0C30_uni0C4D.blwf by uni0C1E_uni0C48.abvs_uni0C30_un;
+  sub uni0C1F_uni0C48.abvs uni0C30_uni0C4D.blwf by uni0C1F_uni0C48.abvs_uni0C30_un;
+  sub uni0C20_uni0C48.abvs uni0C30_uni0C4D.blwf by uni0C20_uni0C48.abvs_uni0C30_un;
+  sub uni0C21_uni0C48.abvs uni0C30_uni0C4D.blwf by uni0C21_uni0C48.abvs_uni0C30_un;
+  sub uni0C22_uni0C48.abvs uni0C30_uni0C4D.blwf by uni0C22_uni0C48.abvs_uni0C30_un;
+  sub uni0C23_uni0C48.abvs uni0C30_uni0C4D.blwf by uni0C23_uni0C48.abvs_uni0C30_un;
+  sub uni0C24_uni0C48.abvs uni0C30_uni0C4D.blwf by uni0C24_uni0C48.abvs_uni0C30_un;
+  sub uni0C25_uni0C48.abvs uni0C30_uni0C4D.blwf by uni0C25_uni0C48.abvs_uni0C30_un;
+  sub uni0C26_uni0C48.abvs uni0C30_uni0C4D.blwf by uni0C26_uni0C48.abvs_uni0C30_un;
+  sub uni0C27_uni0C48.abvs uni0C30_uni0C4D.blwf by uni0C27_uni0C48.abvs_uni0C30_un;
+  sub uni0C28_uni0C48.abvs uni0C30_uni0C4D.blwf by uni0C28_uni0C48.abvs_uni0C30_un;
+  sub uni0C2A_uni0C48.abvs uni0C30_uni0C4D.blwf by uni0C2A_uni0C48.abvs_uni0C30_un;
+  sub uni0C2B_uni0C48.abvs uni0C30_uni0C4D.blwf by uni0C2B_uni0C48.abvs_uni0C30_un;
+  sub uni0C2C_uni0C48.abvs uni0C30_uni0C4D.blwf by uni0C2C_uni0C48.abvs_uni0C30_un;
+  sub uni0C2D_uni0C48.abvs uni0C30_uni0C4D.blwf by uni0C2D_uni0C48.abvs_uni0C30_un;
+  sub uni0C2E_uni0C48.abvs uni0C30_uni0C4D.blwf by uni0C2E_uni0C48.abvs_uni0C30_un;
+  sub uni0C2F_uni0C48.abvs uni0C30_uni0C4D.blwf by uni0C2F_uni0C48.abvs_uni0C30_un;
+  sub uni0C30_uni0C48.abvs uni0C30_uni0C4D.blwf by uni0C30_uni0C48.abvs_uni0C30_un;
+  sub uni0C31_uni0C48.abvs uni0C30_uni0C4D.blwf by uni0C31_uni0C48.abvs_uni0C30_un;
+  sub uni0C32_uni0C48.abvs uni0C30_uni0C4D.blwf by uni0C32_uni0C48.abvs_uni0C30_un;
+  sub uni0C33_uni0C48.abvs uni0C30_uni0C4D.blwf by uni0C33_uni0C48.abvs_uni0C30_un;
+  sub uni0C35_uni0C48.abvs uni0C30_uni0C4D.blwf by uni0C35_uni0C48.abvs_uni0C30_un;
+  sub uni0C36_uni0C48.abvs uni0C30_uni0C4D.blwf by uni0C36_uni0C48.abvs_uni0C30_un;
+  sub uni0C37_uni0C48.abvs uni0C30_uni0C4D.blwf by uni0C37_uni0C48.abvs_uni0C30_un;
+  sub uni0C38_uni0C48.abvs uni0C30_uni0C4D.blwf by uni0C38_uni0C48.abvs_uni0C30_un;
+  sub uni0C39_uni0C48.abvs uni0C30_uni0C4D.blwf by uni0C39_uni0C48.abvs_uni0C30_un;
+  sub uni0C15_uni0C46_uni0C56_uni0C37 uni0C30_uni0C4D.blwf by uni0C15_uni0C46_uni0C56_uni0C37;
+  sub uni0C2A_uni0C4D.blwf glyph735 glyph1218 by glyph1250;
+  sub @blws4 @blws' lookup blws_telu_12;
+  ignore sub []';
+  ignore sub []';
+  ignore sub []';
+  ignore sub []';
+  ignore sub []';
+  ignore sub []';
+  ignore sub []';
+  ignore sub []';
+  ignore sub []';
+  ignore sub []';
+  ignore sub []';
+  ignore sub []';
+  ignore sub []';
+  ignore sub []';
+  ignore sub []';
+  ignore sub []';
+  ignore sub []';
+  ignore sub []';
+  ignore sub []';
+  ignore sub []';
+  ignore sub []';
+  ignore sub []';
+  ignore sub []';
+  ignore sub []';
+  ignore sub []';
+  ignore sub []';
+  ignore sub []';
+  ignore sub []';
+  ignore sub []';
+  ignore sub []';
+  ignore sub []';
+  ignore sub []';
+  ignore sub []';
+  ignore sub []';
+  ignore sub []';
+  ignore sub []';
+  ignore sub []';
+  ignore sub []';
+  ignore sub []';
+  ignore sub []';
+  ignore sub []';
+  ignore sub []';
+  ignore sub []';
+  ignore sub []';
+  ignore sub []';
+  ignore sub []';
+  ignore sub []';
+  ignore sub []';
+  ignore sub []';
+  ignore sub []';
+  ignore sub []';
+  ignore sub []';
+  ignore sub []';
+  ignore sub []';
+  ignore sub []';
+  ignore sub []';
+  ignore sub []';
+  ignore sub []';
+  ignore sub []';
+  ignore sub []';
+  ignore sub []';
+  ignore sub []';
+  ignore sub []';
+  ignore sub []';
+  ignore sub []';
+  ignore sub []';
+  ignore sub []';
+  ignore sub []';
+  ignore sub []';
+  ignore sub []';
+  ignore sub []';
+  ignore sub []';
+  ignore sub []';
+  ignore sub []';
+  ignore sub []';
+  ignore sub []';
+  ignore sub []';
+  ignore sub []';
+  ignore sub []';
+  ignore sub []';
+  ignore sub []';
+  ignore sub []';
+  ignore sub []';
+  ignore sub []';
+  ignore sub []';
+  ignore sub []';
+  ignore sub []';
+  ignore sub []';
+  ignore sub []';
+  ignore sub []';
+  ignore sub []';
+  ignore sub []';
+  ignore sub []';
+  ignore sub []';
+  ignore sub []';
+  ignore sub []';
+  ignore sub []';
+  ignore sub []';
+  ignore sub []';
+  ignore sub []';
+  ignore sub []';
+  ignore sub []';
+  ignore sub []';
+  ignore sub []';
+  ignore sub []';
+  ignore sub []';
+  ignore sub []';
+  ignore sub []';
+  ignore sub []';
+  ignore sub []';
+  ignore sub []';
+  ignore sub []';
+  ignore sub []';
+  ignore sub []';
+  ignore sub []';
+  ignore sub []';
+  ignore sub []';
+  ignore sub []';
+  ignore sub []';
+  ignore sub []';
+  ignore sub []';
+  ignore sub []';
+  ignore sub []';
+  ignore sub []';
+  ignore sub []';
+  ignore sub []';
+  ignore sub []';
+  ignore sub []';
+  ignore sub []';
+  ignore sub []';
+  ignore sub []';
+  ignore sub []';
+  ignore sub []';
+  ignore sub []';
+  ignore sub []';
+  ignore sub []';
+  ignore sub []';
+  ignore sub []';
+  ignore sub []';
+  ignore sub []';
+  ignore sub []';
+  ignore sub []';
+  ignore sub []';
+  ignore sub []';
+  ignore sub []';
+  ignore sub []';
+  ignore sub []';
+  ignore sub []';
+  ignore sub []';
+  ignore sub []';
+  ignore sub []';
+  ignore sub []';
+  ignore sub []';
+  ignore sub []';
+  ignore sub []';
+  ignore sub []';
+  ignore sub []';
+  ignore sub []';
+  ignore sub []';
+  ignore sub []';
+  ignore sub []';
+  ignore sub []';
+  ignore sub []';
+  ignore sub []';
+  ignore sub []';
+  ignore sub []';
+  ignore sub []';
+  ignore sub []';
+  ignore sub []';
+  ignore sub []';
+  ignore sub []';
+  ignore sub []';
+  ignore sub []';
+  ignore sub []';
+  ignore sub []';
+  ignore sub []';
+  ignore sub []';
+  ignore sub []';
+  ignore sub []';
+  ignore sub []';
+  ignore sub []';
+  ignore sub []';
+  ignore sub []';
+  ignore sub []';
+  ignore sub []';
+  ignore sub []';
+  ignore sub []';
+  ignore sub []';
+  ignore sub []';
+  ignore sub []';
+  ignore sub []';
+  ignore sub []';
+  ignore sub []';
+  ignore sub []';
+  ignore sub []';
+  ignore sub []';
+  ignore sub []';
+  ignore sub []';
+  ignore sub []';
+  ignore sub []';
+  ignore sub []';
+  ignore sub []';
+  ignore sub []';
+  ignore sub []';
+  ignore sub []';
+  ignore sub []';
+  ignore sub []';
+  ignore sub []';
+  ignore sub []';
+  ignore sub []';
+  ignore sub []';
+  ignore sub []';
+  ignore sub []';
+  ignore sub []';
+  ignore sub []';
+  ignore sub []';
+  ignore sub []';
+  ignore sub []';
+  ignore sub []';
+  ignore sub []';
+  ignore sub []';
+  ignore sub []';
+  ignore sub []';
+  ignore sub []';
+  ignore sub []';
+  ignore sub []';
+  ignore sub []';
+  ignore sub []';
+  ignore sub []';
+  ignore sub []';
+  ignore sub []';
+  ignore sub []';
+  ignore sub []';
+  ignore sub []';
+  ignore sub []';
+  ignore sub []';
+  ignore sub []';
+  ignore sub []';
+  ignore sub []';
+  ignore sub []';
+  ignore sub []';
+  ignore sub []';
+  ignore sub []';
+  ignore sub []';
+  ignore sub []';
+  ignore sub []';
+  ignore sub []';
+  ignore sub []';
+  ignore sub []';
+  ignore sub []';
+  ignore sub []';
+  ignore sub []';
+  ignore sub []';
+  ignore sub []';
+  ignore sub []';
+  ignore sub []';
+  ignore sub []';
+  ignore sub []';
+  ignore sub []';
+  ignore sub []';
+  ignore sub []';
+  ignore sub []';
+  ignore sub []';
+  ignore sub []';
+  ignore sub []';
+  ignore sub []';
+  ignore sub []';
+  ignore sub []';
+  ignore sub []';
+  ignore sub []';
+  ignore sub []';
+  ignore sub []';
+  ignore sub []';
+  ignore sub []';
+  ignore sub []';
+  ignore sub []';
+  ignore sub []';
+  ignore sub []';
+  ignore sub []';
+  ignore sub []';
+  ignore sub []';
+  ignore sub []';
+  ignore sub []';
+  ignore sub []';
+  ignore sub []';
+  ignore sub []';
+  ignore sub []';
+  ignore sub []';
+  ignore sub []';
+  ignore sub []';
+  ignore sub []';
+  ignore sub []';
+  ignore sub []';
+  ignore sub []';
+  ignore sub []';
+  ignore sub []';
+  ignore sub []';
+  ignore sub []';
+  ignore sub []';
+  ignore sub []';
+  ignore sub []';
+  ignore sub []';
+  ignore sub []';
+  ignore sub []';
+  ignore sub []';
+  ignore sub []';
+  ignore sub []';
+  ignore sub []';
+  ignore sub []';
+  ignore sub []';
+  lookup blws;
+
+} blws;
+
+feature haln {
+# GSUB feature: Halant Forms
+# Lookups: 3
+
+  script telu; # Telugu
+  sub @haln' lookup haln_telu_2 @haln4 uni0C4D;
+  sub @haln' lookup haln_telu_2 @haln4 @blws_haln uni0C4D;
+  sub uni0C15_uni0C4D.blwf uni0C4D by uni0C15_uni0C4D.blwf;
+  sub uni0C16_uni0C4D.blwf uni0C4D by uni0C16_uni0C4D.blwf;
+  sub uni0C17_uni0C4D.blwf uni0C4D by uni0C17_uni0C4D.blwf;
+  sub uni0C18_uni0C4D.blwf uni0C4D by uni0C18_uni0C4D.blwf;
+  sub uni0C19_uni0C4D.blwf uni0C4D by uni0C19_uni0C4D.blwf;
+  sub uni0C1A_uni0C4D.blwf uni0C4D by uni0C1A_uni0C4D.blwf;
+  sub uni0C1B_uni0C4D.blwf uni0C4D by uni0C1B_uni0C4D.blwf;
+  sub uni0C1C_uni0C4D.blwf uni0C4D by uni0C1C_uni0C4D.blwf;
+  sub uni0C1D_uni0C4D.blwf uni0C4D by uni0C1D_uni0C4D.blwf;
+  sub uni0C1E_uni0C4D.blwf uni0C4D by uni0C1E_uni0C4D.blwf;
+  sub uni0C1F_uni0C4D.blwf uni0C4D by uni0C1F_uni0C4D.blwf;
+  sub uni0C20_uni0C4D.blwf uni0C4D by uni0C20_uni0C4D.blwf;
+  sub uni0C21_uni0C4D.blwf uni0C4D by uni0C21_uni0C4D.blwf;
+  sub uni0C22_uni0C4D.blwf uni0C4D by uni0C22_uni0C4D.blwf;
+  sub uni0C23_uni0C4D.blwf uni0C4D by uni0C23_uni0C4D.blwf;
+  sub uni0C24_uni0C4D.blwf uni0C4D by uni0C24_uni0C4D.blwf;
+  sub uni0C25_uni0C4D.blwf uni0C4D by uni0C25_uni0C4D.blwf;
+  sub uni0C26_uni0C4D.blwf uni0C4D by uni0C26_uni0C4D.blwf;
+  sub uni0C27_uni0C4D.blwf uni0C4D by uni0C27_uni0C4D.blwf;
+  sub uni0C28_uni0C4D.blwf uni0C4D by uni0C28_uni0C4D.blwf;
+  sub uni0C2A_uni0C4D.blwf uni0C4D by uni0C2A_uni0C4D.blwf;
+  sub uni0C2B_uni0C4D.blwf uni0C4D by uni0C2B_uni0C4D.blwf;
+  sub uni0C2C_uni0C4D.blwf uni0C4D by uni0C2C_uni0C4D.blwf;
+  sub uni0C2D_uni0C4D.blwf uni0C4D by uni0C2D_uni0C4D.blwf;
+  sub uni0C2E_uni0C4D.blwf uni0C4D by uni0C2E_uni0C4D.blwf;
+  sub uni0C2F_uni0C4D.blwf uni0C4D by uni0C2F_uni0C4D.blwf;
+  sub uni0C31_uni0C4D.blwf uni0C4D by uni0C31_uni0C4D.blwf;
+  sub uni0C32_uni0C4D.blwf uni0C4D by uni0C32_uni0C4D.blwf;
+  sub uni0C33_uni0C4D.blwf uni0C4D by uni0C33_uni0C4D.blwf;
+  sub uni0C35_uni0C4D.blwf uni0C4D by uni0C35_uni0C4D.blwf;
+  sub uni0C36_uni0C4D.blwf uni0C4D by uni0C36_uni0C4D.blwf;
+  sub uni0C37_uni0C4D.blwf uni0C4D by uni0C37_uni0C4D.blwf;
+  sub uni0C38_uni0C4D.blwf uni0C4D by uni0C38_uni0C4D.blwf;
+  sub uni0C39_uni0C4D.blwf uni0C4D by uni0C39_uni0C4D.blwf;
+  sub uni0C15_uni0C4D.blwf_uni0C37_un uni0C4D by uni0C15_uni0C4D.blwf_uni0C37_un;
+  sub uni0C24_uni0C4D.blwf_uni0C30_un uni0C4D by uni0C24_uni0C4D.blwf_uni0C30_un;
+  sub uni0C1F_uni0C4D.blwf_uni0C30_un uni0C4D by uni0C1F_uni0C4D.blwf_uni0C30_un;
+  sub glyph709 uni0C4D by glyph709;
+  sub glyph710 uni0C4D by glyph710;
+  sub glyph711 uni0C4D by glyph711;
+  sub glyph712 uni0C4D by glyph712;
+  sub glyph713 uni0C4D by glyph713;
+  sub glyph714 uni0C4D by glyph714;
+  sub glyph715 uni0C4D by glyph715;
+  sub glyph716 uni0C4D by glyph716;
+  sub glyph717 uni0C4D by glyph717;
+  sub glyph718 uni0C4D by glyph718;
+  sub glyph719 uni0C4D by glyph719;
+  sub glyph720 uni0C4D by glyph720;
+  sub glyph721 uni0C4D by glyph721;
+  sub glyph722 uni0C4D by glyph722;
+  sub glyph723 uni0C4D by glyph723;
+  sub glyph724 uni0C4D by glyph724;
+  sub glyph725 uni0C4D by glyph725;
+  sub glyph726 uni0C4D by glyph726;
+  sub glyph727 uni0C4D by glyph727;
+  sub glyph728 uni0C4D by glyph728;
+  sub glyph729 uni0C4D by glyph729;
+  sub glyph730 uni0C4D by glyph730;
+  sub glyph731 uni0C4D by glyph731;
+  sub glyph732 uni0C4D by glyph732;
+  sub glyph733 uni0C4D by glyph733;
+  sub glyph734 uni0C4D by glyph734;
+  sub glyph735 uni0C4D by glyph735;
+  sub glyph736 uni0C4D by glyph736;
+  sub glyph737 uni0C4D by glyph737;
+  sub glyph738 uni0C4D by glyph738;
+  sub glyph739 uni0C4D by glyph739;
+  sub glyph740 uni0C4D by glyph740;
+  sub glyph741 uni0C4D by glyph741;
+  sub glyph742 uni0C4D by glyph742;
+  sub glyph743 uni0C4D by glyph743;
+  sub glyph744 uni0C4D by glyph744;
+  sub uni0C15_uni0C37_uni0C4D.akhn_un uni0C4D by uni0C15_uni0C37_uni0C4D.akhn_un;
+  sub uni0C15_uni0C30_uni0C4D.blwf.bl uni0C4D by uni0C15_uni0C30_uni0C4D.blwf.bl;
+  sub uni0C16_uni0C30_uni0C4D.blwf.bl uni0C4D by uni0C16_uni0C30_uni0C4D.blwf.bl;
+  sub uni0C17_uni0C30_uni0C4D.blwf.bl uni0C4D by uni0C17_uni0C30_uni0C4D.blwf.bl;
+  sub uni0C18_uni0C30_uni0C4D.blwf.bl uni0C4D by uni0C18_uni0C30_uni0C4D.blwf.bl;
+  sub uni0C19_uni0C30_uni0C4D.blwf.bl uni0C4D by uni0C19_uni0C30_uni0C4D.blwf.bl;
+  sub uni0C1A_uni0C30_uni0C4D.blwf.bl uni0C4D by uni0C1A_uni0C30_uni0C4D.blwf.bl;
+  sub uni0C1B_uni0C30_uni0C4D.blwf.bl uni0C4D by uni0C1B_uni0C30_uni0C4D.blwf.bl;
+  sub uni0C1C_uni0C30_uni0C4D.blwf.bl uni0C4D by uni0C1C_uni0C30_uni0C4D.blwf.bl;
+  sub uni0C1D_uni0C30_uni0C4D.blwf.bl uni0C4D by uni0C1D_uni0C30_uni0C4D.blwf.bl;
+  sub uni0C1E_uni0C30_uni0C4D.blwf.bl uni0C4D by uni0C1E_uni0C30_uni0C4D.blwf.bl;
+  sub uni0C1F_uni0C30_uni0C4D.blwf.bl uni0C4D by uni0C1F_uni0C30_uni0C4D.blwf.bl;
+  sub uni0C20_uni0C30_uni0C4D.blwf.bl uni0C4D by uni0C20_uni0C30_uni0C4D.blwf.bl;
+  sub uni0C21_uni0C30_uni0C4D.blwf.bl uni0C4D by uni0C21_uni0C30_uni0C4D.blwf.bl;
+  sub uni0C22_uni0C30_uni0C4D.blwf.bl uni0C4D by uni0C22_uni0C30_uni0C4D.blwf.bl;
+  sub uni0C23_uni0C30_uni0C4D.blwf.bl uni0C4D by uni0C23_uni0C30_uni0C4D.blwf.bl;
+  sub uni0C24_uni0C30_uni0C4D.blwf.bl uni0C4D by uni0C24_uni0C30_uni0C4D.blwf.bl;
+  sub uni0C25_uni0C30_uni0C4D.blwf.bl uni0C4D by uni0C25_uni0C30_uni0C4D.blwf.bl;
+  sub uni0C26_uni0C30_uni0C4D.blwf.bl uni0C4D by uni0C26_uni0C30_uni0C4D.blwf.bl;
+  sub uni0C27_uni0C30_uni0C4D.blwf.bl uni0C4D by uni0C27_uni0C30_uni0C4D.blwf.bl;
+  sub uni0C28_uni0C30_uni0C4D.blwf.bl uni0C4D by uni0C28_uni0C30_uni0C4D.blwf.bl;
+  sub uni0C2A_uni0C30_uni0C4D.blwf.bl uni0C4D by uni0C2A_uni0C30_uni0C4D.blwf.bl;
+  sub uni0C2B_uni0C30_uni0C4D.blwf.bl uni0C4D by uni0C2B_uni0C30_uni0C4D.blwf.bl;
+  sub uni0C2C_uni0C30_uni0C4D.blwf.bl uni0C4D by uni0C2C_uni0C30_uni0C4D.blwf.bl;
+  sub uni0C2D_uni0C30_uni0C4D.blwf.bl uni0C4D by uni0C2D_uni0C30_uni0C4D.blwf.bl;
+  sub uni0C2E_uni0C30_uni0C4D.blwf.bl uni0C4D by uni0C2E_uni0C30_uni0C4D.blwf.bl;
+  sub uni0C2F_uni0C30_uni0C4D.blwf.bl uni0C4D by uni0C2F_uni0C30_uni0C4D.blwf.bl;
+  sub uni0C30_uni0C30_uni0C4D.blwf.bl uni0C4D by uni0C30_uni0C30_uni0C4D.blwf.bl;
+  sub uni0C31_uni0C30_uni0C4D.blwf.bl uni0C4D by uni0C31_uni0C30_uni0C4D.blwf.bl;
+  sub uni0C32_uni0C30_uni0C4D.blwf.bl uni0C4D by uni0C32_uni0C30_uni0C4D.blwf.bl;
+  sub uni0C33_uni0C30_uni0C4D.blwf.bl uni0C4D by uni0C33_uni0C30_uni0C4D.blwf.bl;
+  sub uni0C35_uni0C30_uni0C4D.blwf.bl uni0C4D by uni0C35_uni0C30_uni0C4D.blwf.bl;
+  sub uni0C36_uni0C30_uni0C4D.blwf.bl uni0C4D by uni0C36_uni0C30_uni0C4D.blwf.bl;
+  sub uni0C37_uni0C30_uni0C4D.blwf.bl uni0C4D by uni0C37_uni0C30_uni0C4D.blwf.bl;
+  sub uni0C38_uni0C30_uni0C4D.blwf.bl uni0C4D by uni0C38_uni0C30_uni0C4D.blwf.bl;
+  sub uni0C39_uni0C30_uni0C4D.blwf.bl uni0C4D by uni0C39_uni0C30_uni0C4D.blwf.bl;
+
+} haln;
+
+feature psts {
+# GSUB feature: Post-base Substitutions
+# Lookups: 2
+
+  script telu; # Telugu
+  sub uni0C15_uni0C3E_uni0C37_uni0C4D uni0C2E_uni0C4D.blwf by uni0C15_uni0C3E_uni0C37_uni0C4D.1;
+### Problems in rule: Duplicate ligature substitution source sequence
+  sub uni0C15_uni0C3E_uni0C37_uni0C4D uni0C2E_uni0C4D.blwf by uni0C15_uni0C3E_uni0C37_uni0C4D;
+  sub uni0C15_uni0C3F_uni0C37_uni0C4D uni0C2F_uni0C4D.blwf by glyph1286;
+  sub uni0C15_uni0C3F_uni0C37_uni0C4D uni0C2E_uni0C4D.blwf by uni0C15_uni0C3F_uni0C37_uni0C4D.1;
+### Problems in rule: Duplicate ligature substitution source sequence
+  sub uni0C15_uni0C3F_uni0C37_uni0C4D uni0C2E_uni0C4D.blwf by uni0C15_uni0C3F_uni0C37_uni0C4D;
+  sub uni0C15_uni0C40_uni0C37_uni0C4D uni0C2E_uni0C4D.blwf by uni0C15_uni0C40_uni0C37_uni0C4D.1;
+### Problems in rule: Duplicate ligature substitution source sequence
+  sub uni0C15_uni0C40_uni0C37_uni0C4D uni0C2E_uni0C4D.blwf by uni0C15_uni0C40_uni0C37_uni0C4D;
+  sub uni0C2A_uni0C41.abvs uni0C2A_uni0C4D.blwf by uni0C2A_uni0C41.abvs_uni0C2A_un;
+  sub uni0C30_uni0C46.abvs uni0C1F_uni0C4D.blwf uni0C30_uni0C4D.blwf uni0C56 by glyph1302;
+  sub uni0C15_uni0C46_uni0C56_uni0C37 uni0C2E_uni0C4D.blwf by glyph1262;
+  sub uni0C1C_uni0C4B.abvs uni0C2F_uni0C4D.blwf by glyph1303;
+  sub uni0C15_uni0C4D.abvs uni0C38_uni0C4D.blwf glyph719 uni0C38_uni0C4D.blwf by glyph1289;
+  sub uni0C15_uni0C4D.abvs uni0C38_uni0C4D.blwf glyph719 glyph742 by glyph1289;
+  sub uni0C15_uni0C4D.blwf glyph739 by glyph1304;
+  sub uni0C15_uni0C4D.blwf glyph735 by glyph1251;
+  sub uni0C15_uni0C4D.blwf uni0C43 by glyph1244;
+  sub uni0C1A_uni0C4D.blwf glyph734 by glyph1284;
+  sub uni0C1A_uni0C4D.blwf glyph1217 by glyph1248;
+  sub uni0C1F_uni0C4D.blwf glyph1219 by glyph1246;
+  sub uni0C24_uni0C4D.blwf glyph733 by glyph1287;
+  sub uni0C24_uni0C4D.blwf glyph739 by glyph1281;
+  sub uni0C24_uni0C4D.blwf glyph734 by glyph1257;
+  sub uni0C24_uni0C4D.blwf uni0C43 by glyph1256;
+  sub uni0C27_uni0C4D.blwf glyph739 by glyph1306;
+  sub uni0C2A_uni0C4D.blwf glyph735 glyph1218 by glyph1250;
+  sub uni0C2A_uni0C4D.blwf glyph735 by glyph1249;
+  sub uni0C2A_uni0C4D.blwf uni0C43 by glyph1245;
+  sub uni0C2B_uni0C4D.blwf glyph737 by glyph1261;
+  sub uni0C2E_uni0C4D.blwf glyph742 by glyph1305;
+  sub uni0C2E_uni0C4D.blwf glyph734 by glyph1279;
+  sub uni0C2E_uni0C4D.blwf uni0C43 by glyph1263;
+  sub uni0C30_uni0C4D.blwf uni0C2F_uni0C4D.blwf by glyph1282;
+  sub uni0C35_uni0C4D.blwf glyph734 by glyph1260;
+  sub uni0C36_uni0C4D.blwf glyph739 by glyph1280;
+  sub uni0C37_uni0C4D.blwf glyph719 uni0C2F_uni0C4D.blwf by glyph1254;
+  sub uni0C37_uni0C4D.blwf glyph734 by glyph1285;
+  sub uni0C38_uni0C4D.blwf glyph729 glyph735 by glyph1259;
+  sub uni0C38_uni0C4D.blwf glyph729 glyph737 by glyph1258;
+  sub uni0C38_uni0C4D.blwf glyph719 glyph742 by glyph1247;
+  sub uni0C38_uni0C4D.blwf glyph709 by glyph1288;
+  sub uni0C56_uni0C24_uni0C4D.blwf.bl glyph739 by glyph1283;
+### Problems in rule: Duplicate ligature substitution source sequence
+  sub uni0C56_uni0C24_uni0C4D.blwf.bl glyph739 by glyph1265;
+  sub uni0C56_uni0C24_uni0C4D.blwf.bl uni0C35_uni0C4D.blwf by glyph1265;
+  sub uni0C15_uni0C37_uni0C4D.akhn uni0C2F_uni0C4D.blwf by uni0C15_uni0C37_uni0C4D.akhn_un.2;
+  sub uni0C15_uni0C37_uni0C4D.akhn uni0C2E_uni0C4D.blwf by uni0C15_uni0C37_uni0C4D.akhn_un.1;
+  sub glyph709 glyph735 by glyph1251;
+  sub glyph1217 uni0C32_uni0C4D.blwf by uni0C56_uni0C32_uni0C4D.blwf.bl;
+  sub glyph1217 uni0C24_uni0C4D.blwf by uni0C56_uni0C24_uni0C4D.blwf.bl;
+  sub uni0C19_uni0C4D.blwf_uni0C17_un glyph1220 by glyph1255;
+  sub uni0C37_uni0C4D.blwf_uni0C1F_un uni0C2F_uni0C4D.blwf by glyph1254;
+
+} psts;
+
+feature ss01 {
+# GSUB feature: Stylistic Set 1
+# Lookups: 1
+
+  script telu; # Telugu
+  sub [uni0C28_uni0C4D.abvs uni0C15_uni0C4D.blwf_uni0C37_un glyph744] by [uni0C28_uni0C4D.abvs.ss01 uni0C37_uni0C4D.blwf glyph741];
+
+} ss01;
+
+feature blwm {
+# GPOS feature: Below-base Mark Positioning
+# Lookups: 3
+
+  script telu; # Telugu
+
+  lookup blwm_telu_1 {
+  # GPOS lookup 3, type 4 (MarkToBase attachment)
+    markClass uni0C56 <anchor -194 1> @b.uni0C56;
+    markClass uni0C16_uni0C4D.blwf <anchor -237 -53> @b.uni0C56;
+    markClass uni0C17_uni0C4D.blwf <anchor -224 -53> @b.uni0C56;
+    markClass uni0C18_uni0C4D.blwf <anchor -344 -53> @b.uni0C56;
+    markClass uni0C19_uni0C4D.blwf <anchor -224 -53> @b.uni0C56;
+    markClass uni0C1A_uni0C4D.blwf <anchor -209 -1> @b.uni0C56;
+    markClass uni0C1B_uni0C4D.blwf <anchor -213 -2> @b.uni0C56;
+    markClass uni0C1C_uni0C4D.blwf <anchor -224 -53> @b.uni0C56;
+    markClass uni0C1D_uni0C4D.blwf <anchor -284 -53> @b.uni0C56;
+    markClass uni0C1E_uni0C4D.blwf <anchor -274 -53> @b.uni0C56;
+    markClass uni0C1F_uni0C4D.blwf <anchor -266 -51> @b.uni0C56;
+    markClass uni0C20_uni0C4D.blwf <anchor -204 -53> @b.uni0C56;
+    markClass uni0C21_uni0C4D.blwf <anchor -224 -53> @b.uni0C56;
+    markClass uni0C22_uni0C4D.blwf <anchor -224 -53> @b.uni0C56;
+    markClass uni0C23_uni0C4D.blwf <anchor -224 -53> @b.uni0C56;
+    markClass uni0C24_uni0C4D.blwf <anchor -295 -45> @b.uni0C56;
+    markClass uni0C25_uni0C4D.blwf <anchor -184 -53> @b.uni0C56;
+    markClass uni0C26_uni0C4D.blwf <anchor -184 -53> @b.uni0C56;
+    markClass uni0C27_uni0C4D.blwf <anchor -184 -53> @b.uni0C56;
+    markClass uni0C2A_uni0C4D.blwf <anchor -234 -53> @b.uni0C56;
+    markClass uni0C2B_uni0C4D.blwf <anchor -234 -53> @b.uni0C56;
+    markClass uni0C2C_uni0C4D.blwf <anchor -224 -53> @b.uni0C56;
+    markClass uni0C2D_uni0C4D.blwf <anchor -224 -53> @b.uni0C56;
+    markClass uni0C30_uni0C4D.blwf <anchor -224 -53> @b.uni0C56;
+    markClass uni0C31_uni0C4D.blwf <anchor -224 -53> @b.uni0C56;
+    markClass uni0C32_uni0C4D.blwf <anchor -224 -53> @b.uni0C56;
+    markClass uni0C33_uni0C4D.blwf <anchor -216 -79> @b.uni0C56;
+    markClass uni0C37_uni0C4D.blwf <anchor -259 -53> @b.uni0C56;
+    markClass uni0C38_uni0C4D.blwf <anchor -241 -41> @b.uni0C56;
+    markClass uni0C39_uni0C4D.blwf <anchor -384 -53> @b.uni0C56;
+    markClass uni0C15_uni0C4D.blwf_uni0C37_un <anchor -144 -53> @b.uni0C56;
+    markClass uni0C34_uni0C4D.blwf <anchor -224 -53> @b.uni0C56;
+    markClass uni0C5A_uni0C4D.blwf <anchor -174 -53> @b.uni0C56;
+    markClass uni0C56_uni0C24_uni0C4D.blwf.bl <anchor -306 -60> @b.uni0C56;
+    markClass uni0C24_uni0C4D.blwf_uni0C30_un <anchor -290 -54> @b.uni0C56;
+    markClass uni0C1F_uni0C4D.blwf_uni0C30_un <anchor -275 -7> @b.uni0C56;
+    markClass uni0C19_uni0C4D.blwf_uni0C17_un <anchor -216 -56> @b.uni0C56;
+    markClass uni0C1F_uni0C4D.blwf_uni0C32_un <anchor -234 0> @b.uni0C56;
+    markClass uni0C37_uni0C4D.blwf_uni0C1F_un <anchor -258 -8> @b.uni0C56;
+    markClass glyph1246 <anchor -290 -34> @b.uni0C56;
+    markClass glyph1249 <anchor -237 -59> @b.uni0C56;
+    markClass glyph1250 <anchor -235 -44> @b.uni0C56;
+    markClass glyph1254 <anchor -324 -62> @b.uni0C56;
+    markClass glyph1256 <anchor -300 -27> @b.uni0C56;
+    markClass glyph1257 <anchor -298 -26> @b.uni0C56;
+    markClass glyph1258 <anchor -490 -94> @b.uni0C56;
+    markClass glyph1259 <anchor -330 -94> @b.uni0C56;
+    markClass glyph1261 <anchor -293 -47> @b.uni0C56;
+    markClass glyph1265 <anchor -409 -34> @b.uni0C56;
+    markClass glyph1285 <anchor -324 -62> @b.uni0C56;
+    markClass glyph1287 <anchor -248 0> @b.uni0C56;
+    pos base uni0C15
+        <anchor 192 -23> mark @b.uni0C56;
+    pos base uni0C16
+        <anchor 236 -94> mark @b.uni0C56;
+    pos base uni0C17
+        <anchor 212 -16> mark @b.uni0C56;
+    pos base uni0C18
+        <anchor 332 -46> mark @b.uni0C56;
+    pos base uni0C19
+        <anchor 202 -25> mark @b.uni0C56;
+    pos base uni0C1A
+        <anchor 276 -21> mark @b.uni0C56;
+    pos base uni0C1B
+        <anchor 262 -94> mark @b.uni0C56;
+    pos base uni0C1C
+        <anchor 230 -20> mark @b.uni0C56;
+    pos base uni0C1D
+        <anchor 352 -42> mark @b.uni0C56;
+    pos base uni0C1E
+        <anchor 172 -32> mark @b.uni0C56;
+    pos base uni0C1F
+        <anchor 260 -25> mark @b.uni0C56;
+    pos base uni0C20
+        <anchor 192 -26> mark @b.uni0C56;
+    pos base uni0C21
+        <anchor 226 -16> mark @b.uni0C56;
+    pos base uni0C22
+        <anchor 214 -94> mark @b.uni0C56;
+    pos base uni0C23
+        <anchor 288 -16> mark @b.uni0C56;
+    pos base uni0C24
+        <anchor 238 -23> mark @b.uni0C56;
+    pos base uni0C25
+        <anchor 222 -94> mark @b.uni0C56;
+    pos base uni0C26
+        <anchor 222 -20> mark @b.uni0C56;
+    pos base uni0C27
+        <anchor 222 -94> mark @b.uni0C56;
+    pos base uni0C28
+        <anchor 240 -15> mark @b.uni0C56;
+    pos base uni0C2A
+        <anchor 250 -19> mark @b.uni0C56;
+    pos base uni0C2B
+        <anchor 242 -91> mark @b.uni0C56;
+    pos base uni0C2C
+        <anchor 222 -14> mark @b.uni0C56;
+    pos base uni0C2D
+        <anchor 220 -94> mark @b.uni0C56;
+    pos base uni0C2E
+        <anchor 236 -14> mark @b.uni0C56;
+    pos base uni0C2F
+        <anchor 328 -12> mark @b.uni0C56;
+    pos base uni0C30
+        <anchor 198 -18> mark @b.uni0C56;
+    pos base uni0C31
+        <anchor 250 -11> mark @b.uni0C56;
+    pos base uni0C32
+        <anchor 232 -14> mark @b.uni0C56;
+    pos base uni0C33
+        <anchor 188 -19> mark @b.uni0C56;
+    pos base uni0C34
+        <anchor 248 -12> mark @b.uni0C56;
+    pos base uni0C35
+        <anchor 228 -10> mark @b.uni0C56;
+    pos base uni0C37
+        <anchor 239 -30> mark @b.uni0C56;
+    pos base uni0C39
+        <anchor 198 0> mark @b.uni0C56;
+    pos base uni0C58
+        <anchor 234 0> mark @b.uni0C56;
+    pos base uni0C59
+        <anchor 206 -2> mark @b.uni0C56;
+    pos base uni0C5A
+        <anchor 214 0> mark @b.uni0C56;
+    pos base uni0C15_uni0C3E.abvs
+        <anchor 188 -20> mark @b.uni0C56;
+    pos base uni0C16_uni0C3E.abvs
+        <anchor 224 -94> mark @b.uni0C56;
+    pos base uni0C17_uni0C3E.abvs
+        <anchor 212 -16> mark @b.uni0C56;
+    pos base uni0C18_uni0C3E.abvs
+        <anchor 214 -112> mark @b.uni0C56;
+    pos base uni0C19_uni0C3E.abvs
+        <anchor 190 -20> mark @b.uni0C56;
+    pos base uni0C1A_uni0C3E.abvs
+        <anchor 270 -20> mark @b.uni0C56;
+    pos base uni0C1B_uni0C3E.abvs
+        <anchor 270 -90> mark @b.uni0C56;
+    pos base uni0C1C_uni0C3E.abvs
+        <anchor 233 -20> mark @b.uni0C56;
+    pos base uni0C1D_uni0C3E.abvs
+        <anchor 190 -20> mark @b.uni0C56;
+    pos base uni0C1E_uni0C3E.abvs
+        <anchor 169 -31> mark @b.uni0C56;
+    pos base uni0C1F_uni0C3E.abvs
+        <anchor 264 -20> mark @b.uni0C56;
+    pos base uni0C20_uni0C3E.abvs
+        <anchor 182 -20> mark @b.uni0C56;
+    pos base uni0C21_uni0C3E.abvs
+        <anchor 227 -20> mark @b.uni0C56;
+    pos base uni0C22_uni0C3E.abvs
+        <anchor 210 -90> mark @b.uni0C56;
+    pos base uni0C23_uni0C3E.abvs
+        <anchor 300 -20> mark @b.uni0C56;
+    pos base uni0C24_uni0C3E.abvs
+        <anchor 236 -20> mark @b.uni0C56;
+    pos base uni0C25_uni0C3E.abvs
+        <anchor 220 -90> mark @b.uni0C56;
+    pos base uni0C26_uni0C3E.abvs
+        <anchor 231 -20> mark @b.uni0C56;
+    pos base uni0C27_uni0C3E.abvs
+        <anchor 210 -90> mark @b.uni0C56;
+    pos base uni0C28_uni0C3E.abvs
+        <anchor 229 -20> mark @b.uni0C56;
+    pos base uni0C2A_uni0C3E.abvs
+        <anchor 239 -20> mark @b.uni0C56;
+    pos base uni0C2B_uni0C3E.abvs
+        <anchor 233 -98> mark @b.uni0C56;
+    pos base uni0C2C_uni0C3E.abvs
+        <anchor 236 -20> mark @b.uni0C56;
+    pos base uni0C2D_uni0C3E.abvs
+        <anchor 236 -90> mark @b.uni0C56;
+    pos base uni0C2E_uni0C3E.abvs
+        <anchor 236 -20> mark @b.uni0C56;
+    pos base uni0C2F_uni0C3E.abvs
+        <anchor 326 -20> mark @b.uni0C56;
+    pos base uni0C30_uni0C3E.abvs
+        <anchor 213 -20> mark @b.uni0C56;
+    pos base uni0C31_uni0C3E.abvs
+        <anchor 253 -20> mark @b.uni0C56;
+    pos base uni0C32_uni0C3E.abvs
+        <anchor 226 -20> mark @b.uni0C56;
+    pos base uni0C33_uni0C3E.abvs
+        <anchor 198 -20> mark @b.uni0C56;
+    pos base uni0C35_uni0C3E.abvs
+        <anchor 236 -20> mark @b.uni0C56;
+    pos base uni0C36_uni0C3E.abvs
+        <anchor 266 -20> mark @b.uni0C56;
+    pos base uni0C37_uni0C3E.abvs
+        <anchor 246 -20> mark @b.uni0C56;
+    pos base uni0C38_uni0C3E.abvs
+        <anchor 236 -20> mark @b.uni0C56;
+    pos base uni0C39_uni0C3E.abvs
+        <anchor 246 -20> mark @b.uni0C56;
+    pos base uni0C15_uni0C3E_uni0C37_uni0C4D
+        <anchor 186 -220> mark @b.uni0C56;
+    pos base uni0C15_uni0C3F.abvs
+        <anchor 195 -20> mark @b.uni0C56;
+    pos base uni0C16_uni0C3F.abvs
+        <anchor 246 -90> mark @b.uni0C56;
+    pos base uni0C17_uni0C3F.abvs
+        <anchor 212 -16> mark @b.uni0C56;
+    pos base uni0C18_uni0C3F.abvs
+        <anchor 246 -93> mark @b.uni0C56;
+    pos base uni0C19_uni0C3F.abvs
+        <anchor 206 -20> mark @b.uni0C56;
+    pos base uni0C1A_uni0C3F.abvs
+        <anchor 266 -20> mark @b.uni0C56;
+    pos base uni0C1B_uni0C3F.abvs
+        <anchor 256 -90> mark @b.uni0C56;
+    pos base uni0C1C_uni0C3F.abvs
+        <anchor 226 -20> mark @b.uni0C56;
+    pos base uni0C1D_uni0C3F.abvs
+        <anchor 186 -20> mark @b.uni0C56;
+    pos base uni0C1E_uni0C3F.abvs
+        <anchor 166 -20> mark @b.uni0C56;
+    pos base uni0C1F_uni0C3F.abvs
+        <anchor 246 -20> mark @b.uni0C56;
+    pos base uni0C20_uni0C3F.abvs
+        <anchor 186 -20> mark @b.uni0C56;
+    pos base uni0C21_uni0C3F.abvs
+        <anchor 226 -20> mark @b.uni0C56;
+    pos base uni0C22_uni0C3F.abvs
+        <anchor 226 -90> mark @b.uni0C56;
+    pos base uni0C23_uni0C3F.abvs
+        <anchor 256 -20> mark @b.uni0C56;
+    pos base uni0C24_uni0C3F.abvs
+        <anchor 236 -20> mark @b.uni0C56;
+    pos base uni0C25_uni0C3F.abvs
+        <anchor 236 -90> mark @b.uni0C56;
+    pos base uni0C26_uni0C3F.abvs
+        <anchor 236 -20> mark @b.uni0C56;
+    pos base uni0C27_uni0C3F.abvs
+        <anchor 236 -90> mark @b.uni0C56;
+    pos base uni0C28_uni0C3F.abvs
+        <anchor 246 -20> mark @b.uni0C56;
+    pos base uni0C2A_uni0C3F.abvs
+        <anchor 246 -20> mark @b.uni0C56;
+    pos base uni0C2B_uni0C3F.abvs
+        <anchor 246 -80> mark @b.uni0C56;
+    pos base uni0C2C_uni0C3F.abvs
+        <anchor 226 -20> mark @b.uni0C56;
+    pos base uni0C2D_uni0C3F.abvs
+        <anchor 226 -95> mark @b.uni0C56;
+    pos base uni0C2E_uni0C3F.abvs
+        <anchor 246 -20> mark @b.uni0C56;
+    pos base uni0C2F_uni0C3F.abvs
+        <anchor 316 -20> mark @b.uni0C56;
+    pos base uni0C30_uni0C3F.abvs
+        <anchor 186 -20> mark @b.uni0C56;
+    pos base uni0C31_uni0C3F.abvs
+        <anchor 246 -20> mark @b.uni0C56;
+    pos base uni0C32_uni0C3F.abvs
+        <anchor 220 -20> mark @b.uni0C56;
+    pos base uni0C33_uni0C3F.abvs
+        <anchor 193 -20> mark @b.uni0C56;
+    pos base uni0C35_uni0C3F.abvs
+        <anchor 236 -20> mark @b.uni0C56;
+    pos base uni0C36_uni0C3F.abvs
+        <anchor 246 -20> mark @b.uni0C56;
+    pos base uni0C37_uni0C3F.abvs
+        <anchor 246 -30> mark @b.uni0C56;
+    pos base uni0C38_uni0C3F.abvs
+        <anchor 236 -20> mark @b.uni0C56;
+    pos base uni0C39_uni0C3F.abvs
+        <anchor 246 -20> mark @b.uni0C56;
+    pos base uni0C15_uni0C3F_uni0C37_uni0C4D
+        <anchor 186 -220> mark @b.uni0C56;
+    pos base uni0C15_uni0C40.abvs
+        <anchor 186 -20> mark @b.uni0C56;
+    pos base uni0C16_uni0C40.abvs
+        <anchor 236 -100> mark @b.uni0C56;
+    pos base uni0C17_uni0C40.abvs
+        <anchor 192 -16> mark @b.uni0C56;
+    pos base uni0C18_uni0C40.abvs
+        <anchor 236 -110> mark @b.uni0C56;
+    pos base uni0C19_uni0C40.abvs
+        <anchor 196 -20> mark @b.uni0C56;
+    pos base uni0C1A_uni0C40.abvs
+        <anchor 269 -20> mark @b.uni0C56;
+    pos base uni0C1B_uni0C40.abvs
+        <anchor 276 -90> mark @b.uni0C56;
+    pos base uni0C1C_uni0C40.abvs
+        <anchor 226 -20> mark @b.uni0C56;
+    pos base uni0C1D_uni0C40.abvs
+        <anchor 186 -30> mark @b.uni0C56;
+    pos base uni0C1E_uni0C40.abvs
+        <anchor 167 -38> mark @b.uni0C56;
+    pos base uni0C1F_uni0C40.abvs
+        <anchor 256 -20> mark @b.uni0C56;
+    pos base uni0C20_uni0C40.abvs
+        <anchor 184 -24> mark @b.uni0C56;
+    pos base uni0C21_uni0C40.abvs
+        <anchor 226 -20> mark @b.uni0C56;
+    pos base uni0C22_uni0C40.abvs
+        <anchor 226 -100> mark @b.uni0C56;
+    pos base uni0C23_uni0C40.abvs
+        <anchor 286 -20> mark @b.uni0C56;
+    pos base uni0C24_uni0C40.abvs
+        <anchor 236 -20> mark @b.uni0C56;
+    pos base uni0C25_uni0C40.abvs
+        <anchor 226 -90> mark @b.uni0C56;
+    pos base uni0C26_uni0C40.abvs
+        <anchor 226 -20> mark @b.uni0C56;
+    pos base uni0C27_uni0C40.abvs
+        <anchor 226 -90> mark @b.uni0C56;
+    pos base uni0C28_uni0C40.abvs
+        <anchor 236 -20> mark @b.uni0C56;
+    pos base uni0C2A_uni0C40.abvs
+        <anchor 246 -20> mark @b.uni0C56;
+    pos base uni0C2B_uni0C40.abvs
+        <anchor 246 -90> mark @b.uni0C56;
+    pos base uni0C2C_uni0C40.abvs
+        <anchor 226 -20> mark @b.uni0C56;
+    pos base uni0C2D_uni0C40.abvs
+        <anchor 226 -90> mark @b.uni0C56;
+    pos base uni0C2E_uni0C40.abvs
+        <anchor 236 -20> mark @b.uni0C56;
+    pos base uni0C2F_uni0C40.abvs
+        <anchor 316 -20> mark @b.uni0C56;
+    pos base uni0C30_uni0C40.abvs
+        <anchor 186 -20> mark @b.uni0C56;
+    pos base uni0C31_uni0C40.abvs
+        <anchor 256 -20> mark @b.uni0C56;
+    pos base uni0C32_uni0C40.abvs
+        <anchor 226 -20> mark @b.uni0C56;
+    pos base uni0C33_uni0C40.abvs
+        <anchor 186 -20> mark @b.uni0C56;
+    pos base uni0C35_uni0C40.abvs
+        <anchor 236 -20> mark @b.uni0C56;
+    pos base uni0C36_uni0C40.abvs
+        <anchor 256 -20> mark @b.uni0C56;
+    pos base uni0C37_uni0C40.abvs
+        <anchor 256 -40> mark @b.uni0C56;
+    pos base uni0C38_uni0C40.abvs
+        <anchor 246 -20> mark @b.uni0C56;
+    pos base uni0C39_uni0C40.abvs
+        <anchor 251 -20> mark @b.uni0C56;
+    pos base uni0C15_uni0C40_uni0C37_uni0C4D
+        <anchor 186 -230> mark @b.uni0C56;
+    pos base uni0C15_uni0C41.abvs
+        <anchor 196 -20> mark @b.uni0C56;
+    pos base uni0C16_uni0C41.abvs
+        <anchor 242 -90> mark @b.uni0C56;
+    pos base uni0C17_uni0C41.abvs
+        <anchor 212 -16> mark @b.uni0C56;
+    pos base uni0C18_uni0C41.abvs
+        <anchor 236 -100> mark @b.uni0C56;
+    pos base uni0C19_uni0C41.abvs
+        <anchor 196 -20> mark @b.uni0C56;
+    pos base uni0C1A_uni0C41.abvs
+        <anchor 276 -20> mark @b.uni0C56;
+    pos base uni0C1B_uni0C41.abvs
+        <anchor 276 -80> mark @b.uni0C56;
+    pos base uni0C1C_uni0C41.abvs
+        <anchor 226 -20> mark @b.uni0C56;
+    pos base uni0C1D_uni0C41.abvs
+        <anchor 196 -30> mark @b.uni0C56;
+    pos base uni0C1E_uni0C41.abvs
+        <anchor 168 -30> mark @b.uni0C56;
+    pos base uni0C1F_uni0C41.abvs
+        <anchor 256 -20> mark @b.uni0C56;
+    pos base uni0C20_uni0C41.abvs
+        <anchor 184 -26> mark @b.uni0C56;
+    pos base uni0C21_uni0C41.abvs
+        <anchor 226 -20> mark @b.uni0C56;
+    pos base uni0C22_uni0C41.abvs
+        <anchor 226 -90> mark @b.uni0C56;
+    pos base uni0C23_uni0C41.abvs
+        <anchor 296 -20> mark @b.uni0C56;
+    pos base uni0C24_uni0C41.abvs
+        <anchor 236 -26> mark @b.uni0C56;
+    pos base uni0C25_uni0C41.abvs
+        <anchor 236 -80> mark @b.uni0C56;
+    pos base uni0C26_uni0C41.abvs
+        <anchor 236 -20> mark @b.uni0C56;
+    pos base uni0C27_uni0C41.abvs
+        <anchor 236 -90> mark @b.uni0C56;
+    pos base uni0C28_uni0C41.abvs
+        <anchor 226 -20> mark @b.uni0C56;
+    pos base uni0C2A_uni0C41.abvs
+        <anchor 246 -90> mark @b.uni0C56;
+    pos base uni0C2B_uni0C41.abvs
+        <anchor 246 -90> mark @b.uni0C56;
+    pos base uni0C2C_uni0C41.abvs
+        <anchor 216 -20> mark @b.uni0C56;
+    pos base uni0C2D_uni0C41.abvs
+        <anchor 226 -90> mark @b.uni0C56;
+    pos base uni0C2E_uni0C41.abvs
+        <anchor 226 -20> mark @b.uni0C56;
+    pos base uni0C2F_uni0C41.abvs
+        <anchor 326 -20> mark @b.uni0C56;
+    pos base uni0C30_uni0C41.abvs
+        <anchor 196 -20> mark @b.uni0C56;
+    pos base uni0C31_uni0C41.abvs
+        <anchor 246 -20> mark @b.uni0C56;
+    pos base uni0C32_uni0C41.abvs
+        <anchor 226 -20> mark @b.uni0C56;
+    pos base uni0C33_uni0C41.abvs
+        <anchor 186 -20> mark @b.uni0C56;
+    pos base uni0C35_uni0C41.abvs
+        <anchor 226 -80> mark @b.uni0C56;
+    pos base uni0C36_uni0C41.abvs
+        <anchor 251 -20> mark @b.uni0C56;
+    pos base uni0C37_uni0C41.abvs
+        <anchor 236 -30> mark @b.uni0C56;
+    pos base uni0C38_uni0C41.abvs
+        <anchor 226 -20> mark @b.uni0C56;
+    pos base uni0C39_uni0C41.abvs
+        <anchor 246 -20> mark @b.uni0C56;
+    pos base uni0C15_uni0C41_uni0C37_uni0C4D
+        <anchor 186 -220> mark @b.uni0C56;
+    pos base uni0C15_uni0C42.abvs
+        <anchor 186 -20> mark @b.uni0C56;
+    pos base uni0C16_uni0C42.abvs
+        <anchor 241 -90> mark @b.uni0C56;
+    pos base uni0C17_uni0C42.abvs
+        <anchor 212 -16> mark @b.uni0C56;
+    pos base uni0C18_uni0C42.abvs
+        <anchor 236 -100> mark @b.uni0C56;
+    pos base uni0C19_uni0C42.abvs
+        <anchor 196 -20> mark @b.uni0C56;
+    pos base uni0C1A_uni0C42.abvs
+        <anchor 266 -20> mark @b.uni0C56;
+    pos base uni0C1B_uni0C42.abvs
+        <anchor 276 -80> mark @b.uni0C56;
+    pos base uni0C1C_uni0C42.abvs
+        <anchor 224 -20> mark @b.uni0C56;
+    pos base uni0C1D_uni0C42.abvs
+        <anchor 186 -20> mark @b.uni0C56;
+    pos base uni0C1E_uni0C42.abvs
+        <anchor 166 -20> mark @b.uni0C56;
+    pos base uni0C1F_uni0C42.abvs
+        <anchor 255 -20> mark @b.uni0C56;
+    pos base uni0C20_uni0C42.abvs
+        <anchor 186 -20> mark @b.uni0C56;
+    pos base uni0C21_uni0C42.abvs
+        <anchor 226 -20> mark @b.uni0C56;
+    pos base uni0C22_uni0C42.abvs
+        <anchor 236 -80> mark @b.uni0C56;
+    pos base uni0C23_uni0C42.abvs
+        <anchor 286 -20> mark @b.uni0C56;
+    pos base uni0C24_uni0C42.abvs
+        <anchor 236 -20> mark @b.uni0C56;
+    pos base uni0C25_uni0C42.abvs
+        <anchor 236 -80> mark @b.uni0C56;
+    pos base uni0C26_uni0C42.abvs
+        <anchor 226 -20> mark @b.uni0C56;
+    pos base uni0C27_uni0C42.abvs
+        <anchor 236 -80> mark @b.uni0C56;
+    pos base uni0C28_uni0C42.abvs
+        <anchor 234 -1> mark @b.uni0C56;
+    pos base uni0C2A_uni0C42.abvs
+        <anchor 246 -110> mark @b.uni0C56;
+    pos base uni0C2B_uni0C42.abvs
+        <anchor 246 -90> mark @b.uni0C56;
+    pos base uni0C2C_uni0C42.abvs
+        <anchor 218 -20> mark @b.uni0C56;
+    pos base uni0C2D_uni0C42.abvs
+        <anchor 236 -80> mark @b.uni0C56;
+    pos base uni0C2E_uni0C42.abvs
+        <anchor 236 -20> mark @b.uni0C56;
+    pos base uni0C2F_uni0C42.abvs
+        <anchor 328 -20> mark @b.uni0C56;
+    pos base uni0C30_uni0C42.abvs
+        <anchor 196 -20> mark @b.uni0C56;
+    pos base uni0C31_uni0C42.abvs
+        <anchor 254 -20> mark @b.uni0C56;
+    pos base uni0C32_uni0C42.abvs
+        <anchor 224 -20> mark @b.uni0C56;
+    pos base uni0C33_uni0C42.abvs
+        <anchor 186 -20> mark @b.uni0C56;
+    pos base uni0C35_uni0C42.abvs
+        <anchor 226 -70> mark @b.uni0C56;
+    pos base uni0C36_uni0C42.abvs
+        <anchor 253 -20> mark @b.uni0C56;
+    pos base uni0C37_uni0C42.abvs
+        <anchor 246 -30> mark @b.uni0C56;
+    pos base uni0C38_uni0C42.abvs
+        <anchor 236 -20> mark @b.uni0C56;
+    pos base uni0C39_uni0C42.abvs
+        <anchor 256 -20> mark @b.uni0C56;
+    pos base uni0C15_uni0C42_uni0C37_uni0C4D
+        <anchor 186 -220> mark @b.uni0C56;
+    pos base uni0C15_uni0C46.abvs
+        <anchor 185 -21> mark @b.uni0C56;
+    pos base uni0C16_uni0C46.abvs
+        <anchor 246 -80> mark @b.uni0C56;
+    pos base uni0C17_uni0C46.abvs
+        <anchor 212 -16> mark @b.uni0C56;
+    pos base uni0C18_uni0C46.abvs
+        <anchor 236 -90> mark @b.uni0C56;
+    pos base uni0C19_uni0C46.abvs
+        <anchor 198 -20> mark @b.uni0C56;
+    pos base uni0C1A_uni0C46.abvs
+        <anchor 272 -3> mark @b.uni0C56;
+    pos base uni0C1B_uni0C46.abvs
+        <anchor 276 -80> mark @b.uni0C56;
+    pos base uni0C1C_uni0C46.abvs
+        <anchor 226 -20> mark @b.uni0C56;
+    pos base uni0C1D_uni0C46.abvs
+        <anchor 188 -20> mark @b.uni0C56;
+    pos base uni0C1E_uni0C46.abvs
+        <anchor 168 -30> mark @b.uni0C56;
+    pos base uni0C1F_uni0C46.abvs
+        <anchor 248 -20> mark @b.uni0C56;
+    pos base uni0C20_uni0C46.abvs
+        <anchor 184 -20> mark @b.uni0C56;
+    pos base uni0C21_uni0C46.abvs
+        <anchor 220 -20> mark @b.uni0C56;
+    pos base uni0C22_uni0C46.abvs
+        <anchor 226 -90> mark @b.uni0C56;
+    pos base uni0C23_uni0C46.abvs
+        <anchor 296 -20> mark @b.uni0C56;
+    pos base uni0C24_uni0C46.abvs
+        <anchor 236 -20> mark @b.uni0C56;
+    pos base uni0C25_uni0C46.abvs
+        <anchor 226 -90> mark @b.uni0C56;
+    pos base uni0C26_uni0C46.abvs
+        <anchor 226 -20> mark @b.uni0C56;
+    pos base uni0C27_uni0C46.abvs
+        <anchor 236 -80> mark @b.uni0C56;
+    pos base uni0C28_uni0C46.abvs
+        <anchor 223 -20> mark @b.uni0C56;
+    pos base uni0C2A_uni0C46.abvs
+        <anchor 246 -20> mark @b.uni0C56;
+    pos base uni0C2B_uni0C46.abvs
+        <anchor 246 -80> mark @b.uni0C56;
+    pos base uni0C2C_uni0C46.abvs
+        <anchor 219 -20> mark @b.uni0C56;
+    pos base uni0C2D_uni0C46.abvs
+        <anchor 236 -80> mark @b.uni0C56;
+    pos base uni0C2E_uni0C46.abvs
+        <anchor 236 -20> mark @b.uni0C56;
+    pos base uni0C2F_uni0C46.abvs
+        <anchor 326 -20> mark @b.uni0C56;
+    pos base uni0C30_uni0C46.abvs
+        <anchor 186 -23> mark @b.uni0C56;
+    pos base uni0C31_uni0C46.abvs
+        <anchor 249 -20> mark @b.uni0C56;
+    pos base uni0C32_uni0C46.abvs
+        <anchor 223 -20> mark @b.uni0C56;
+    pos base uni0C33_uni0C46.abvs
+        <anchor 189 -23> mark @b.uni0C56;
+    pos base uni0C35_uni0C46.abvs
+        <anchor 236 -20> mark @b.uni0C56;
+    pos base uni0C36_uni0C46.abvs
+        <anchor 254 -20> mark @b.uni0C56;
+    pos base uni0C37_uni0C46.abvs
+        <anchor 256 -30> mark @b.uni0C56;
+    pos base uni0C38_uni0C46.abvs
+        <anchor 253 -18> mark @b.uni0C56;
+    pos base uni0C39_uni0C46.abvs
+        <anchor 256 -20> mark @b.uni0C56;
+    pos base uni0C15_uni0C46_uni0C37_uni0C4D
+        <anchor 186 -220> mark @b.uni0C56;
+    pos base uni0C15_uni0C47.abvs
+        <anchor 186 -20> mark @b.uni0C56;
+    pos base uni0C16_uni0C47.abvs
+        <anchor 251 -82> mark @b.uni0C56;
+    pos base uni0C17_uni0C47.abvs
+        <anchor 212 -16> mark @b.uni0C56;
+    pos base uni0C18_uni0C47.abvs
+        <anchor 235 -100> mark @b.uni0C56;
+    pos base uni0C19_uni0C47.abvs
+        <anchor 196 -20> mark @b.uni0C56;
+    pos base uni0C1A_uni0C47.abvs
+        <anchor 276 -20> mark @b.uni0C56;
+    pos base uni0C1B_uni0C47.abvs
+        <anchor 276 -80> mark @b.uni0C56;
+    pos base uni0C1C_uni0C47.abvs
+        <anchor 236 -20> mark @b.uni0C56;
+    pos base uni0C1D_uni0C47.abvs
+        <anchor 196 -20> mark @b.uni0C56;
+    pos base uni0C1E_uni0C47.abvs
+        <anchor 166 -40> mark @b.uni0C56;
+    pos base uni0C1F_uni0C47.abvs
+        <anchor 256 -20> mark @b.uni0C56;
+    pos base uni0C20_uni0C47.abvs
+        <anchor 186 -20> mark @b.uni0C56;
+    pos base uni0C21_uni0C47.abvs
+        <anchor 226 -20> mark @b.uni0C56;
+    pos base uni0C22_uni0C47.abvs
+        <anchor 236 -80> mark @b.uni0C56;
+    pos base uni0C23_uni0C47.abvs
+        <anchor 276 -20> mark @b.uni0C56;
+    pos base uni0C24_uni0C47.abvs
+        <anchor 236 -20> mark @b.uni0C56;
+    pos base uni0C25_uni0C47.abvs
+        <anchor 236 -80> mark @b.uni0C56;
+    pos base uni0C26_uni0C47.abvs
+        <anchor 236 -20> mark @b.uni0C56;
+    pos base uni0C27_uni0C47.abvs
+        <anchor 236 -80> mark @b.uni0C56;
+    pos base uni0C28_uni0C47.abvs
+        <anchor 246 -20> mark @b.uni0C56;
+    pos base uni0C2A_uni0C47.abvs
+        <anchor 256 -20> mark @b.uni0C56;
+    pos base uni0C2B_uni0C47.abvs
+        <anchor 256 -70> mark @b.uni0C56;
+    pos base uni0C2C_uni0C47.abvs
+        <anchor 216 -20> mark @b.uni0C56;
+    pos base uni0C2D_uni0C47.abvs
+        <anchor 216 -90> mark @b.uni0C56;
+    pos base uni0C2E_uni0C47.abvs
+        <anchor 236 -20> mark @b.uni0C56;
+    pos base uni0C2F_uni0C47.abvs
+        <anchor 316 -20> mark @b.uni0C56;
+    pos base uni0C30_uni0C47.abvs
+        <anchor 186 -20> mark @b.uni0C56;
+    pos base uni0C31_uni0C47.abvs
+        <anchor 256 -20> mark @b.uni0C56;
+    pos base uni0C32_uni0C47.abvs
+        <anchor 226 -20> mark @b.uni0C56;
+    pos base uni0C33_uni0C47.abvs
+        <anchor 186 -20> mark @b.uni0C56;
+    pos base uni0C35_uni0C47.abvs
+        <anchor 236 -20> mark @b.uni0C56;
+    pos base uni0C36_uni0C47.abvs
+        <anchor 256 -20> mark @b.uni0C56;
+    pos base uni0C37_uni0C47.abvs
+        <anchor 246 -20> mark @b.uni0C56;
+    pos base uni0C38_uni0C47.abvs
+        <anchor 226 -20> mark @b.uni0C56;
+    pos base uni0C39_uni0C47.abvs
+        <anchor 246 -20> mark @b.uni0C56;
+    pos base uni0C15_uni0C47_uni0C37_uni0C4D
+        <anchor 186 -230> mark @b.uni0C56;
+    pos base uni0C15_uni0C48.abvs
+        <anchor 186 -213> mark @b.uni0C56;
+    pos base uni0C16_uni0C48.abvs
+        <anchor 256 -213> mark @b.uni0C56;
+    pos base uni0C17_uni0C48.abvs
+        <anchor 212 -226> mark @b.uni0C56;
+    pos base uni0C18_uni0C48.abvs
+        <anchor 246 -210> mark @b.uni0C56;
+    pos base uni0C19_uni0C48.abvs
+        <anchor 206 -220> mark @b.uni0C56;
+    pos base uni0C1A_uni0C48.abvs
+        <anchor 286 -210> mark @b.uni0C56;
+    pos base uni0C1B_uni0C48.abvs
+        <anchor 276 -210> mark @b.uni0C56;
+    pos base uni0C1C_uni0C48.abvs
+        <anchor 246 -210> mark @b.uni0C56;
+    pos base uni0C1D_uni0C48.abvs
+        <anchor 246 -210> mark @b.uni0C56;
+    pos base uni0C1E_uni0C48.abvs
+        <anchor 226 -210> mark @b.uni0C56;
+    pos base uni0C1F_uni0C48.abvs
+        <anchor 256 -210> mark @b.uni0C56;
+    pos base uni0C20_uni0C48.abvs
+        <anchor 226 -210> mark @b.uni0C56;
+    pos base uni0C21_uni0C48.abvs
+        <anchor 256 -210> mark @b.uni0C56;
+    pos base uni0C22_uni0C48.abvs
+        <anchor 256 -210> mark @b.uni0C56;
+    pos base uni0C23_uni0C48.abvs
+        <anchor 326 -210> mark @b.uni0C56;
+    pos base uni0C24_uni0C48.abvs
+        <anchor 256 -210> mark @b.uni0C56;
+    pos base uni0C25_uni0C48.abvs
+        <anchor 256 -210> mark @b.uni0C56;
+    pos base uni0C26_uni0C48.abvs
+        <anchor 256 -210> mark @b.uni0C56;
+    pos base uni0C27_uni0C48.abvs
+        <anchor 256 -210> mark @b.uni0C56;
+    pos base uni0C28_uni0C48.abvs
+        <anchor 256 -210> mark @b.uni0C56;
+    pos base uni0C2A_uni0C48.abvs
+        <anchor 266 -210> mark @b.uni0C56;
+    pos base uni0C2B_uni0C48.abvs
+        <anchor 256 -210> mark @b.uni0C56;
+    pos base uni0C2C_uni0C48.abvs
+        <anchor 256 -210> mark @b.uni0C56;
+    pos base uni0C2D_uni0C48.abvs
+        <anchor 256 -210> mark @b.uni0C56;
+    pos base uni0C2E_uni0C48.abvs
+        <anchor 256 -210> mark @b.uni0C56;
+    pos base uni0C2F_uni0C48.abvs
+        <anchor 276 -210> mark @b.uni0C56;
+    pos base uni0C30_uni0C48.abvs
+        <anchor 246 -210> mark @b.uni0C56;
+    pos base uni0C31_uni0C48.abvs
+        <anchor 276 -210> mark @b.uni0C56;
+    pos base uni0C32_uni0C48.abvs
+        <anchor 286 -210> mark @b.uni0C56;
+    pos base uni0C33_uni0C48.abvs
+        <anchor 246 -210> mark @b.uni0C56;
+    pos base uni0C35_uni0C48.abvs
+        <anchor 286 -210> mark @b.uni0C56;
+    pos base uni0C36_uni0C48.abvs
+        <anchor 246 -210> mark @b.uni0C56;
+    pos base uni0C37_uni0C48.abvs
+        <anchor 256 -210> mark @b.uni0C56;
+    pos base uni0C38_uni0C48.abvs
+        <anchor 276 -210> mark @b.uni0C56;
+    pos base uni0C39_uni0C48.abvs
+        <anchor 286 -210> mark @b.uni0C56;
+    pos base uni0C15_uni0C46_uni0C56_uni0C37
+        <anchor 236 -410> mark @b.uni0C56;
+    pos base uni0C15_uni0C4A.abvs
+        <anchor 185 -17> mark @b.uni0C56;
+    pos base uni0C16_uni0C4A.abvs
+        <anchor 251 -78> mark @b.uni0C56;
+    pos base uni0C17_uni0C4A.abvs
+        <anchor 212 -16> mark @b.uni0C56;
+    pos base uni0C18_uni0C4A.abvs
+        <anchor 236 -90> mark @b.uni0C56;
+    pos base uni0C19_uni0C4A.abvs
+        <anchor 196 -20> mark @b.uni0C56;
+    pos base uni0C1A_uni0C4A.abvs
+        <anchor 266 -20> mark @b.uni0C56;
+    pos base uni0C1B_uni0C4A.abvs
+        <anchor 276 -80> mark @b.uni0C56;
+    pos base uni0C1C_uni0C4A.abvs
+        <anchor 226 -20> mark @b.uni0C56;
+    pos base uni0C1D_uni0C4A.abvs
+        <anchor 186 -40> mark @b.uni0C56;
+    pos base uni0C1E_uni0C4A.abvs
+        <anchor 166 -40> mark @b.uni0C56;
+    pos base uni0C1F_uni0C4A.abvs
+        <anchor 256 -20> mark @b.uni0C56;
+    pos base uni0C20_uni0C4A.abvs
+        <anchor 186 -20> mark @b.uni0C56;
+    pos base uni0C21_uni0C4A.abvs
+        <anchor 218 -20> mark @b.uni0C56;
+    pos base uni0C22_uni0C4A.abvs
+        <anchor 236 -80> mark @b.uni0C56;
+    pos base uni0C23_uni0C4A.abvs
+        <anchor 306 -20> mark @b.uni0C56;
+    pos base uni0C24_uni0C4A.abvs
+        <anchor 236 -20> mark @b.uni0C56;
+    pos base uni0C25_uni0C4A.abvs
+        <anchor 236 -80> mark @b.uni0C56;
+    pos base uni0C26_uni0C4A.abvs
+        <anchor 226 -20> mark @b.uni0C56;
+    pos base uni0C27_uni0C4A.abvs
+        <anchor 236 -80> mark @b.uni0C56;
+    pos base uni0C28_uni0C4A.abvs
+        <anchor 226 -20> mark @b.uni0C56;
+    pos base uni0C2A_uni0C4A.abvs
+        <anchor 236 -20> mark @b.uni0C56;
+    pos base uni0C2B_uni0C4A.abvs
+        <anchor 246 -80> mark @b.uni0C56;
+    pos base uni0C2C_uni0C4A.abvs
+        <anchor 226 -20> mark @b.uni0C56;
+    pos base uni0C2D_uni0C4A.abvs
+        <anchor 236 -80> mark @b.uni0C56;
+    pos base uni0C2E_uni0C4A.abvs
+        <anchor 246 -20> mark @b.uni0C56;
+    pos base uni0C2F_uni0C4A.abvs
+        <anchor 326 -20> mark @b.uni0C56;
+    pos base uni0C30_uni0C4A.abvs
+        <anchor 186 -20> mark @b.uni0C56;
+    pos base uni0C31_uni0C4A.abvs
+        <anchor 256 -20> mark @b.uni0C56;
+    pos base uni0C32_uni0C4A.abvs
+        <anchor 226 -20> mark @b.uni0C56;
+    pos base uni0C33_uni0C4A.abvs
+        <anchor 186 -20> mark @b.uni0C56;
+    pos base uni0C35_uni0C4A.abvs
+        <anchor 236 -20> mark @b.uni0C56;
+    pos base uni0C36_uni0C4A.abvs
+        <anchor 256 -20> mark @b.uni0C56;
+    pos base uni0C37_uni0C4A.abvs
+        <anchor 246 -40> mark @b.uni0C56;
+    pos base uni0C38_uni0C4A.abvs
+        <anchor 236 -20> mark @b.uni0C56;
+    pos base uni0C39_uni0C4A.abvs
+        <anchor 246 -20> mark @b.uni0C56;
+    pos base uni0C15_uni0C4A_uni0C37_uni0C4D
+        <anchor 176 -230> mark @b.uni0C56;
+    pos base uni0C15_uni0C4B.abvs
+        <anchor 186 -20> mark @b.uni0C56;
+    pos base uni0C16_uni0C4B.abvs
+        <anchor 248 -76> mark @b.uni0C56;
+    pos base uni0C17_uni0C4B.abvs
+        <anchor 212 -16> mark @b.uni0C56;
+    pos base uni0C18_uni0C4B.abvs
+        <anchor 236 -90> mark @b.uni0C56;
+    pos base uni0C19_uni0C4B.abvs
+        <anchor 196 -20> mark @b.uni0C56;
+    pos base uni0C1A_uni0C4B.abvs
+        <anchor 256 -20> mark @b.uni0C56;
+    pos base uni0C1B_uni0C4B.abvs
+        <anchor 276 -79> mark @b.uni0C56;
+    pos base uni0C1C_uni0C4B.abvs
+        <anchor 226 -20> mark @b.uni0C56;
+    pos base uni0C1D_uni0C4B.abvs
+        <anchor 366 -40> mark @b.uni0C56;
+    pos base uni0C1E_uni0C4B.abvs
+        <anchor 166 -30> mark @b.uni0C56;
+    pos base uni0C1F_uni0C4B.abvs
+        <anchor 256 -20> mark @b.uni0C56;
+    pos base uni0C20_uni0C4B.abvs
+        <anchor 184 -20> mark @b.uni0C56;
+    pos base uni0C21_uni0C4B.abvs
+        <anchor 220 -20> mark @b.uni0C56;
+    pos base uni0C22_uni0C4B.abvs
+        <anchor 236 -80> mark @b.uni0C56;
+    pos base uni0C23_uni0C4B.abvs
+        <anchor 286 -20> mark @b.uni0C56;
+    pos base uni0C24_uni0C4B.abvs
+        <anchor 210 -17> mark @b.uni0C56;
+    pos base uni0C25_uni0C4B.abvs
+        <anchor 236 -73> mark @b.uni0C56;
+    pos base uni0C26_uni0C4B.abvs
+        <anchor 226 -20> mark @b.uni0C56;
+    pos base uni0C27_uni0C4B.abvs
+        <anchor 236 -80> mark @b.uni0C56;
+    pos base uni0C28_uni0C4B.abvs
+        <anchor 216 -20> mark @b.uni0C56;
+    pos base uni0C2A_uni0C4B.abvs
+        <anchor 256 -20> mark @b.uni0C56;
+    pos base uni0C2B_uni0C4B.abvs
+        <anchor 246 -80> mark @b.uni0C56;
+    pos base uni0C2C_uni0C4B.abvs
+        <anchor 226 -20> mark @b.uni0C56;
+    pos base uni0C2D_uni0C4B.abvs
+        <anchor 236 -80> mark @b.uni0C56;
+    pos base uni0C2E_uni0C4B.abvs
+        <anchor 236 -20> mark @b.uni0C56;
+    pos base uni0C2F_uni0C4B.abvs
+        <anchor 326 -20> mark @b.uni0C56;
+    pos base uni0C30_uni0C4B.abvs
+        <anchor 186 -20> mark @b.uni0C56;
+    pos base uni0C31_uni0C4B.abvs
+        <anchor 256 -20> mark @b.uni0C56;
+    pos base uni0C32_uni0C4B.abvs
+        <anchor 343 -15> mark @b.uni0C56;
+    pos base uni0C33_uni0C4B.abvs
+        <anchor 186 -20> mark @b.uni0C56;
+    pos base uni0C35_uni0C4B.abvs
+        <anchor 236 -20> mark @b.uni0C56;
+    pos base uni0C36_uni0C4B.abvs
+        <anchor 256 -20> mark @b.uni0C56;
+    pos base uni0C37_uni0C4B.abvs
+        <anchor 256 -40> mark @b.uni0C56;
+    pos base uni0C38_uni0C4B.abvs
+        <anchor 236 -20> mark @b.uni0C56;
+    pos base uni0C39_uni0C4B.abvs
+        <anchor 246 -20> mark @b.uni0C56;
+    pos base uni0C15_uni0C4B_uni0C37_uni0C4D
+        <anchor 176 -230> mark @b.uni0C56;
+    pos base uni0C15_uni0C4C.abvs
+        <anchor 186 -20> mark @b.uni0C56;
+    pos base uni0C16_uni0C4C.abvs
+        <anchor 250 -80> mark @b.uni0C56;
+    pos base uni0C17_uni0C4C.abvs
+        <anchor 192 -16> mark @b.uni0C56;
+    pos base uni0C18_uni0C4C.abvs
+        <anchor 236 -90> mark @b.uni0C56;
+    pos base uni0C19_uni0C4C.abvs
+        <anchor 196 -20> mark @b.uni0C56;
+    pos base uni0C1A_uni0C4C.abvs
+        <anchor 256 -20> mark @b.uni0C56;
+    pos base uni0C1B_uni0C4C.abvs
+        <anchor 276 -80> mark @b.uni0C56;
+    pos base uni0C1C_uni0C4C.abvs
+        <anchor 226 -20> mark @b.uni0C56;
+    pos base uni0C1D_uni0C4C.abvs
+        <anchor 186 -20> mark @b.uni0C56;
+    pos base uni0C1E_uni0C4C.abvs
+        <anchor 166 -40> mark @b.uni0C56;
+    pos base uni0C1F_uni0C4C.abvs
+        <anchor 256 -20> mark @b.uni0C56;
+    pos base uni0C20_uni0C4C.abvs
+        <anchor 186 -20> mark @b.uni0C56;
+    pos base uni0C21_uni0C4C.abvs
+        <anchor 218 -30> mark @b.uni0C56;
+    pos base uni0C22_uni0C4C.abvs
+        <anchor 236 -70> mark @b.uni0C56;
+    pos base uni0C23_uni0C4C.abvs
+        <anchor 286 -20> mark @b.uni0C56;
+    pos base uni0C24_uni0C4C.abvs
+        <anchor 236 -20> mark @b.uni0C56;
+    pos base uni0C25_uni0C4C.abvs
+        <anchor 236 -74> mark @b.uni0C56;
+    pos base uni0C26_uni0C4C.abvs
+        <anchor 226 -20> mark @b.uni0C56;
+    pos base uni0C27_uni0C4C.abvs
+        <anchor 236 -80> mark @b.uni0C56;
+    pos base uni0C28_uni0C4C.abvs
+        <anchor 236 -20> mark @b.uni0C56;
+    pos base uni0C2A_uni0C4C.abvs
+        <anchor 252 -20> mark @b.uni0C56;
+    pos base uni0C2B_uni0C4C.abvs
+        <anchor 246 -80> mark @b.uni0C56;
+    pos base uni0C2C_uni0C4C.abvs
+        <anchor 216 -20> mark @b.uni0C56;
+    pos base uni0C2D_uni0C4C.abvs
+        <anchor 240 -73> mark @b.uni0C56;
+    pos base uni0C2E_uni0C4C.abvs
+        <anchor 226 -20> mark @b.uni0C56;
+    pos base uni0C2F_uni0C4C.abvs
+        <anchor 320 -20> mark @b.uni0C56;
+    pos base uni0C30_uni0C4C.abvs
+        <anchor 183 -20> mark @b.uni0C56;
+    pos base uni0C31_uni0C4C.abvs
+        <anchor 256 -20> mark @b.uni0C56;
+    pos base uni0C32_uni0C4C.abvs
+        <anchor 226 -20> mark @b.uni0C56;
+    pos base uni0C33_uni0C4C.abvs
+        <anchor 186 -20> mark @b.uni0C56;
+    pos base uni0C35_uni0C4C.abvs
+        <anchor 236 -20> mark @b.uni0C56;
+    pos base uni0C36_uni0C4C.abvs
+        <anchor 256 -20> mark @b.uni0C56;
+    pos base uni0C37_uni0C4C.abvs
+        <anchor 256 -50> mark @b.uni0C56;
+    pos base uni0C38_uni0C4C.abvs
+        <anchor 322 -27> mark @b.uni0C56;
+    pos base uni0C39_uni0C4C.abvs
+        <anchor 256 -20> mark @b.uni0C56;
+    pos base uni0C15_uni0C4C_uni0C37_uni0C4D
+        <anchor 186 -228> mark @b.uni0C56;
+    pos base uni0C15_uni0C4D.abvs
+        <anchor 186 -17> mark @b.uni0C56;
+    pos base uni0C16_uni0C4D.abvs
+        <anchor 251 -77> mark @b.uni0C56;
+    pos base uni0C17_uni0C4D.abvs
+        <anchor 192 -16> mark @b.uni0C56;
+    pos base uni0C18_uni0C4D.abvs
+        <anchor 236 -93> mark @b.uni0C56;
+    pos base uni0C19_uni0C4D.abvs
+        <anchor 196 -17> mark @b.uni0C56;
+    pos base uni0C1A_uni0C4D.abvs
+        <anchor 266 -17> mark @b.uni0C56;
+    pos base uni0C1B_uni0C4D.abvs
+        <anchor 276 -77> mark @b.uni0C56;
+    pos base uni0C1C_uni0C4D.abvs
+        <anchor 226 -17> mark @b.uni0C56;
+    pos base uni0C1D_uni0C4D.abvs
+        <anchor 186 -17> mark @b.uni0C56;
+    pos base uni0C1E_uni0C4D.abvs
+        <anchor 166 -37> mark @b.uni0C56;
+    pos base uni0C1F_uni0C4D.abvs
+        <anchor 256 -17> mark @b.uni0C56;
+    pos base uni0C20_uni0C4D.abvs
+        <anchor 186 -17> mark @b.uni0C56;
+    pos base uni0C21_uni0C4D.abvs
+        <anchor 218 -17> mark @b.uni0C56;
+    pos base uni0C22_uni0C4D.abvs
+        <anchor 232 -77> mark @b.uni0C56;
+    pos base uni0C23_uni0C4D.abvs
+        <anchor 266 -17> mark @b.uni0C56;
+    pos base uni0C24_uni0C4D.abvs
+        <anchor 236 -17> mark @b.uni0C56;
+    pos base uni0C25_uni0C4D.abvs
+        <anchor 236 -77> mark @b.uni0C56;
+    pos base uni0C26_uni0C4D.abvs
+        <anchor 226 -17> mark @b.uni0C56;
+    pos base uni0C27_uni0C4D.abvs
+        <anchor 236 -77> mark @b.uni0C56;
+    pos base uni0C28_uni0C4D.abvs
+        <anchor 216 -17> mark @b.uni0C56;
+    pos base uni0C2A_uni0C4D.abvs
+        <anchor 246 -17> mark @b.uni0C56;
+    pos base uni0C2B_uni0C4D.abvs
+        <anchor 246 -77> mark @b.uni0C56;
+    pos base uni0C2C_uni0C4D.abvs
+        <anchor 216 -17> mark @b.uni0C56;
+    pos base uni0C2D_uni0C4D.abvs
+        <anchor 236 -77> mark @b.uni0C56;
+    pos base uni0C2E_uni0C4D.abvs
+        <anchor 226 -17> mark @b.uni0C56;
+    pos base uni0C2F_uni0C4D.abvs
+        <anchor 336 -17> mark @b.uni0C56;
+    pos base uni0C30_uni0C4D.abvs
+        <anchor 186 -17> mark @b.uni0C56;
+    pos base uni0C31_uni0C4D.abvs
+        <anchor 246 -17> mark @b.uni0C56;
+    pos base uni0C32_uni0C4D.abvs
+        <anchor 225 -19> mark @b.uni0C56;
+    pos base uni0C33_uni0C4D.abvs
+        <anchor 186 -17> mark @b.uni0C56;
+    pos base uni0C35_uni0C4D.abvs
+        <anchor 236 -17> mark @b.uni0C56;
+    pos base uni0C36_uni0C4D.abvs
+        <anchor 256 -17> mark @b.uni0C56;
+    pos base uni0C37_uni0C4D.abvs
+        <anchor 269 -30> mark @b.uni0C56;
+    pos base uni0C38_uni0C4D.abvs
+        <anchor 226 -17> mark @b.uni0C56;
+    pos base uni0C39_uni0C4D.abvs
+        <anchor 256 -17> mark @b.uni0C56;
+    pos base uni0C15_uni0C37_uni0C4D.akhn_un
+        <anchor 186 -227> mark @b.uni0C56;
+    pos base uni0C15_uni0C37_uni0C4D.akhn
+        <anchor 182 -227> mark @b.uni0C56;
+    pos base uni0C26_uni0C30_uni0C4D.blwf.bl
+        <anchor 252 -206> mark @b.uni0C56;
+    pos base uni0C34_uni0C3E.abvs
+        <anchor 248 -12> mark @b.uni0C56;
+    pos base uni0C34_uni0C3F.abvs
+        <anchor 248 -12> mark @b.uni0C56;
+    pos base uni0C34_uni0C40.abvs
+        <anchor 248 -12> mark @b.uni0C56;
+    pos base uni0C34_uni0C41.abvs
+        <anchor 248 -12> mark @b.uni0C56;
+    pos base uni0C34_uni0C42.abvs
+        <anchor 248 -12> mark @b.uni0C56;
+    pos base uni0C34_uni0C46.abvs
+        <anchor 248 -12> mark @b.uni0C56;
+    pos base uni0C34_uni0C47.abvs
+        <anchor 248 -12> mark @b.uni0C56;
+    pos base uni0C34_uni0C48.abvs
+        <anchor 248 -12> mark @b.uni0C56;
+    pos base uni0C34_uni0C4A.abvs
+        <anchor 248 -12> mark @b.uni0C56;
+    pos base uni0C34_uni0C4B.abvs
+        <anchor 248 -12> mark @b.uni0C56;
+    pos base uni0C34_uni0C4C.abvs
+        <anchor 248 -12> mark @b.uni0C56;
+    pos base uni0C34_uni0C4D.abvs
+        <anchor 248 -12> mark @b.uni0C56;
+    pos base uni0C5A_uni0C3E.abvs
+        <anchor 231 -20> mark @b.uni0C56;
+    pos base uni0C5A_uni0C3F.abvs
+        <anchor 236 -20> mark @b.uni0C56;
+    pos base uni0C5A_uni0C40.abvs
+        <anchor 226 -20> mark @b.uni0C56;
+    pos base uni0C5A_uni0C41.abvs
+        <anchor 236 -20> mark @b.uni0C56;
+    pos base uni0C5A_uni0C42.abvs
+        <anchor 226 -20> mark @b.uni0C56;
+    pos base uni0C5A_uni0C46.abvs
+        <anchor 226 -20> mark @b.uni0C56;
+    pos base uni0C5A_uni0C47.abvs
+        <anchor 236 -20> mark @b.uni0C56;
+    pos base uni0C5A_uni0C46_uni0C56.abvs
+        <anchor 256 -210> mark @b.uni0C56;
+    pos base uni0C5A_uni0C4A.abvs
+        <anchor 226 -20> mark @b.uni0C56;
+    pos base uni0C5A_uni0C4B.abvs
+        <anchor 226 -20> mark @b.uni0C56;
+    pos base uni0C5A_uni0C4C.abvs
+        <anchor 226 -20> mark @b.uni0C56;
+    pos base uni0C5A_uni0C4D.abvs
+        <anchor 226 -17> mark @b.uni0C56;
+  } blwm_telu_1;
+
+
+  lookup blwm_telu_2 {
+  # GPOS lookup 4, type 4 (MarkToBase attachment)
+    markClass uni0C43 <anchor -300 -225> @b.uni0C43;
+    markClass uni0C44 <anchor -218 37> @b.uni0C43;
+    markClass glyph728 <anchor -197 -78> @b.uni0C43;
+    markClass glyph734 <anchor -361 -178> @b.uni0C43;
+    markClass glyph735 <anchor -548 -141> @b.uni0C43;
+    markClass glyph739 <anchor -608 -159> @b.uni0C43;
+    markClass glyph1217 <anchor -280 -177> @b.uni0C43;
+    pos base uni0C16
+        <anchor 254 -95> mark @b.uni0C43;
+    pos base uni0C24
+        <anchor 213 -162> mark @b.uni0C43;
+    pos base uni0C30
+        <anchor 182 -102> mark @b.uni0C43;
+    pos base uni0C41
+        <anchor -261 -23> mark @b.uni0C43;
+    pos base uni0C24_uni0C3E.abvs
+        <anchor 149 -144> mark @b.uni0C43;
+    pos base uni0C30_uni0C41.abvs
+        <anchor 306 -95> mark @b.uni0C43;
+    pos base uni0C28_uni0C42.abvs
+        <anchor 664 -38> mark @b.uni0C43;
+    pos base uni0C2A_uni0C42.abvs
+        <anchor 128 -196> mark @b.uni0C43;
+    pos base uni0C2C_uni0C42.abvs
+        <anchor 151 -130> mark @b.uni0C43;
+    pos base uni0C30_uni0C42.abvs
+        <anchor 92 -184> mark @b.uni0C43;
+    pos base uni0C17_uni0C46.abvs
+        <anchor 212 -28> mark @b.uni0C43;
+    pos base uni0C1A_uni0C46.abvs
+        <anchor 278 92> mark @b.uni0C43;
+    pos base uni0C1C_uni0C46.abvs
+        <anchor 284 -40> mark @b.uni0C43;
+    pos base uni0C1F_uni0C46.abvs
+        <anchor 298 -49> mark @b.uni0C43;
+    pos base uni0C21_uni0C46.abvs
+        <anchor 283 -61> mark @b.uni0C43;
+    pos base uni0C36_uni0C46.abvs
+        <anchor 292 -43> mark @b.uni0C43;
+    pos base uni0C38_uni0C46.abvs
+        <anchor 331 -66> mark @b.uni0C43;
+    pos base uni0C38_uni0C47.abvs
+        <anchor 165 -6> mark @b.uni0C43;
+    pos base uni0C15_uni0C4B.abvs
+        <anchor 194 -55> mark @b.uni0C43;
+    pos base uni0C1C_uni0C4B.abvs
+        <anchor 286 -22> mark @b.uni0C43;
+    pos base uni0C26_uni0C30_uni0C4D.blwf.bl
+        <anchor 50 -254> mark @b.uni0C43;
+  } blwm_telu_2;
+
+
+  lookup blwm_telu_3 {
+  # GPOS lookup 5, type 4 (MarkToBase attachment)
+    markClass uni0C56 <anchor -193 21> @b.uni0C56_2;
+    markClass uni0C1F_uni0C4D.blwf_uni0C30_un <anchor -258 7> @b.uni0C56_2;
+    markClass glyph734 <anchor -347 -178> @b.uni0C56_2;
+    markClass glyph737 <anchor -383 -62> @b.uni0C56_2;
+    markClass glyph739 <anchor -354 -243> @b.uni0C56_2;
+    markClass glyph742 <anchor -361 -345> @b.uni0C56_2;
+    markClass glyph1217 <anchor -381 -192> @b.uni0C56_2;
+    markClass glyph1218 <anchor -274 165> @b.uni0C56_2;
+    markClass glyph1246 <anchor -275 -35> @b.uni0C56_2;
+    pos base uni0C1A_uni0C3E.abvs
+        <anchor 324 -116> mark @b.uni0C56_2;
+    pos base uni0C30_uni0C3E.abvs
+        <anchor 164 -213> mark @b.uni0C56_2;
+    pos base uni0C15_uni0C3F_uni0C37_uni0C4D
+        <anchor 218 -74> mark @b.uni0C56_2;
+    pos base uni0C15_uni0C46.abvs
+        <anchor 183 -41> mark @b.uni0C56_2;
+    pos base uni0C2C_uni0C46.abvs
+        <anchor 218 -61> mark @b.uni0C56_2;
+    pos base uni0C30_uni0C46.abvs
+        <anchor 154 -112> mark @b.uni0C56_2;
+    pos base uni0C38_uni0C46.abvs
+        <anchor 250 -60> mark @b.uni0C56_2;
+    pos base uni0C38_uni0C4C.abvs
+        <anchor 223 -41> mark @b.uni0C56_2;
+    pos base uni0C32_uni0C4D.abvs
+        <anchor 477 -253> mark @b.uni0C56_2;
+    pos base uni0C24_uni0C30_uni0C4D.blwf.bl
+        <anchor 296 -32> mark @b.uni0C56_2;
+  } blwm_telu_3;
+
+
+} blwm;
+
