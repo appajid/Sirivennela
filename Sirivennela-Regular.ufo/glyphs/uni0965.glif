@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni0965" format="2">
+  <advance width="332"/>
+  <unicode hex="0965"/>
+  <note>
+uni0965
+</note>
+  <outline>
+    <contour>
+      <point x="280" y="406" type="line"/>
+      <point x="230" y="406" type="line"/>
+      <point x="162" y="0" type="line"/>
+      <point x="212" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="122" y="406" type="line"/>
+      <point x="73" y="406" type="line"/>
+      <point x="5" y="0" type="line"/>
+      <point x="54" y="0" type="line"/>
+    </contour>
+  </outline>
+</glyph>
