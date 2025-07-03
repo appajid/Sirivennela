@@ -6,13 +6,5 @@
 uni200D
 </note>
   <outline>
-    <contour>
-      <point x="30" y="468" type="line"/>
-      <point x="114" y="468" type="line"/>
-      <point x="114" y="496" type="line"/>
-      <point x="0" y="496" type="line"/>
-      <point x="0" y="-177" type="line"/>
-      <point x="30" y="-177" type="line"/>
-    </contour>
   </outline>
 </glyph>
