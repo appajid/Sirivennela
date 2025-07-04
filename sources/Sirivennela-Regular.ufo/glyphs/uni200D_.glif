@@ -1,9 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph name="uni0000" format="2">
+<glyph name="uni200D" format="2">
   <advance width="0"/>
-  <unicode hex="001D"/>
+  <unicode hex="200D"/>
   <note>
-uni0000
+uni200D
 </note>
   <outline>
   </outline>
