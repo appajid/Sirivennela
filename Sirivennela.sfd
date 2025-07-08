@@ -2403,7 +2403,7 @@ StemSnapH 10 [21 23 28]
 StemSnapV 10 [52 60 65]
 EndPrivate
 AnchorClass2: "Anchor-0" "'blwm' Below Base Mark in Telugu lookup 1 anchor 0" "Anchor-1" "'blwm' Below Base Mark in Telugu lookup 1 anchor 1" "Anchor-2" "'blwm' Below Base Mark in Telugu lookup 1 anchor 2"
-BeginChars: 1307 1306
+BeginChars: 1312 1306
 
 StartChar: .notdef
 Encoding: 229 -1 0
