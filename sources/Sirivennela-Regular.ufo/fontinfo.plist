@@ -139,8 +139,6 @@ OTHER DEALINGS IN THE FONT SOFTWARE.</string>
     <string>Version 1.00 February 21, 2021</string>
     <key>openTypeNameUniqueID</key>
     <string>Version 1.00 February 21, 2021;AAD;Sirivennela;2016;FL720</string>
-    <key>openTypeNameDescription</key>
-    <string>Copyright (c) 2021 by Appaji Ambarisha Darbha. All rights reserved.</string>
     <key>openTypeOS2Panose</key>
     <array>
       <integer>2</integer>
