@@ -18,6 +18,8 @@
     <string>D_.glif</string>
     <key>E</key>
     <string>E_.glif</string>
+    <key>Euro</key>
+    <string>E_uro.glif</string>
     <key>F</key>
     <string>F_.glif</string>
     <key>G</key>
@@ -108,6 +110,8 @@
     <string>copyright.glif</string>
     <key>d</key>
     <string>d.glif</string>
+    <key>degree</key>
+    <string>degree.glif</string>
     <key>divide</key>
     <string>divide.glif</string>
     <key>dollar</key>
@@ -344,6 +348,8 @@
     <string>percent.glif</string>
     <key>period</key>
     <string>period.glif</string>
+    <key>periodcentered</key>
+    <string>periodcentered.glif</string>
     <key>plus</key>
     <string>plus.glif</string>
     <key>q</key>
@@ -378,12 +384,16 @@
     <string>slash.glif</string>
     <key>space</key>
     <string>space.glif</string>
+    <key>sterling</key>
+    <string>sterling.glif</string>
     <key>t</key>
     <string>t.glif</string>
     <key>three</key>
     <string>three.glif</string>
     <key>threequarters</key>
     <string>threequarters.glif</string>
+    <key>trademark</key>
+    <string>trademark.glif</string>
     <key>two</key>
     <string>two.glif</string>
     <key>u</key>
@@ -2612,6 +2622,8 @@
     <string>x.glif</string>
     <key>y</key>
     <string>y.glif</string>
+    <key>yen</key>
+    <string>yen.glif</string>
     <key>z</key>
     <string>z.glif</string>
     <key>zero</key>
